@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Le Brief IA</title>
+    <link>https://bestoueb60.github.io/podcast-ia/</link>
+    <description>Actu IA quotidienne en français</description>
+    <language>fr-fr</language>
+    <itunes:author>Le Brief IA</itunes:author>
+    <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Le Brief IA – vendredi 2 octobre 2026</title>
+      <description>La famille GPT-6 d'OpenAI et la réponse possible d'Anthropic, l'entrée de Samsung au capital de Mistral, le report des obligations à haut risque de l'AI Act, et la montée des agents de test et de code.</description>
+      <guid isPermaLink="true">https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3" length="1512864" type="audio/mpeg"/>
+      <itunes:duration>252</itunes:duration>
+    </item>
+  </channel>
+</rss>
