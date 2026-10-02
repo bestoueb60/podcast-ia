@@ -28,6 +28,20 @@ for old in mp3s[KEEP:]:
     os.remove(old)
 mp3s = mp3s[:KEEP]
 
+def notes(date):
+    p = f"scripts/{date}-notes.html"
+    if os.path.exists(p):
+        return open(p, encoding="utf-8").read().strip()
+    p = f"scripts/{date}-sources.md"
+    if os.path.exists(p):
+        links = re.findall(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", open(p, encoding="utf-8").read())
+        if links:
+            return "<ul>" + "".join(f'<li><a href="{escape(u, {chr(34): "&quot;"})}">{escape(t)}</a></li>' for t, u in links) + "</ul>"
+    return ""
+
+def cdata(x):
+    return "<![CDATA[" + x.replace("]]>", "]]]]><![CDATA[>") + "]]>"
+
 def summary(date):
     p = f"scripts/{date}.summary.txt"
     if os.path.exists(p):
@@ -35,6 +49,7 @@ def summary(date):
     return "Actualité IA du jour."
 
 items = []
+episodes = []
 for mp3 in mp3s:
     date = os.path.basename(mp3)[:-4]
     d = datetime.strptime(date, "%Y-%m-%d")
@@ -42,9 +57,15 @@ for mp3 in mp3s:
     dur = duration(mp3, size)
     url = f"{BASE}/episodes/{date}.mp3"
     pub = format_datetime(d.replace(hour=6, tzinfo=timezone.utc))
+    summ = summary(date)
+    nts = notes(date)
+    episodes.append((date, d, nts))
+    desc = f"<p>{escape(summ)}</p>" + nts
     items.append(f"""    <item>
       <title>Le Brief IA – {long_date(d)}</title>
-      <description>{escape(summary(date))}</description>
+      <description>{cdata(desc)}</description>
+      <content:encoded>{cdata(nts or "<p>" + escape(summ) + "</p>")}</content:encoded>
+      <itunes:summary>{escape(summ)}</itunes:summary>
       <guid isPermaLink="true">{url}</guid>
       <pubDate>{pub}</pubDate>
       <enclosure url="{url}" length="{size}" type="audio/mpeg"/>
@@ -52,7 +73,7 @@ for mp3 in mp3s:
     </item>""")
 
 feed = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Le Brief IA</title>
     <link>{BASE}/</link>
@@ -67,14 +88,17 @@ feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 """
 open("feed.xml", "w", encoding="utf-8").write(feed)
 
-latest = f"episodes/{os.path.basename(mp3s[0])}" if mp3s else ""
+blocks = "".join(
+    f'<section><h2>{long_date(d)}</h2><audio controls preload="none" src="episodes/{date}.mp3"></audio>{nts}</section>'
+    for date, d, nts in episodes)
 open("index.html", "w", encoding="utf-8").write(f"""<!doctype html>
 <html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Le Brief IA</title>
-<style>body{{font-family:system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem;background:#111;color:#eee}}
-code{{background:#222;padding:.3rem .5rem;border-radius:4px;word-break:break-all}}audio{{width:100%}}</style></head>
+<style>body{{font-family:system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem;background:#111;color:#eee;line-height:1.5}}
+a{{color:#8ab4f8}}code{{background:#222;padding:.3rem .5rem;border-radius:4px;word-break:break-all}}audio{{width:100%}}
+section{{border-top:1px solid #333;margin-top:2rem}}h3{{margin-bottom:.2rem}}</style></head>
 <body><h1>Le Brief IA</h1><p>Actu IA quotidienne en français.</p>
 <p>Flux à copier dans votre appli de podcasts :</p><p><code>{BASE}/feed.xml</code></p>
-<h2>Dernier épisode</h2><audio controls preload="none" src="{latest}"></audio>
+{blocks}
 </body></html>
 """)
