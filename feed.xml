@@ -10,49 +10,81 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Le Brief IA – vendredi 2 octobre 2026</title>
-      <description><![CDATA[<p>Gemini 4 Argon de Google, licenciements dans l'équipe sécurité d'OpenAI, Apple durcit l'accès complet au disque face aux agents IA, les modèles de décision Clef de Cloudflare, Flux 3 Image et Ideogram 4.5 pour l'édition d'images, et l'indice Ramp sur les dépenses IA des entreprises.</p><p>Au programme du vendredi 2 octobre 2026 : un nouveau modèle Google orienté cybersécurité, des licenciements chez OpenAI, un durcissement macOS face aux agents, des outils pour développeurs et un paradoxe sur les dépenses en IA.</p>
-<h3>Google dévoile Gemini 4 Argon</h3>
-<p>Google présente Gemini 4 Argon, son modèle le plus puissant, orienté code, recherche et cybersécurité : il peut trouver, valider et corriger des failles critiques. L'accès est limité aux partenaires du programme Fairwind, sans prix annoncé. Google revendique la première place sur l'indice Vals, un chiffre à confirmer de façon indépendante.</p>
-<ul><li><a href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/">TechCrunch – Google releases Gemini 4 Argon, called its most powerful model yet</a></li></ul>
-<h3>Trois chercheurs licenciés chez OpenAI</h3>
-<p>Selon le Wall Street Journal, Jasmine Wang, Tomek Korbak et Mikita Balesni ont été licenciés pour avoir partagé des informations sensibles avec une organisation externe de sécurité de l'IA. Un quatrième chercheur, David Robinson, est parti peu après. OpenAI n'a pas précisé ce qui a fuité.</p>
-<ul><li><a href="https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/">The Decoder – Three firings and a fourth departure shake up OpenAI's safety team</a></li></ul>
-<h3>Apple durcit l'accès complet au disque sur macOS</h3>
-<p>Apple renforce le consentement requis pour la permission Full Disk Access, en invoquant les risques liés aux agents d'IA autonomes. La mesure suit des informations sur l'application Muse de Meta et une faille dans l'application ChatGPT pour Mac. La version de macOS concernée n'est pas précisée.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">TechCrunch – Apple says it's tightening macOS Full Disk Access controls due to new risks from AI agents</a></li></ul>
-<h3>Cloudflare lance les modèles de décision Clef</h3>
-<p>Clef et Clef-flash classent des entrées et attribuent des probabilités à des réponses prédéfinies. Médianes de 39 ms (Clef-flash) et 209 ms (Clef), contre 524 ms pour Jev. Basés sur Qwen 27B et 9B, avec 64 000 jetons de contexte, ils sont publiés sur Hugging Face sous licence Apache-2.0.</p>
-<ul><li><a href="https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/">The Decoder – Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents</a></li></ul>
-<h3>Flux 3 Image et Ideogram 4.5 : l'édition d'image précise</h3>
-<p>Black Forest Labs lance Flux 3 Image : édition multi-étapes qui préserve le reste de l'image, jusqu'à 10 images de référence, sortie en 4K, API à moitié prix jusqu'au 8 octobre et poids ouverts promis. Ideogram 4.5 mise lui aussi sur l'édition partielle.</p>
-<ul><li><a href="https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/">The Decoder – Black Forest Labs launches Flux 3 Image with multi-step editing</a></li><li><a href="https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/">The Decoder – Ideogram says its new model can edit part of an image without messing up the rest</a></li></ul>
-<h3>Indice Ramp : on dépense moins, on utilise plus</h3>
-<p>Sur plus de 70 000 entreprises américaines, les dépenses en IA ont culminé en juillet alors que l'usage a progressé d'environ 50 %. Dans la dernière semaine de septembre, Anthropic captait 51 % des dépenses en jetons, OpenAI 44,5 %, et les modèles ouverts moins de 5 %.</p>
-<ul><li><a href="https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/">The Decoder – Businesses are using more AI and paying less for it, Ramp AI Index shows</a></li></ul>]]></description>
-      <content:encoded><![CDATA[<p>Au programme du vendredi 2 octobre 2026 : un nouveau modèle Google orienté cybersécurité, des licenciements chez OpenAI, un durcissement macOS face aux agents, des outils pour développeurs et un paradoxe sur les dépenses en IA.</p>
-<h3>Google dévoile Gemini 4 Argon</h3>
-<p>Google présente Gemini 4 Argon, son modèle le plus puissant, orienté code, recherche et cybersécurité : il peut trouver, valider et corriger des failles critiques. L'accès est limité aux partenaires du programme Fairwind, sans prix annoncé. Google revendique la première place sur l'indice Vals, un chiffre à confirmer de façon indépendante.</p>
-<ul><li><a href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/">TechCrunch – Google releases Gemini 4 Argon, called its most powerful model yet</a></li></ul>
-<h3>Trois chercheurs licenciés chez OpenAI</h3>
-<p>Selon le Wall Street Journal, Jasmine Wang, Tomek Korbak et Mikita Balesni ont été licenciés pour avoir partagé des informations sensibles avec une organisation externe de sécurité de l'IA. Un quatrième chercheur, David Robinson, est parti peu après. OpenAI n'a pas précisé ce qui a fuité.</p>
-<ul><li><a href="https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/">The Decoder – Three firings and a fourth departure shake up OpenAI's safety team</a></li></ul>
-<h3>Apple durcit l'accès complet au disque sur macOS</h3>
-<p>Apple renforce le consentement requis pour la permission Full Disk Access, en invoquant les risques liés aux agents d'IA autonomes. La mesure suit des informations sur l'application Muse de Meta et une faille dans l'application ChatGPT pour Mac. La version de macOS concernée n'est pas précisée.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">TechCrunch – Apple says it's tightening macOS Full Disk Access controls due to new risks from AI agents</a></li></ul>
-<h3>Cloudflare lance les modèles de décision Clef</h3>
-<p>Clef et Clef-flash classent des entrées et attribuent des probabilités à des réponses prédéfinies. Médianes de 39 ms (Clef-flash) et 209 ms (Clef), contre 524 ms pour Jev. Basés sur Qwen 27B et 9B, avec 64 000 jetons de contexte, ils sont publiés sur Hugging Face sous licence Apache-2.0.</p>
-<ul><li><a href="https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/">The Decoder – Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents</a></li></ul>
-<h3>Flux 3 Image et Ideogram 4.5 : l'édition d'image précise</h3>
-<p>Black Forest Labs lance Flux 3 Image : édition multi-étapes qui préserve le reste de l'image, jusqu'à 10 images de référence, sortie en 4K, API à moitié prix jusqu'au 8 octobre et poids ouverts promis. Ideogram 4.5 mise lui aussi sur l'édition partielle.</p>
-<ul><li><a href="https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/">The Decoder – Black Forest Labs launches Flux 3 Image with multi-step editing</a></li><li><a href="https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/">The Decoder – Ideogram says its new model can edit part of an image without messing up the rest</a></li></ul>
-<h3>Indice Ramp : on dépense moins, on utilise plus</h3>
-<p>Sur plus de 70 000 entreprises américaines, les dépenses en IA ont culminé en juillet alors que l'usage a progressé d'environ 50 %. Dans la dernière semaine de septembre, Anthropic captait 51 % des dépenses en jetons, OpenAI 44,5 %, et les modèles ouverts moins de 5 %.</p>
-<ul><li><a href="https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/">The Decoder – Businesses are using more AI and paying less for it, Ramp AI Index shows</a></li></ul>]]></content:encoded>
-      <itunes:summary>Gemini 4 Argon de Google, licenciements dans l'équipe sécurité d'OpenAI, Apple durcit l'accès complet au disque face aux agents IA, les modèles de décision Clef de Cloudflare, Flux 3 Image et Ideogram 4.5 pour l'édition d'images, et l'indice Ramp sur les dépenses IA des entreprises.</itunes:summary>
+      <description><![CDATA[<p>Les assistants « dots » d'OpenAI qui travaillent en arrière-plan, l'essayage virtuel de ChatGPT, l'arrivée annoncée de Gemini 4, Claude pour les administrations et les mods de Claude Code, et la part croissante de textes écrits par IA sur le web. Conseil du jour : faire relire un rapport de bug par l'IA.</p><p>Au programme : des assistants qui travaillent en arrière-plan, un essayage virtuel, un Gemini 4 encore réservé à quelques partenaires, et une étude sur les textes écrits par IA.</p>
+<h3>OpenAI lance les « dots », des assistants qui travaillent en arrière-plan</h3>
+<p>Présentés lors de la conférence développeurs d'OpenAI, les dots reçoivent une mission sur la durée, comme une veille hebdomadaire, et vous rendent un résultat à relire. Ils arrivent progressivement sur les offres Pro et Business. Pour vous : demandez à votre équipe IT si c'est prévu chez vous, et quelles données ces assistants pourront voir.</p>
+<ul>
+<li><a href="https://iamakasi.substack.com/p/devday-2026-openai-presente-ses-agents">iamakasi (Substack) – DevDay 2026 : OpenAI présente ses agents personnels, les dots</a></li>
+<li><a href="https://openai.com/index/devday-2026-recap/">OpenAI – DevDay 2026 Recap</a></li>
+</ul>
+<h3>GPT-6.1 Sol : presque aussi bon, environ cinq fois moins cher</h3>
+<p>OpenAI propose un modèle aux résultats proches de son haut de gamme pour un prix nettement plus bas. Pour vous : les outils d'automatisation basés dessus pourraient devenir plus abordables pour les tâches de test et de support.</p>
+<ul>
+<li><a href="https://www.infoq.com/news/2026/10/openai-devday-2026/">InfoQ – OpenAI DevDay 2026 Recap for Developers</a></li>
+</ul>
+<h3>ChatGPT : l'essayage virtuel de vêtements</h3>
+<p>Avec une photo de vous en pied, un bouton « Essayer » affiche le vêtement porté, sur les fiches produits. Déploiement mondial. Pour vous : amusant, mais vérifiez les réglages de confidentialité avant d'envoyer vos photos.</p>
+<ul>
+<li><a href="https://theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026">The Neuron – Everything That Happened in AI Today (Thursday, October 1, 2026)</a></li>
+</ul>
+<h3>Google annonce Gemini 4, pour l'instant réservé à des partenaires</h3>
+<p>Google présente son modèle le plus capable, après des mois de retard. Il est d'abord confié à des partenaires en cybersécurité. Pour vous : rien à tester aujourd'hui, mais l'assistant Gemini devrait progresser dans les prochaines semaines.</p>
+<ul>
+<li><a href="https://www.boursorama.com/bourse/actualites/google-annonce-son-modele-phare-d-ia-gemini-4-apres-des-mois-de-retard-0ef3829c55d6a40470f12e7a61d0240d">Boursorama – Google annonce son modèle phare d'IA « Gemini 4 » après des mois de retard</a></li>
+</ul>
+<h3>Claude : version pour les administrations et « mods » pour Claude Code</h3>
+<p>Claude pour les administrations offre traçabilité et plafonds de dépenses. Les mods permettent d'adapter Claude Code avec de petits modules. Pour vous : un signe que la traçabilité devient la norme, et une piste pour personnaliser vos outils si vous scriptez vos tests.</p>
+<ul>
+<li><a href="https://releasebot.io/updates/anthropic/claude">Releasebot – Claude Updates by Anthropic, October 2026</a></li>
+<li><a href="https://techradar.com/pro/anthropic-wants-to-get-claude-working-across-all-government-arms">TechRadar – Anthropic wants to get Claude working across all Government arms</a></li>
+</ul>
+<h3>Près d'un tiers du web est désormais écrit par des IA</h3>
+<p>Une étude estime qu'environ un tiers des textes du web d'août étaient générés par IA, contre un dixième il y a deux ans. Pour vous : vérifiez les informations importantes sur une source identifiable.</p>
+<ul>
+<li><a href="https://theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026">The Neuron – Everything That Happened in AI Today (Thursday, October 1, 2026)</a></li>
+</ul>
+<h3>Conseil du jour</h3>
+<p>Collez un rapport de bug ou une réponse de support dans votre assistant et demandez : « Relis ce texte comme un utilisateur pressé et non technique. Qu'est-ce qui n'est pas clair ? » Retirez d'abord noms, mots de passe et données clients.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au programme : des assistants qui travaillent en arrière-plan, un essayage virtuel, un Gemini 4 encore réservé à quelques partenaires, et une étude sur les textes écrits par IA.</p>
+<h3>OpenAI lance les « dots », des assistants qui travaillent en arrière-plan</h3>
+<p>Présentés lors de la conférence développeurs d'OpenAI, les dots reçoivent une mission sur la durée, comme une veille hebdomadaire, et vous rendent un résultat à relire. Ils arrivent progressivement sur les offres Pro et Business. Pour vous : demandez à votre équipe IT si c'est prévu chez vous, et quelles données ces assistants pourront voir.</p>
+<ul>
+<li><a href="https://iamakasi.substack.com/p/devday-2026-openai-presente-ses-agents">iamakasi (Substack) – DevDay 2026 : OpenAI présente ses agents personnels, les dots</a></li>
+<li><a href="https://openai.com/index/devday-2026-recap/">OpenAI – DevDay 2026 Recap</a></li>
+</ul>
+<h3>GPT-6.1 Sol : presque aussi bon, environ cinq fois moins cher</h3>
+<p>OpenAI propose un modèle aux résultats proches de son haut de gamme pour un prix nettement plus bas. Pour vous : les outils d'automatisation basés dessus pourraient devenir plus abordables pour les tâches de test et de support.</p>
+<ul>
+<li><a href="https://www.infoq.com/news/2026/10/openai-devday-2026/">InfoQ – OpenAI DevDay 2026 Recap for Developers</a></li>
+</ul>
+<h3>ChatGPT : l'essayage virtuel de vêtements</h3>
+<p>Avec une photo de vous en pied, un bouton « Essayer » affiche le vêtement porté, sur les fiches produits. Déploiement mondial. Pour vous : amusant, mais vérifiez les réglages de confidentialité avant d'envoyer vos photos.</p>
+<ul>
+<li><a href="https://theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026">The Neuron – Everything That Happened in AI Today (Thursday, October 1, 2026)</a></li>
+</ul>
+<h3>Google annonce Gemini 4, pour l'instant réservé à des partenaires</h3>
+<p>Google présente son modèle le plus capable, après des mois de retard. Il est d'abord confié à des partenaires en cybersécurité. Pour vous : rien à tester aujourd'hui, mais l'assistant Gemini devrait progresser dans les prochaines semaines.</p>
+<ul>
+<li><a href="https://www.boursorama.com/bourse/actualites/google-annonce-son-modele-phare-d-ia-gemini-4-apres-des-mois-de-retard-0ef3829c55d6a40470f12e7a61d0240d">Boursorama – Google annonce son modèle phare d'IA « Gemini 4 » après des mois de retard</a></li>
+</ul>
+<h3>Claude : version pour les administrations et « mods » pour Claude Code</h3>
+<p>Claude pour les administrations offre traçabilité et plafonds de dépenses. Les mods permettent d'adapter Claude Code avec de petits modules. Pour vous : un signe que la traçabilité devient la norme, et une piste pour personnaliser vos outils si vous scriptez vos tests.</p>
+<ul>
+<li><a href="https://releasebot.io/updates/anthropic/claude">Releasebot – Claude Updates by Anthropic, October 2026</a></li>
+<li><a href="https://techradar.com/pro/anthropic-wants-to-get-claude-working-across-all-government-arms">TechRadar – Anthropic wants to get Claude working across all Government arms</a></li>
+</ul>
+<h3>Près d'un tiers du web est désormais écrit par des IA</h3>
+<p>Une étude estime qu'environ un tiers des textes du web d'août étaient générés par IA, contre un dixième il y a deux ans. Pour vous : vérifiez les informations importantes sur une source identifiable.</p>
+<ul>
+<li><a href="https://theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026">The Neuron – Everything That Happened in AI Today (Thursday, October 1, 2026)</a></li>
+</ul>
+<h3>Conseil du jour</h3>
+<p>Collez un rapport de bug ou une réponse de support dans votre assistant et demandez : « Relis ce texte comme un utilisateur pressé et non technique. Qu'est-ce qui n'est pas clair ? » Retirez d'abord noms, mots de passe et données clients.</p>]]></content:encoded>
+      <itunes:summary>Les assistants « dots » d'OpenAI qui travaillent en arrière-plan, l'essayage virtuel de ChatGPT, l'arrivée annoncée de Gemini 4, Claude pour les administrations et les mods de Claude Code, et la part croissante de textes écrits par IA sur le web. Conseil du jour : faire relire un rapport de bug par l'IA.</itunes:summary>
       <guid isPermaLink="true">https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3</guid>
       <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3" length="1405296" type="audio/mpeg"/>
-      <itunes:duration>234</itunes:duration>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3" length="1333152" type="audio/mpeg"/>
+      <itunes:duration>222</itunes:duration>
     </item>
   </channel>
 </rss>
