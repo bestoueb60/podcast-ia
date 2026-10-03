@@ -1,0 +1,2 @@
+2026-10-02 : assistants dots d'OpenAI en arrière-plan ; essayage virtuel ChatGPT ; Gemini 4 annoncé ; Claude pour les administrations et mods de Claude Code ; part de textes écrits par IA sur le web ; conseil : faire relire un rapport de bug par l'IA
+2026-10-03 : apple durcit l'accès complet au disque face aux agents IA ; NVIDIA OpenShell pour borner les agents ; voix de synthèse Microsoft en français ; Shopify Canvas ; Suno Speech ; Gemini 4 Argon réservé aux partenaires ; conseil : vérifier les permissions des applis IA
