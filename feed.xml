@@ -8,6 +8,73 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sat, 03 Oct 2026 05:11:58 +0000</lastBuildDate>
+    <item>
+      <title>Le Brief IA – samedi 3 octobre 2026</title>
+      <description><![CDATA[<p>Un avatar vidéo qui trompe un testeur sur deux, des outils d'IA de moins en moins chers pour les entreprises, la retouche d'image enfin précise, l'IA face aux comptables, et un petit modèle de Cloudflare pour trier les demandes de support. Avec, en conseil du jour, un test de tri de tickets en deux minutes.</p><p>Au programme ce samedi : un avatar vidéo ultra réaliste, des prix de l'IA qui baissent, de la retouche d'image précise, l'IA face aux comptables et un modèle de tri pour le support.</p>
+<h3>Un avatar vidéo qui passe pour un humain</h3>
+<p>La start-up Tavus présente Griffin, un avatar qui converse en vidéo en temps réel ; près d'un testeur sur deux l'a pris pour une vraie personne après une minute d'appel. Seuls quelques testeurs y ont accès pour l'instant. Pour vous : en cas de demande sensible en visio (virement, accès, mot de passe), rappelez la personne sur un numéro connu.</p>
+<ul>
+<li><a href="https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/">The Decoder – Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call</a></li>
+</ul>
+<h3>L'IA coûte moins cher aux entreprises</h3>
+<p>Selon un indice américain publié le 2 octobre, les entreprises utilisent environ 50 % d'IA en plus depuis juillet tout en dépensant moins, grâce à la guerre des prix entre OpenAI et Anthropic. Pour vous : les outils d'IA au travail devraient rester abordables, un bon moment pour lancer un petit projet d'automatisation.</p>
+<ul>
+<li><a href="https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/">The Decoder – Businesses are using more AI and paying less for it, Ramp AI Index shows</a></li>
+</ul>
+<h3>Retoucher une image sans toucher au reste</h3>
+<p>Black Forest Labs (Flux 3) et Ideogram sortent des modèles qui modifient seulement la zone demandée, étape par étape. Une démo gratuite est disponible. Pour vous : pratique pour des visuels de présentation ou des maquettes, mais les fausses images deviennent plus difficiles à repérer.</p>
+<ul>
+<li><a href="https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/">The Decoder – Black Forest Labs launches Flux 3 Image with multi-step editing</a></li>
+<li><a href="https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/">The Decoder – Ideogram says its new model can edit part of an image without messing up the rest</a></li>
+</ul>
+<h3>L'IA face aux comptables</h3>
+<p>Une étude compare des comptables diplômés à des assistants d'IA : ces derniers sont plus rapides et plus précis sur des tâches cadrées, mais ne bouclent pas seuls une clôture complète. Pour vous : l'IA est très bonne sur le répétitif et le précis, à condition qu'un humain relise le résultat.</p>
+<ul>
+<li><a href="https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/">The Decoder – AI beats licensed accountants on speed and accuracy but still can't close the books without supervision</a></li>
+</ul>
+<h3>Cloudflare publie des modèles pour trier et décider vite</h3>
+<p>Les modèles Clef choisissent la bonne réponse dans une liste, presque instantanément, au lieu de rédiger du texte ; ils sont libres d'accès. Pour vous : le tri automatique des demandes de support devrait devenir plus rapide et moins cher à mettre en place.</p>
+<ul>
+<li><a href="https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/">The Decoder – Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents</a></li>
+</ul>
+<h3>Conseil du jour</h3>
+<p>Collez dix demandes de support ou anomalies (sans données de clients) dans votre assistant et demandez-lui de les classer par catégorie avec une phrase de justification : vous verrez en deux minutes si le tri tient la route. Relisez toujours le résultat.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au programme ce samedi : un avatar vidéo ultra réaliste, des prix de l'IA qui baissent, de la retouche d'image précise, l'IA face aux comptables et un modèle de tri pour le support.</p>
+<h3>Un avatar vidéo qui passe pour un humain</h3>
+<p>La start-up Tavus présente Griffin, un avatar qui converse en vidéo en temps réel ; près d'un testeur sur deux l'a pris pour une vraie personne après une minute d'appel. Seuls quelques testeurs y ont accès pour l'instant. Pour vous : en cas de demande sensible en visio (virement, accès, mot de passe), rappelez la personne sur un numéro connu.</p>
+<ul>
+<li><a href="https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/">The Decoder – Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call</a></li>
+</ul>
+<h3>L'IA coûte moins cher aux entreprises</h3>
+<p>Selon un indice américain publié le 2 octobre, les entreprises utilisent environ 50 % d'IA en plus depuis juillet tout en dépensant moins, grâce à la guerre des prix entre OpenAI et Anthropic. Pour vous : les outils d'IA au travail devraient rester abordables, un bon moment pour lancer un petit projet d'automatisation.</p>
+<ul>
+<li><a href="https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/">The Decoder – Businesses are using more AI and paying less for it, Ramp AI Index shows</a></li>
+</ul>
+<h3>Retoucher une image sans toucher au reste</h3>
+<p>Black Forest Labs (Flux 3) et Ideogram sortent des modèles qui modifient seulement la zone demandée, étape par étape. Une démo gratuite est disponible. Pour vous : pratique pour des visuels de présentation ou des maquettes, mais les fausses images deviennent plus difficiles à repérer.</p>
+<ul>
+<li><a href="https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/">The Decoder – Black Forest Labs launches Flux 3 Image with multi-step editing</a></li>
+<li><a href="https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/">The Decoder – Ideogram says its new model can edit part of an image without messing up the rest</a></li>
+</ul>
+<h3>L'IA face aux comptables</h3>
+<p>Une étude compare des comptables diplômés à des assistants d'IA : ces derniers sont plus rapides et plus précis sur des tâches cadrées, mais ne bouclent pas seuls une clôture complète. Pour vous : l'IA est très bonne sur le répétitif et le précis, à condition qu'un humain relise le résultat.</p>
+<ul>
+<li><a href="https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/">The Decoder – AI beats licensed accountants on speed and accuracy but still can't close the books without supervision</a></li>
+</ul>
+<h3>Cloudflare publie des modèles pour trier et décider vite</h3>
+<p>Les modèles Clef choisissent la bonne réponse dans une liste, presque instantanément, au lieu de rédiger du texte ; ils sont libres d'accès. Pour vous : le tri automatique des demandes de support devrait devenir plus rapide et moins cher à mettre en place.</p>
+<ul>
+<li><a href="https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/">The Decoder – Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents</a></li>
+</ul>
+<h3>Conseil du jour</h3>
+<p>Collez dix demandes de support ou anomalies (sans données de clients) dans votre assistant et demandez-lui de les classer par catégorie avec une phrase de justification : vous verrez en deux minutes si le tri tient la route. Relisez toujours le résultat.</p>]]></content:encoded>
+      <itunes:summary>Un avatar vidéo qui trompe un testeur sur deux, des outils d'IA de moins en moins chers pour les entreprises, la retouche d'image enfin précise, l'IA face aux comptables, et un petit modèle de Cloudflare pour trier les demandes de support. Avec, en conseil du jour, un test de tri de tickets en deux minutes.</itunes:summary>
+      <guid isPermaLink="false">2026-10-03-a0acdc33</guid>
+      <pubDate>Sat, 03 Oct 2026 05:11:54 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-03.mp3?v=a0acdc33" length="1323648" type="audio/mpeg"/>
+      <itunes:duration>220</itunes:duration>
+    </item>
     <item>
       <title>Le Brief IA – vendredi 2 octobre 2026</title>
       <description><![CDATA[<p>Les assistants « dots » d'OpenAI qui travaillent en arrière-plan, l'essayage virtuel de ChatGPT, l'arrivée annoncée de Gemini 4, Claude pour les administrations et les mods de Claude Code, et la part croissante de textes écrits par IA sur le web. Conseil du jour : faire relire un rapport de bug par l'IA.</p><p>Au programme : des assistants qui travaillent en arrière-plan, un essayage virtuel, un Gemini 4 encore réservé à quelques partenaires, et une étude sur les textes écrits par IA.</p>
@@ -81,9 +148,9 @@
 <h3>Conseil du jour</h3>
 <p>Collez un rapport de bug ou une réponse de support dans votre assistant et demandez : « Relis ce texte comme un utilisateur pressé et non technique. Qu'est-ce qui n'est pas clair ? » Retirez d'abord noms, mots de passe et données clients.</p>]]></content:encoded>
       <itunes:summary>Les assistants « dots » d'OpenAI qui travaillent en arrière-plan, l'essayage virtuel de ChatGPT, l'arrivée annoncée de Gemini 4, Claude pour les administrations et les mods de Claude Code, et la part croissante de textes écrits par IA sur le web. Conseil du jour : faire relire un rapport de bug par l'IA.</itunes:summary>
-      <guid isPermaLink="true">https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3</guid>
-      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3" length="1333152" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-02-91334063</guid>
+      <pubDate>Sat, 03 Oct 2026 05:10:02 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-02.mp3?v=91334063" length="1333152" type="audio/mpeg"/>
       <itunes:duration>222</itunes:duration>
     </item>
   </channel>

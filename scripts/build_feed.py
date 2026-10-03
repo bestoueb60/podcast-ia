@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Rebuild feed.xml and index.html from episodes/*.mp3 and scripts/*.txt."""
-import glob, os, re, subprocess
+import glob, hashlib, os, re, subprocess
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
@@ -55,20 +55,21 @@ for mp3 in mp3s:
     d = datetime.strptime(date, "%Y-%m-%d")
     size = os.path.getsize(mp3)
     dur = duration(mp3, size)
-    url = f"{BASE}/episodes/{date}.mp3"
-    pub = format_datetime(d.replace(hour=6, tzinfo=timezone.utc))
+    version = hashlib.sha1(open(mp3, "rb").read()).hexdigest()[:8]
+    url = f"{BASE}/episodes/{date}.mp3?v={version}"
+    pub = format_datetime(datetime.fromtimestamp(os.path.getmtime(mp3), tz=timezone.utc))
     summ = summary(date)
     nts = notes(date)
-    episodes.append((date, d, nts))
+    episodes.append((date, d, nts, version))
     desc = f"<p>{escape(summ)}</p>" + nts
     items.append(f"""    <item>
       <title>Le Brief IA – {long_date(d)}</title>
       <description>{cdata(desc)}</description>
       <content:encoded>{cdata(nts or "<p>" + escape(summ) + "</p>")}</content:encoded>
       <itunes:summary>{escape(summ)}</itunes:summary>
-      <guid isPermaLink="true">{url}</guid>
+      <guid isPermaLink="false">{date}-{version}</guid>
       <pubDate>{pub}</pubDate>
-      <enclosure url="{url}" length="{size}" type="audio/mpeg"/>
+      <enclosure url="{escape(url)}" length="{size}" type="audio/mpeg"/>
       <itunes:duration>{dur}</itunes:duration>
     </item>""")
 
@@ -82,6 +83,7 @@ feed = f"""<?xml version="1.0" encoding="UTF-8"?>
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="{BASE}/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>
 {chr(10).join(items)}
   </channel>
 </rss>
@@ -89,8 +91,8 @@ feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 open("feed.xml", "w", encoding="utf-8").write(feed)
 
 blocks = "".join(
-    f'<section><h2>{long_date(d)}</h2><audio controls preload="none" src="episodes/{date}.mp3"></audio>{nts}</section>'
-    for date, d, nts in episodes)
+    f'<section><h2>{long_date(d)}</h2><audio controls preload="none" src="episodes/{date}.mp3?v={version}"></audio>{nts}</section>'
+    for date, d, nts, version in episodes)
 open("index.html", "w", encoding="utf-8").write(f"""<!doctype html>
 <html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Le Brief IA</title>
