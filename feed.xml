@@ -8,72 +8,56 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 05 Oct 2026 05:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:15:18 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – lundi 5 octobre 2026</title>
-      <description><![CDATA[<p>Gemini réserve ses meilleurs modèles aux abonnés, Google suspend son programme de récompenses pour failles à cause des faux rapports générés par IA, une étude montre les biais des modèles chinois, les États-Unis signent un pacte non contraignant, et un rappel des règles de transparence européennes. Conseil : demander ses sources à l'IA et les vérifier.</p><p>Ce lundi : Gemini change ses formules, l'IA sème la confusion dans la sécurité logicielle, et un point sur les règles qui arrivent en Europe.</p>
-<h3>Gemini : le gratuit réduit au plus petit modèle</h3>
-<p>Google limite l'accès à ses modèles Gemini selon l'abonnement : le gratuit n'a plus que le plus léger, l'offre à environ cinq dollars exclut le plus puissant. Pour vous : si vous utilisez Gemini gratuitement au travail, attendez-vous à des réponses moins fines, et vérifiez quel niveau votre entreprise paie.</p>
-<ul>
-<li><a href="https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/">The Decoder – Google's new Gemini tiers cut free users to its weakest model</a></li>
-</ul>
-<h3>Google suspend son programme de primes pour failles</h3>
-<p>Submergé de faux rapports de bugs générés par IA, Google a gelé son programme pour les logiciels libres jusqu'au début de 2027. Pour vous : relisez et reproduisez toujours un bug avant de transmettre un rapport écrit par une IA.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/">TechCrunch – Google froze its open source bug bounty program due to a 'significant rise' in AI submissions</a></li>
-</ul>
-<h3>Modèles chinois : des réponses filtrées sur la politique</h3>
-<p>Une étude d'Aleph Alpha montre que Qwen, DeepSeek et Kimi esquivent ou répètent la ligne officielle sur les sujets sensibles. Pour vous : gardez un regard critique si vous vous informez via ces outils.</p>
-<ul>
-<li><a href="https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/">The Decoder – Chinese AI models parrot state doctrine or refuse to answer on sensitive topics</a></li>
-</ul>
-<h3>États-Unis : un pacte symbolique et une « Super Intelligence Force »</h3>
-<p>Des patrons de la tech ont signé un engagement non contraignant, présenté avec une nouvelle structure fédérale. Pour vous : aucun changement dans vos outils, mais les vraies règles viendront surtout d'Europe.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/">TechCrunch – Can 'super intelligence' and a non-binding safety pact solve AI's image problem?</a></li>
-<li><a href="https://the-decoder.com/">The Decoder – Trump launches "Super Intelligence Force"</a></li>
-</ul>
-<h3>Europe : la transparence est déjà obligatoire</h3>
-<p>Depuis le 2 août, il faut signaler les chatbots et les contenus générés par IA ; une étape est prévue le 2 décembre, les règles lourdes sont repoussées à fin 2027. Pour vous : vérifiez que votre chatbot de support se présente comme une IA.</p>
-<ul>
-<li><a href="https://siliconcanals.com/the-eus-ai-act-starts-requiring-chatbot-and-deepfake-labels-on-august-2-while-its-tougher-rules-on-hiring-biometrics-and-migration-are-pushed-back-to-december-2027/">Silicon Canals – The EU's AI Act starts requiring chatbot and deepfake labels on August 2</a></li>
-</ul>
+      <title>Le Brief IA – mardi 6 octobre 2026</title>
+      <description><![CDATA[<p>Filigrane invisible sur les textes de ChatGPT en Europe, publicités dans la génération d'images, responsabilité en cas d'erreur d'un agent IA, six entreprises françaises sur dix sans règles d'usage de l'IA, recruteur IA pour développeurs et assistant dans les discussions de groupe. Conseil du jour : faire rédiger une mini-charte d'usage de l'IA.</p><p>Au menu : filigrane sur les textes de ChatGPT, pubs dans les images, qui est responsable quand un agent IA se trompe, et un conseil à tester en deux minutes.</p>
+<h3>ChatGPT va marquer ses textes en Europe</h3>
+<p>OpenAI ajoute un filigrane invisible aux textes de ChatGPT et Codex pour les utilisateurs européens, en application des règles de transparence de l'AI Act. Ce marquage est fragile et son absence ne prouve pas qu'un texte est humain. Pour vous : rien ne change à l'écran, mais méfiance envers les détecteurs qui promettent la certitude.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">TechCrunch – OpenAI will start watermarking ChatGPT's text in the EU</a></li><li><a href="https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/">The Decoder – OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide</a></li></ul>
+<h3>Des publicités dans la génération d'images</h3>
+<p>OpenAI lance des pubs visuelles pendant la génération d'images, d'abord aux États-Unis, sur les offres gratuites ou peu chères. Pour vous : attendez-vous à de la publicité avec la version gratuite.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/">TechCrunch – OpenAI launches visual ads that appear alongside image generation results</a></li><li><a href="https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/">The Decoder – ChatGPT's new ad format fills the image generation loading screen with product carousels</a></li></ul>
+<h3>Agents IA : le client est responsable</h3>
+<p>Les conditions des grands fournisseurs rendent le client responsable des actions de ses agents, alors que des incidents ont été signalés lors de tests internes. Pour vous : limitez les droits donnés à un agent, comme pour un stagiaire.</p>
+<ul><li><a href="https://www.actuia.com/actualite/agents-ia-le-client-repond-de-leurs-actes-chez-openai-comme-ailleurs/">ActuIA – Agents IA : le client répond de leurs actes, chez OpenAI comme ailleurs</a></li></ul>
+<h3>Six entreprises françaises sur dix sans cadre pour l'IA</h3>
+<p>Selon le baromètre Coface et Les Échos Études, 60 % des entreprises n'ont pas de règles formalisées, alors que l'Europe demande de former le personnel. Pour vous : demandez ce que vous avez le droit de partager avec un outil d'IA.</p>
+<ul><li><a href="https://www.actuia.com/actualite/six-entreprises-sur-dix-utilisent-lia-sans-cadre-selon-coface/">ActuIA – Six entreprises françaises sur dix sans cadre pour l'IA (Coface)</a></li></ul>
+<h3>Un recruteur IA pour développeurs</h3>
+<p>HackerRank lance Chakra, un entretien où le candidat travaille avec un assistant IA et où l'on juge sa façon de raisonner. Pour vous : savoir questionner l'IA et vérifier ses réponses devient une compétence clé, notamment en test.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/">TechCrunch – HackerRank's AI interviewer offers a glimpse into what job interviews could become</a></li></ul>
+<h3>Un assistant dans vos discussions de groupe</h3>
+<p>Instinct permet d'inviter son assistant dans une conversation de groupe, même sans compte pour les autres. Accès sur liste d'attente. Pour vous : rien à faire, mais un nouveau sujet de vie privée à surveiller.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/">TechCrunch – Instinct brings its AI agent to group chats, even for friends without an account</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Posez une question factuelle de votre métier à votre assistant en ajoutant « donne tes sources et dis ce dont tu n'es pas certain », puis ouvrez vraiment un lien proposé pour vérifier.</p>]]></description>
-      <content:encoded><![CDATA[<p>Ce lundi : Gemini change ses formules, l'IA sème la confusion dans la sécurité logicielle, et un point sur les règles qui arrivent en Europe.</p>
-<h3>Gemini : le gratuit réduit au plus petit modèle</h3>
-<p>Google limite l'accès à ses modèles Gemini selon l'abonnement : le gratuit n'a plus que le plus léger, l'offre à environ cinq dollars exclut le plus puissant. Pour vous : si vous utilisez Gemini gratuitement au travail, attendez-vous à des réponses moins fines, et vérifiez quel niveau votre entreprise paie.</p>
-<ul>
-<li><a href="https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/">The Decoder – Google's new Gemini tiers cut free users to its weakest model</a></li>
-</ul>
-<h3>Google suspend son programme de primes pour failles</h3>
-<p>Submergé de faux rapports de bugs générés par IA, Google a gelé son programme pour les logiciels libres jusqu'au début de 2027. Pour vous : relisez et reproduisez toujours un bug avant de transmettre un rapport écrit par une IA.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/">TechCrunch – Google froze its open source bug bounty program due to a 'significant rise' in AI submissions</a></li>
-</ul>
-<h3>Modèles chinois : des réponses filtrées sur la politique</h3>
-<p>Une étude d'Aleph Alpha montre que Qwen, DeepSeek et Kimi esquivent ou répètent la ligne officielle sur les sujets sensibles. Pour vous : gardez un regard critique si vous vous informez via ces outils.</p>
-<ul>
-<li><a href="https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/">The Decoder – Chinese AI models parrot state doctrine or refuse to answer on sensitive topics</a></li>
-</ul>
-<h3>États-Unis : un pacte symbolique et une « Super Intelligence Force »</h3>
-<p>Des patrons de la tech ont signé un engagement non contraignant, présenté avec une nouvelle structure fédérale. Pour vous : aucun changement dans vos outils, mais les vraies règles viendront surtout d'Europe.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/">TechCrunch – Can 'super intelligence' and a non-binding safety pact solve AI's image problem?</a></li>
-<li><a href="https://the-decoder.com/">The Decoder – Trump launches "Super Intelligence Force"</a></li>
-</ul>
-<h3>Europe : la transparence est déjà obligatoire</h3>
-<p>Depuis le 2 août, il faut signaler les chatbots et les contenus générés par IA ; une étape est prévue le 2 décembre, les règles lourdes sont repoussées à fin 2027. Pour vous : vérifiez que votre chatbot de support se présente comme une IA.</p>
-<ul>
-<li><a href="https://siliconcanals.com/the-eus-ai-act-starts-requiring-chatbot-and-deepfake-labels-on-august-2-while-its-tougher-rules-on-hiring-biometrics-and-migration-are-pushed-back-to-december-2027/">Silicon Canals – The EU's AI Act starts requiring chatbot and deepfake labels on August 2</a></li>
-</ul>
+<p>Demandez à votre assistant IA : « écris une mini-charte d'usage de l'IA en cinq lignes pour une équipe de support, avec ce qu'on peut partager et ce qu'on ne partage jamais ». Relisez, corrigez, proposez-la à votre équipe.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au menu : filigrane sur les textes de ChatGPT, pubs dans les images, qui est responsable quand un agent IA se trompe, et un conseil à tester en deux minutes.</p>
+<h3>ChatGPT va marquer ses textes en Europe</h3>
+<p>OpenAI ajoute un filigrane invisible aux textes de ChatGPT et Codex pour les utilisateurs européens, en application des règles de transparence de l'AI Act. Ce marquage est fragile et son absence ne prouve pas qu'un texte est humain. Pour vous : rien ne change à l'écran, mais méfiance envers les détecteurs qui promettent la certitude.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">TechCrunch – OpenAI will start watermarking ChatGPT's text in the EU</a></li><li><a href="https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/">The Decoder – OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide</a></li></ul>
+<h3>Des publicités dans la génération d'images</h3>
+<p>OpenAI lance des pubs visuelles pendant la génération d'images, d'abord aux États-Unis, sur les offres gratuites ou peu chères. Pour vous : attendez-vous à de la publicité avec la version gratuite.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/">TechCrunch – OpenAI launches visual ads that appear alongside image generation results</a></li><li><a href="https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/">The Decoder – ChatGPT's new ad format fills the image generation loading screen with product carousels</a></li></ul>
+<h3>Agents IA : le client est responsable</h3>
+<p>Les conditions des grands fournisseurs rendent le client responsable des actions de ses agents, alors que des incidents ont été signalés lors de tests internes. Pour vous : limitez les droits donnés à un agent, comme pour un stagiaire.</p>
+<ul><li><a href="https://www.actuia.com/actualite/agents-ia-le-client-repond-de-leurs-actes-chez-openai-comme-ailleurs/">ActuIA – Agents IA : le client répond de leurs actes, chez OpenAI comme ailleurs</a></li></ul>
+<h3>Six entreprises françaises sur dix sans cadre pour l'IA</h3>
+<p>Selon le baromètre Coface et Les Échos Études, 60 % des entreprises n'ont pas de règles formalisées, alors que l'Europe demande de former le personnel. Pour vous : demandez ce que vous avez le droit de partager avec un outil d'IA.</p>
+<ul><li><a href="https://www.actuia.com/actualite/six-entreprises-sur-dix-utilisent-lia-sans-cadre-selon-coface/">ActuIA – Six entreprises françaises sur dix sans cadre pour l'IA (Coface)</a></li></ul>
+<h3>Un recruteur IA pour développeurs</h3>
+<p>HackerRank lance Chakra, un entretien où le candidat travaille avec un assistant IA et où l'on juge sa façon de raisonner. Pour vous : savoir questionner l'IA et vérifier ses réponses devient une compétence clé, notamment en test.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/">TechCrunch – HackerRank's AI interviewer offers a glimpse into what job interviews could become</a></li></ul>
+<h3>Un assistant dans vos discussions de groupe</h3>
+<p>Instinct permet d'inviter son assistant dans une conversation de groupe, même sans compte pour les autres. Accès sur liste d'attente. Pour vous : rien à faire, mais un nouveau sujet de vie privée à surveiller.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/">TechCrunch – Instinct brings its AI agent to group chats, even for friends without an account</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Posez une question factuelle de votre métier à votre assistant en ajoutant « donne tes sources et dis ce dont tu n'es pas certain », puis ouvrez vraiment un lien proposé pour vérifier.</p>]]></content:encoded>
-      <itunes:summary>Gemini réserve ses meilleurs modèles aux abonnés, Google suspend son programme de récompenses pour failles à cause des faux rapports générés par IA, une étude montre les biais des modèles chinois, les États-Unis signent un pacte non contraignant, et un rappel des règles de transparence européennes. Conseil : demander ses sources à l'IA et les vérifier.</itunes:summary>
-      <guid isPermaLink="false">2026-10-05-6d7153dd</guid>
-      <pubDate>Mon, 05 Oct 2026 05:14:18 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-05.mp3?v=6d7153dd" length="1339920" type="audio/mpeg"/>
-      <itunes:duration>223</itunes:duration>
+<p>Demandez à votre assistant IA : « écris une mini-charte d'usage de l'IA en cinq lignes pour une équipe de support, avec ce qu'on peut partager et ce qu'on ne partage jamais ». Relisez, corrigez, proposez-la à votre équipe.</p>]]></content:encoded>
+      <itunes:summary>Filigrane invisible sur les textes de ChatGPT en Europe, publicités dans la génération d'images, responsabilité en cas d'erreur d'un agent IA, six entreprises françaises sur dix sans règles d'usage de l'IA, recruteur IA pour développeurs et assistant dans les discussions de groupe. Conseil du jour : faire rédiger une mini-charte d'usage de l'IA.</itunes:summary>
+      <guid isPermaLink="false">2026-10-06-c1f560d4</guid>
+      <pubDate>Tue, 06 Oct 2026 05:15:08 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-06.mp3?v=c1f560d4" length="1349712" type="audio/mpeg"/>
+      <itunes:duration>224</itunes:duration>
     </item>
   </channel>
 </rss>
