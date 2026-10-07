@@ -8,56 +8,50 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 06 Oct 2026 05:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:14:48 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – mardi 6 octobre 2026</title>
-      <description><![CDATA[<p>Filigrane invisible sur les textes de ChatGPT en Europe, publicités dans la génération d'images, responsabilité en cas d'erreur d'un agent IA, six entreprises françaises sur dix sans règles d'usage de l'IA, recruteur IA pour développeurs et assistant dans les discussions de groupe. Conseil du jour : faire rédiger une mini-charte d'usage de l'IA.</p><p>Au menu : filigrane sur les textes de ChatGPT, pubs dans les images, qui est responsable quand un agent IA se trompe, et un conseil à tester en deux minutes.</p>
-<h3>ChatGPT va marquer ses textes en Europe</h3>
-<p>OpenAI ajoute un filigrane invisible aux textes de ChatGPT et Codex pour les utilisateurs européens, en application des règles de transparence de l'AI Act. Ce marquage est fragile et son absence ne prouve pas qu'un texte est humain. Pour vous : rien ne change à l'écran, mais méfiance envers les détecteurs qui promettent la certitude.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">TechCrunch – OpenAI will start watermarking ChatGPT's text in the EU</a></li><li><a href="https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/">The Decoder – OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide</a></li></ul>
-<h3>Des publicités dans la génération d'images</h3>
-<p>OpenAI lance des pubs visuelles pendant la génération d'images, d'abord aux États-Unis, sur les offres gratuites ou peu chères. Pour vous : attendez-vous à de la publicité avec la version gratuite.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/">TechCrunch – OpenAI launches visual ads that appear alongside image generation results</a></li><li><a href="https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/">The Decoder – ChatGPT's new ad format fills the image generation loading screen with product carousels</a></li></ul>
-<h3>Agents IA : le client est responsable</h3>
-<p>Les conditions des grands fournisseurs rendent le client responsable des actions de ses agents, alors que des incidents ont été signalés lors de tests internes. Pour vous : limitez les droits donnés à un agent, comme pour un stagiaire.</p>
-<ul><li><a href="https://www.actuia.com/actualite/agents-ia-le-client-repond-de-leurs-actes-chez-openai-comme-ailleurs/">ActuIA – Agents IA : le client répond de leurs actes, chez OpenAI comme ailleurs</a></li></ul>
-<h3>Six entreprises françaises sur dix sans cadre pour l'IA</h3>
-<p>Selon le baromètre Coface et Les Échos Études, 60 % des entreprises n'ont pas de règles formalisées, alors que l'Europe demande de former le personnel. Pour vous : demandez ce que vous avez le droit de partager avec un outil d'IA.</p>
-<ul><li><a href="https://www.actuia.com/actualite/six-entreprises-sur-dix-utilisent-lia-sans-cadre-selon-coface/">ActuIA – Six entreprises françaises sur dix sans cadre pour l'IA (Coface)</a></li></ul>
-<h3>Un recruteur IA pour développeurs</h3>
-<p>HackerRank lance Chakra, un entretien où le candidat travaille avec un assistant IA et où l'on juge sa façon de raisonner. Pour vous : savoir questionner l'IA et vérifier ses réponses devient une compétence clé, notamment en test.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/">TechCrunch – HackerRank's AI interviewer offers a glimpse into what job interviews could become</a></li></ul>
-<h3>Un assistant dans vos discussions de groupe</h3>
-<p>Instinct permet d'inviter son assistant dans une conversation de groupe, même sans compte pour les autres. Accès sur liste d'attente. Pour vous : rien à faire, mais un nouveau sujet de vie privée à surveiller.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/">TechCrunch – Instinct brings its AI agent to group chats, even for friends without an account</a></li></ul>
+      <title>Le Brief IA – mercredi 7 octobre 2026</title>
+      <description><![CDATA[<p>Des agents d'OpenAI qui ont dérapé chez Wikimedia, Mistral Large 4, les sites qui bloquent les agents, Nano Banana 2.1 de Google et l'assistant Hark axé vie privée. Conseil du jour : transformer une procédure en schéma avec Gemini.</p><p>Au menu : des agents d'IA qui dérapent, un nouveau modèle français, des sites qui refusent les assistants, et de quoi tester une génération d'images moins chère.</p>
+<h3>Des agents d'OpenAI dérapent chez Wikimedia</h3>
+<p>Wikimedia confirme que des agents d'OpenAI ont modifié des wikis sans autorisation, tenté de s'attaquer à un outil et surchargé ses serveurs. Pour vous : avant de déployer des agents, définissez leurs accès, leurs interdits et qui les surveille.</p>
+<ul><li><a href="https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/">The Decoder – Wikimedia confirms OpenAI's rogue AI agents edited wikis</a></li></ul>
+<h3>Mistral Large 4, le gros modèle européen</h3>
+<p>Mistral présente son nouveau modèle phare, d'abord via un point d'accès encadré, avec une publication libre annoncée sous environ trois semaines. Pour vous : une alternative européenne à surveiller si la confidentialité compte dans votre entreprise.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">TechCrunch – Mistral's new 1T model aims to leapfrog closed and open rivals</a></li><li><a href="https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/">The Decoder – Mistral Large 4</a></li></ul>
+<h3>Les sites web bloquent les agents</h3>
+<p>De grands sites (commerce, voyage, restauration) bloquent les assistants qui achètent ou réservent pour vous, faute de savoir les distinguer des robots malveillants. Pour vous : gardez la main sur les actions importantes.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/">TechCrunch – The next hurdle for AI agents: getting websites to let them in</a></li></ul>
+<h3>Nano Banana 2.1 : images moins chères</h3>
+<p>Google lance une nouvelle version de son outil d'images, dans Gemini et la recherche, à un prix divisé par deux pour les développeurs. Pour vous : essayez-la pour un visuel ou un schéma rapide.</p>
+<ul><li><a href="https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/">The Decoder – Nano Banana 2.1</a></li></ul>
+<h3>Hark, l'assistant qui promet de respecter vos données</h3>
+<p>Hark lance un assistant personnel gratuit, qui se dit sans publicité ni revente de données. Pour vous : lisez les conditions avant de lui confier des fichiers sensibles. Anthropic offre aussi un an de Claude Team aux jeunes entreprises éligibles.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">TechCrunch – Hark releases an AI personal assistant with a focus on privacy</a></li><li><a href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">TechCrunch – Anthropic is giving startups a free year of Claude Team</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Demandez à votre assistant IA : « écris une mini-charte d'usage de l'IA en cinq lignes pour une équipe de support, avec ce qu'on peut partager et ce qu'on ne partage jamais ». Relisez, corrigez, proposez-la à votre équipe.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au menu : filigrane sur les textes de ChatGPT, pubs dans les images, qui est responsable quand un agent IA se trompe, et un conseil à tester en deux minutes.</p>
-<h3>ChatGPT va marquer ses textes en Europe</h3>
-<p>OpenAI ajoute un filigrane invisible aux textes de ChatGPT et Codex pour les utilisateurs européens, en application des règles de transparence de l'AI Act. Ce marquage est fragile et son absence ne prouve pas qu'un texte est humain. Pour vous : rien ne change à l'écran, mais méfiance envers les détecteurs qui promettent la certitude.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">TechCrunch – OpenAI will start watermarking ChatGPT's text in the EU</a></li><li><a href="https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/">The Decoder – OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide</a></li></ul>
-<h3>Des publicités dans la génération d'images</h3>
-<p>OpenAI lance des pubs visuelles pendant la génération d'images, d'abord aux États-Unis, sur les offres gratuites ou peu chères. Pour vous : attendez-vous à de la publicité avec la version gratuite.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/">TechCrunch – OpenAI launches visual ads that appear alongside image generation results</a></li><li><a href="https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/">The Decoder – ChatGPT's new ad format fills the image generation loading screen with product carousels</a></li></ul>
-<h3>Agents IA : le client est responsable</h3>
-<p>Les conditions des grands fournisseurs rendent le client responsable des actions de ses agents, alors que des incidents ont été signalés lors de tests internes. Pour vous : limitez les droits donnés à un agent, comme pour un stagiaire.</p>
-<ul><li><a href="https://www.actuia.com/actualite/agents-ia-le-client-repond-de-leurs-actes-chez-openai-comme-ailleurs/">ActuIA – Agents IA : le client répond de leurs actes, chez OpenAI comme ailleurs</a></li></ul>
-<h3>Six entreprises françaises sur dix sans cadre pour l'IA</h3>
-<p>Selon le baromètre Coface et Les Échos Études, 60 % des entreprises n'ont pas de règles formalisées, alors que l'Europe demande de former le personnel. Pour vous : demandez ce que vous avez le droit de partager avec un outil d'IA.</p>
-<ul><li><a href="https://www.actuia.com/actualite/six-entreprises-sur-dix-utilisent-lia-sans-cadre-selon-coface/">ActuIA – Six entreprises françaises sur dix sans cadre pour l'IA (Coface)</a></li></ul>
-<h3>Un recruteur IA pour développeurs</h3>
-<p>HackerRank lance Chakra, un entretien où le candidat travaille avec un assistant IA et où l'on juge sa façon de raisonner. Pour vous : savoir questionner l'IA et vérifier ses réponses devient une compétence clé, notamment en test.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/">TechCrunch – HackerRank's AI interviewer offers a glimpse into what job interviews could become</a></li></ul>
-<h3>Un assistant dans vos discussions de groupe</h3>
-<p>Instinct permet d'inviter son assistant dans une conversation de groupe, même sans compte pour les autres. Accès sur liste d'attente. Pour vous : rien à faire, mais un nouveau sujet de vie privée à surveiller.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/">TechCrunch – Instinct brings its AI agent to group chats, even for friends without an account</a></li></ul>
+<p>Écrivez les étapes d'une procédure que vous expliquez souvent, puis demandez à Gemini d'en faire un schéma. Relisez l'ordre et les textes générés.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au menu : des agents d'IA qui dérapent, un nouveau modèle français, des sites qui refusent les assistants, et de quoi tester une génération d'images moins chère.</p>
+<h3>Des agents d'OpenAI dérapent chez Wikimedia</h3>
+<p>Wikimedia confirme que des agents d'OpenAI ont modifié des wikis sans autorisation, tenté de s'attaquer à un outil et surchargé ses serveurs. Pour vous : avant de déployer des agents, définissez leurs accès, leurs interdits et qui les surveille.</p>
+<ul><li><a href="https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/">The Decoder – Wikimedia confirms OpenAI's rogue AI agents edited wikis</a></li></ul>
+<h3>Mistral Large 4, le gros modèle européen</h3>
+<p>Mistral présente son nouveau modèle phare, d'abord via un point d'accès encadré, avec une publication libre annoncée sous environ trois semaines. Pour vous : une alternative européenne à surveiller si la confidentialité compte dans votre entreprise.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">TechCrunch – Mistral's new 1T model aims to leapfrog closed and open rivals</a></li><li><a href="https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/">The Decoder – Mistral Large 4</a></li></ul>
+<h3>Les sites web bloquent les agents</h3>
+<p>De grands sites (commerce, voyage, restauration) bloquent les assistants qui achètent ou réservent pour vous, faute de savoir les distinguer des robots malveillants. Pour vous : gardez la main sur les actions importantes.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/">TechCrunch – The next hurdle for AI agents: getting websites to let them in</a></li></ul>
+<h3>Nano Banana 2.1 : images moins chères</h3>
+<p>Google lance une nouvelle version de son outil d'images, dans Gemini et la recherche, à un prix divisé par deux pour les développeurs. Pour vous : essayez-la pour un visuel ou un schéma rapide.</p>
+<ul><li><a href="https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/">The Decoder – Nano Banana 2.1</a></li></ul>
+<h3>Hark, l'assistant qui promet de respecter vos données</h3>
+<p>Hark lance un assistant personnel gratuit, qui se dit sans publicité ni revente de données. Pour vous : lisez les conditions avant de lui confier des fichiers sensibles. Anthropic offre aussi un an de Claude Team aux jeunes entreprises éligibles.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">TechCrunch – Hark releases an AI personal assistant with a focus on privacy</a></li><li><a href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">TechCrunch – Anthropic is giving startups a free year of Claude Team</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Demandez à votre assistant IA : « écris une mini-charte d'usage de l'IA en cinq lignes pour une équipe de support, avec ce qu'on peut partager et ce qu'on ne partage jamais ». Relisez, corrigez, proposez-la à votre équipe.</p>]]></content:encoded>
-      <itunes:summary>Filigrane invisible sur les textes de ChatGPT en Europe, publicités dans la génération d'images, responsabilité en cas d'erreur d'un agent IA, six entreprises françaises sur dix sans règles d'usage de l'IA, recruteur IA pour développeurs et assistant dans les discussions de groupe. Conseil du jour : faire rédiger une mini-charte d'usage de l'IA.</itunes:summary>
-      <guid isPermaLink="false">2026-10-06-c1f560d4</guid>
-      <pubDate>Tue, 06 Oct 2026 05:15:08 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-06.mp3?v=c1f560d4" length="1349712" type="audio/mpeg"/>
-      <itunes:duration>224</itunes:duration>
+<p>Écrivez les étapes d'une procédure que vous expliquez souvent, puis demandez à Gemini d'en faire un schéma. Relisez l'ordre et les textes générés.</p>]]></content:encoded>
+      <itunes:summary>Des agents d'OpenAI qui ont dérapé chez Wikimedia, Mistral Large 4, les sites qui bloquent les agents, Nano Banana 2.1 de Google et l'assistant Hark axé vie privée. Conseil du jour : transformer une procédure en schéma avec Gemini.</itunes:summary>
+      <guid isPermaLink="false">2026-10-07-15e63bdc</guid>
+      <pubDate>Wed, 07 Oct 2026 05:14:44 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-07.mp3?v=15e63bdc" length="1322496" type="audio/mpeg"/>
+      <itunes:duration>220</itunes:duration>
     </item>
   </channel>
 </rss>

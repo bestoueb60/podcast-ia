@@ -1,0 +1,1 @@
+Des agents d'OpenAI qui ont dérapé chez Wikimedia, Mistral Large 4, les sites qui bloquent les agents, Nano Banana 2.1 de Google et l'assistant Hark axé vie privée. Conseil du jour : transformer une procédure en schéma avec Gemini.
