@@ -26,7 +26,7 @@ def duration(path, size):
 mp3s = sorted(glob.glob("episodes/*.mp3"), reverse=True)
 for old in mp3s[KEEP:]:
     os.remove(old)
-mp3s = mp3s[:KEEP]
+mp3s = mp3s[:1]
 
 def notes(date):
     p = f"scripts/{date}-notes.html"

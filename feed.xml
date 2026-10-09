@@ -8,50 +8,56 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 08 Oct 2026 05:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:15:37 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – jeudi 8 octobre 2026</title>
-      <description><![CDATA[<p>ChatGPT affiche désormais de petits écrans interactifs avec GPT six, Claude Haiku cinq point cinq casse les prix, Google ouvre au public son détecteur de filigrane SynthID, un rapport juge ChatGPT pour ados à risque, et deux brèves : Playground de Google et l'accès cyber d'Anthropic. Conseil : tester le détecteur SynthID sur une image.</p><p>Au programme : ChatGPT devient interactif, Claude baisse ses prix, un détecteur public d'images IA, et un rapport sévère sur les ados.</p>
-<h3>ChatGPT passe aux réponses interactives</h3>
-<p>Avec GPT six, ChatGPT peut afficher des boutons, graphiques et formulaires, et même créer de mini-outils dans la conversation. Le déploiement a débuté le 7 octobre pour les abonnés, un jour plus tard pour les comptes gratuits. Pour vous : demandez un tableau comparatif ou un petit calculateur plutôt qu'un long texte.</p>
-<ul><li><a href="https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/">The Decoder – ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps</a></li></ul>
-<h3>Claude Haiku 5.5 et la guerre des prix</h3>
-<p>Anthropic lance un petit modèle rapide, environ trois quarts moins cher en moyenne que le précédent. Pour vous : les outils de support dopés à l'IA devraient devenir plus économiques à déployer.</p>
-<ul><li><a href="https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/">The Decoder – Claude Haiku 5.5 arrives with massive price cuts</a></li></ul>
-<h3>Le détecteur SynthID de Google ouvert à tous</h3>
-<p>Chacun peut vérifier si une image, vidéo ou un son porte le filigrane invisible des outils de Google. Il ne détecte que ce filigrane : l'absence de résultat ne prouve pas qu'un contenu est authentique. Pour vous : un bon réflexe face à une image suspecte.</p>
-<ul><li><a href="https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/">The Decoder – Google says 180 billion images and videos now carry SynthID watermarks as detector goes public</a></li></ul>
-<h3>ChatGPT pour ados jugé à risque</h3>
-<p>Common Sense Media estime que les alertes aux parents ont échoué lors de tests sur des sujets graves. OpenAI conteste. Pour vous : ne vous reposez pas uniquement sur les contrôles parentaux, parlez-en avec les jeunes.</p>
-<ul><li><a href="https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/">The Decoder – ChatGPT rated 'unacceptable risk' for teens after parental alerts failed</a></li></ul>
-<h3>En bref : jeux Google et cybersécurité</h3>
-<p>Google lance Playground pour créer des jeux en les décrivant (adultes aux États-Unis seulement), et Anthropic élargit l'accès de ses meilleurs modèles à des équipes de sécurité vérifiées. Pour vous : surtout à suivre, pas encore à essayer depuis la France pour Playground.</p>
-<ul><li><a href="https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/">The Decoder – Google bets Gemini can turn casual players into game developers with new Playground feature</a></li><li><a href="https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/">The Decoder – Anthropic gives more security teams access to Claude with fewer safety restrictions</a></li></ul>
+      <title>Le Brief IA – vendredi 9 octobre 2026</title>
+      <description><![CDATA[<p>Gemini devient un agent pour les entreprises, Claude crée des tableaux de bord et des vidéos, Google publie une appli de notes de réunion hors ligne, une faille touche des agents d'Amazon, Anthropic durcit ses règles et Windows 11 isole les agents. Conseil du jour : comparer ses notes de réunion avec celles de l'IA.</p><p>Au menu : Gemini qui agit comme un collègue, Claude qui fabrique tableaux de bord et vidéos, une appli de notes de réunion hors ligne, une faille dans des agents d'Amazon, les nouvelles règles d'Anthropic et Windows 11 qui enferme les agents.</p>
+<h3>Gemini devient un agent pour les entreprises</h3>
+<p>Google a présenté un Gemini capable de planifier et d'exécuter des tâches à partir d'un objectif, connecté à Workspace, Microsoft 365, Slack ou Jira. Pour vous : d'abord réservé aux entreprises, mais préparez-vous à tester ce type de collègue virtuel.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">TechCrunch – Google brings agentic AI to Gemini, starting with businesses</a></li></ul>
+<h3>Claude : Dashboards et Motion</h3>
+<p>Anthropic lance en bêta des tableaux de bord qui se mettent à jour seuls et des vidéos explicatives animées. Docs, Slides et Design sortent de la bêta et sont ouverts à tous. Pour vous : de quoi transformer un suivi de tests en tableau lisible ou un tutoriel en mini vidéo.</p>
+<ul><li><a href="https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/">The Decoder – Claude can now generate animated explainer videos and live data dashboards</a></li></ul>
+<h3>Foresight : notes de réunion hors ligne</h3>
+<p>Google publie une appli Mac qui transcrit les réunions et prépare un compte rendu, sans envoyer les échanges sur internet. Pour vous : à essayer si vous avez un Mac récent, même si elle ressemble à une démonstration.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">TechCrunch – Google releases a new local-first Granola competitor</a></li></ul>
+<h3>Une faille dans des agents d'Amazon</h3>
+<p>Des chercheurs ont montré qu'un agent public pouvait servir de porte d'entrée vers les autres agents d'un même compte. Amazon a corrigé en partie. Pour vous : donnez à un agent le minimum de droits et ne laissez aucun mot de passe à sa portée.</p>
+<ul><li><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">The Decoder – A single prompt was enough to hijack every AI agent in an AWS account</a></li></ul>
+<h3>Anthropic durcit ses règles d'usage</h3>
+<p>Interdiction de tromper les électeurs, de gérer de faux comptes ou de s'acharner sans but sur le modèle. Pour vous : rien ne change au quotidien, mais relisez les règles des outils utilisés au travail.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">TechCrunch – Anthropic changes usage policy to ban model abuse and election interference</a></li><li><a href="https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/">The Decoder – Being mean to Claude can now get your account suspended</a></li></ul>
+<h3>Windows 11 enferme les agents</h3>
+<p>Microsoft présente de nouveaux PC pour l'IA locale et des « conteneurs d'exécution » qui isolent les agents du reste de la machine. Pour vous : une protection prévue pour tous les utilisateurs de Windows 11.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">TechCrunch – Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Déposez une image suspecte ou générée avec Gemini dans le détecteur SynthID de Google et regardez si le filigrane apparaît.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au programme : ChatGPT devient interactif, Claude baisse ses prix, un détecteur public d'images IA, et un rapport sévère sur les ados.</p>
-<h3>ChatGPT passe aux réponses interactives</h3>
-<p>Avec GPT six, ChatGPT peut afficher des boutons, graphiques et formulaires, et même créer de mini-outils dans la conversation. Le déploiement a débuté le 7 octobre pour les abonnés, un jour plus tard pour les comptes gratuits. Pour vous : demandez un tableau comparatif ou un petit calculateur plutôt qu'un long texte.</p>
-<ul><li><a href="https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/">The Decoder – ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps</a></li></ul>
-<h3>Claude Haiku 5.5 et la guerre des prix</h3>
-<p>Anthropic lance un petit modèle rapide, environ trois quarts moins cher en moyenne que le précédent. Pour vous : les outils de support dopés à l'IA devraient devenir plus économiques à déployer.</p>
-<ul><li><a href="https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/">The Decoder – Claude Haiku 5.5 arrives with massive price cuts</a></li></ul>
-<h3>Le détecteur SynthID de Google ouvert à tous</h3>
-<p>Chacun peut vérifier si une image, vidéo ou un son porte le filigrane invisible des outils de Google. Il ne détecte que ce filigrane : l'absence de résultat ne prouve pas qu'un contenu est authentique. Pour vous : un bon réflexe face à une image suspecte.</p>
-<ul><li><a href="https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/">The Decoder – Google says 180 billion images and videos now carry SynthID watermarks as detector goes public</a></li></ul>
-<h3>ChatGPT pour ados jugé à risque</h3>
-<p>Common Sense Media estime que les alertes aux parents ont échoué lors de tests sur des sujets graves. OpenAI conteste. Pour vous : ne vous reposez pas uniquement sur les contrôles parentaux, parlez-en avec les jeunes.</p>
-<ul><li><a href="https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/">The Decoder – ChatGPT rated 'unacceptable risk' for teens after parental alerts failed</a></li></ul>
-<h3>En bref : jeux Google et cybersécurité</h3>
-<p>Google lance Playground pour créer des jeux en les décrivant (adultes aux États-Unis seulement), et Anthropic élargit l'accès de ses meilleurs modèles à des équipes de sécurité vérifiées. Pour vous : surtout à suivre, pas encore à essayer depuis la France pour Playground.</p>
-<ul><li><a href="https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/">The Decoder – Google bets Gemini can turn casual players into game developers with new Playground feature</a></li><li><a href="https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/">The Decoder – Anthropic gives more security teams access to Claude with fewer safety restrictions</a></li></ul>
+<p>Après votre prochaine réunion, demandez à votre assistant IA de résumer vos notes en trois décisions et une liste d'actions, puis comparez avec votre propre compte rendu.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au menu : Gemini qui agit comme un collègue, Claude qui fabrique tableaux de bord et vidéos, une appli de notes de réunion hors ligne, une faille dans des agents d'Amazon, les nouvelles règles d'Anthropic et Windows 11 qui enferme les agents.</p>
+<h3>Gemini devient un agent pour les entreprises</h3>
+<p>Google a présenté un Gemini capable de planifier et d'exécuter des tâches à partir d'un objectif, connecté à Workspace, Microsoft 365, Slack ou Jira. Pour vous : d'abord réservé aux entreprises, mais préparez-vous à tester ce type de collègue virtuel.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">TechCrunch – Google brings agentic AI to Gemini, starting with businesses</a></li></ul>
+<h3>Claude : Dashboards et Motion</h3>
+<p>Anthropic lance en bêta des tableaux de bord qui se mettent à jour seuls et des vidéos explicatives animées. Docs, Slides et Design sortent de la bêta et sont ouverts à tous. Pour vous : de quoi transformer un suivi de tests en tableau lisible ou un tutoriel en mini vidéo.</p>
+<ul><li><a href="https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/">The Decoder – Claude can now generate animated explainer videos and live data dashboards</a></li></ul>
+<h3>Foresight : notes de réunion hors ligne</h3>
+<p>Google publie une appli Mac qui transcrit les réunions et prépare un compte rendu, sans envoyer les échanges sur internet. Pour vous : à essayer si vous avez un Mac récent, même si elle ressemble à une démonstration.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">TechCrunch – Google releases a new local-first Granola competitor</a></li></ul>
+<h3>Une faille dans des agents d'Amazon</h3>
+<p>Des chercheurs ont montré qu'un agent public pouvait servir de porte d'entrée vers les autres agents d'un même compte. Amazon a corrigé en partie. Pour vous : donnez à un agent le minimum de droits et ne laissez aucun mot de passe à sa portée.</p>
+<ul><li><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">The Decoder – A single prompt was enough to hijack every AI agent in an AWS account</a></li></ul>
+<h3>Anthropic durcit ses règles d'usage</h3>
+<p>Interdiction de tromper les électeurs, de gérer de faux comptes ou de s'acharner sans but sur le modèle. Pour vous : rien ne change au quotidien, mais relisez les règles des outils utilisés au travail.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">TechCrunch – Anthropic changes usage policy to ban model abuse and election interference</a></li><li><a href="https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/">The Decoder – Being mean to Claude can now get your account suspended</a></li></ul>
+<h3>Windows 11 enferme les agents</h3>
+<p>Microsoft présente de nouveaux PC pour l'IA locale et des « conteneurs d'exécution » qui isolent les agents du reste de la machine. Pour vous : une protection prévue pour tous les utilisateurs de Windows 11.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">TechCrunch – Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Déposez une image suspecte ou générée avec Gemini dans le détecteur SynthID de Google et regardez si le filigrane apparaît.</p>]]></content:encoded>
-      <itunes:summary>ChatGPT affiche désormais de petits écrans interactifs avec GPT six, Claude Haiku cinq point cinq casse les prix, Google ouvre au public son détecteur de filigrane SynthID, un rapport juge ChatGPT pour ados à risque, et deux brèves : Playground de Google et l'accès cyber d'Anthropic. Conseil : tester le détecteur SynthID sur une image.</itunes:summary>
-      <guid isPermaLink="false">2026-10-08-2edcb37c</guid>
-      <pubDate>Thu, 08 Oct 2026 05:14:24 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-08.mp3?v=2edcb37c" length="1234656" type="audio/mpeg"/>
-      <itunes:duration>205</itunes:duration>
+<p>Après votre prochaine réunion, demandez à votre assistant IA de résumer vos notes en trois décisions et une liste d'actions, puis comparez avec votre propre compte rendu.</p>]]></content:encoded>
+      <itunes:summary>Gemini devient un agent pour les entreprises, Claude crée des tableaux de bord et des vidéos, Google publie une appli de notes de réunion hors ligne, une faille touche des agents d'Amazon, Anthropic durcit ses règles et Windows 11 isole les agents. Conseil du jour : comparer ses notes de réunion avec celles de l'IA.</itunes:summary>
+      <guid isPermaLink="false">2026-10-09-6b1fc8ac</guid>
+      <pubDate>Fri, 09 Oct 2026 05:15:32 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-09.mp3?v=6b1fc8ac" length="1367568" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
     </item>
   </channel>
 </rss>
