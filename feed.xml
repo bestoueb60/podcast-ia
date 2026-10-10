@@ -8,56 +8,50 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 09 Oct 2026 05:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:13:55 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – vendredi 9 octobre 2026</title>
-      <description><![CDATA[<p>Gemini devient un agent pour les entreprises, Claude crée des tableaux de bord et des vidéos, Google publie une appli de notes de réunion hors ligne, une faille touche des agents d'Amazon, Anthropic durcit ses règles et Windows 11 isole les agents. Conseil du jour : comparer ses notes de réunion avec celles de l'IA.</p><p>Au menu : Gemini qui agit comme un collègue, Claude qui fabrique tableaux de bord et vidéos, une appli de notes de réunion hors ligne, une faille dans des agents d'Amazon, les nouvelles règles d'Anthropic et Windows 11 qui enferme les agents.</p>
-<h3>Gemini devient un agent pour les entreprises</h3>
-<p>Google a présenté un Gemini capable de planifier et d'exécuter des tâches à partir d'un objectif, connecté à Workspace, Microsoft 365, Slack ou Jira. Pour vous : d'abord réservé aux entreprises, mais préparez-vous à tester ce type de collègue virtuel.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">TechCrunch – Google brings agentic AI to Gemini, starting with businesses</a></li></ul>
-<h3>Claude : Dashboards et Motion</h3>
-<p>Anthropic lance en bêta des tableaux de bord qui se mettent à jour seuls et des vidéos explicatives animées. Docs, Slides et Design sortent de la bêta et sont ouverts à tous. Pour vous : de quoi transformer un suivi de tests en tableau lisible ou un tutoriel en mini vidéo.</p>
-<ul><li><a href="https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/">The Decoder – Claude can now generate animated explainer videos and live data dashboards</a></li></ul>
-<h3>Foresight : notes de réunion hors ligne</h3>
-<p>Google publie une appli Mac qui transcrit les réunions et prépare un compte rendu, sans envoyer les échanges sur internet. Pour vous : à essayer si vous avez un Mac récent, même si elle ressemble à une démonstration.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">TechCrunch – Google releases a new local-first Granola competitor</a></li></ul>
-<h3>Une faille dans des agents d'Amazon</h3>
-<p>Des chercheurs ont montré qu'un agent public pouvait servir de porte d'entrée vers les autres agents d'un même compte. Amazon a corrigé en partie. Pour vous : donnez à un agent le minimum de droits et ne laissez aucun mot de passe à sa portée.</p>
-<ul><li><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">The Decoder – A single prompt was enough to hijack every AI agent in an AWS account</a></li></ul>
-<h3>Anthropic durcit ses règles d'usage</h3>
-<p>Interdiction de tromper les électeurs, de gérer de faux comptes ou de s'acharner sans but sur le modèle. Pour vous : rien ne change au quotidien, mais relisez les règles des outils utilisés au travail.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">TechCrunch – Anthropic changes usage policy to ban model abuse and election interference</a></li><li><a href="https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/">The Decoder – Being mean to Claude can now get your account suspended</a></li></ul>
-<h3>Windows 11 enferme les agents</h3>
-<p>Microsoft présente de nouveaux PC pour l'IA locale et des « conteneurs d'exécution » qui isolent les agents du reste de la machine. Pour vous : une protection prévue pour tous les utilisateurs de Windows 11.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">TechCrunch – Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</a></li></ul>
+      <title>Le Brief IA – samedi 10 octobre 2026</title>
+      <description><![CDATA[<p>Claude peut désormais orchestrer jusqu'à mille assistants en parallèle, Anthropic lance un détecteur de failles gratuit pour les logiciels libres, OpenAI démasque de fausses informations glissées dans de vrais médias, un livre japonais est retiré pour des décisions de justice inventées par l'IA, et en France le comité social et économique doit être consulté avant un déploiement d'IA. Conseil : demander à l'IA les cas limites à tester.</p><p>Au menu : une armée d'assistants Claude, un détecteur de failles gratuit, de fausses infos dans de vrais médias, une hallucination qui coûte un livre, et vos droits quand l'IA arrive au travail.</p>
+<h3>Claude orchestre jusqu'à mille assistants en parallèle</h3>
+<p>Anthropic ajoute des flux de travail dynamiques : un assistant planifie, distribue les tâches à d'autres assistants, puis rassemble les résultats. En test interne, cette méthode a retrouvé presque tous les bugs cachés dans un gros programme. Pour vous : encore en bêta et plutôt pour les développeurs, mais c'est un aperçu de la relecture automatique de demain.</p>
+<ul><li><a href="https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/">The Decoder – Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel</a></li></ul>
+<h3>Un détecteur de failles gratuit pour les logiciels libres</h3>
+<p>Dans son programme Cyber Mission, Anthropic propose un scanner qui parcourt le code open source, explique les failles et suggère des correctifs, avec possibilité d'erreurs. Pour vous : les outils que vous utilisez reposent sur ces logiciels, ils devraient être mieux protégés.</p>
+<ul><li><a href="https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/">The Decoder – Anthropic launches a free AI scanner for open-source projects</a></li></ul>
+<h3>De fausses infos glissées dans de vrais médias</h3>
+<p>OpenAI a démasqué deux opérations d'influence, russe et iranienne, qui utilisaient de faux journalistes pour placer des articles dans des médias réels. Les comptes ont été fermés. Pour vous : un article publié dans un média sérieux n'est pas forcément fiable, vérifiez l'auteur et recoupez.</p>
+<ul><li><a href="https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/">The Decoder – OpenAI uncovers Russian and Iranian influence ops</a></li></ul>
+<h3>Un livre retiré pour des décisions de justice inventées</h3>
+<p>Au Japon, un éditeur a retiré un livre dont trois décisions de justice citées avaient été inventées par un outil d'IA. Pour vous : plus une information est précise (citation, date, numéro), plus il faut la vérifier vous-même.</p>
+<ul><li><a href="https://www.actuia.com/veille/2026-10-10/">ActuIA – La veille du jour, 10 octobre 2026</a></li></ul>
+<h3>IA au travail : le comité social et économique doit être consulté</h3>
+<p>En France, un employeur qui introduit un outil d'IA modifiant les conditions de travail doit consulter le comité social et économique avant de décider ; plusieurs juges ont déjà suspendu des outils déployés sans cette étape. Pour vous : si votre service teste un outil d'IA, demandez si les représentants du personnel ont été consultés.</p>
+<ul><li><a href="https://www.actuia.com/actualite/quand-consulter-le-cse-avant-de-deployer-lia-octobre-2026/">ActuIA – Quand consulter le CSE avant de déployer l'IA (octobre 2026)</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Après votre prochaine réunion, demandez à votre assistant IA de résumer vos notes en trois décisions et une liste d'actions, puis comparez avec votre propre compte rendu.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au menu : Gemini qui agit comme un collègue, Claude qui fabrique tableaux de bord et vidéos, une appli de notes de réunion hors ligne, une faille dans des agents d'Amazon, les nouvelles règles d'Anthropic et Windows 11 qui enferme les agents.</p>
-<h3>Gemini devient un agent pour les entreprises</h3>
-<p>Google a présenté un Gemini capable de planifier et d'exécuter des tâches à partir d'un objectif, connecté à Workspace, Microsoft 365, Slack ou Jira. Pour vous : d'abord réservé aux entreprises, mais préparez-vous à tester ce type de collègue virtuel.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">TechCrunch – Google brings agentic AI to Gemini, starting with businesses</a></li></ul>
-<h3>Claude : Dashboards et Motion</h3>
-<p>Anthropic lance en bêta des tableaux de bord qui se mettent à jour seuls et des vidéos explicatives animées. Docs, Slides et Design sortent de la bêta et sont ouverts à tous. Pour vous : de quoi transformer un suivi de tests en tableau lisible ou un tutoriel en mini vidéo.</p>
-<ul><li><a href="https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/">The Decoder – Claude can now generate animated explainer videos and live data dashboards</a></li></ul>
-<h3>Foresight : notes de réunion hors ligne</h3>
-<p>Google publie une appli Mac qui transcrit les réunions et prépare un compte rendu, sans envoyer les échanges sur internet. Pour vous : à essayer si vous avez un Mac récent, même si elle ressemble à une démonstration.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">TechCrunch – Google releases a new local-first Granola competitor</a></li></ul>
-<h3>Une faille dans des agents d'Amazon</h3>
-<p>Des chercheurs ont montré qu'un agent public pouvait servir de porte d'entrée vers les autres agents d'un même compte. Amazon a corrigé en partie. Pour vous : donnez à un agent le minimum de droits et ne laissez aucun mot de passe à sa portée.</p>
-<ul><li><a href="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">The Decoder – A single prompt was enough to hijack every AI agent in an AWS account</a></li></ul>
-<h3>Anthropic durcit ses règles d'usage</h3>
-<p>Interdiction de tromper les électeurs, de gérer de faux comptes ou de s'acharner sans but sur le modèle. Pour vous : rien ne change au quotidien, mais relisez les règles des outils utilisés au travail.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">TechCrunch – Anthropic changes usage policy to ban model abuse and election interference</a></li><li><a href="https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/">The Decoder – Being mean to Claude can now get your account suspended</a></li></ul>
-<h3>Windows 11 enferme les agents</h3>
-<p>Microsoft présente de nouveaux PC pour l'IA locale et des « conteneurs d'exécution » qui isolent les agents du reste de la machine. Pour vous : une protection prévue pour tous les utilisateurs de Windows 11.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">TechCrunch – Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</a></li></ul>
+<p>Collez la description d'une fonctionnalité à tester dans votre assistant et demandez-lui les vingt cas limites que personne ne pense à tester, avec le résultat attendu. Triez ensuite avec votre connaissance du produit.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au menu : une armée d'assistants Claude, un détecteur de failles gratuit, de fausses infos dans de vrais médias, une hallucination qui coûte un livre, et vos droits quand l'IA arrive au travail.</p>
+<h3>Claude orchestre jusqu'à mille assistants en parallèle</h3>
+<p>Anthropic ajoute des flux de travail dynamiques : un assistant planifie, distribue les tâches à d'autres assistants, puis rassemble les résultats. En test interne, cette méthode a retrouvé presque tous les bugs cachés dans un gros programme. Pour vous : encore en bêta et plutôt pour les développeurs, mais c'est un aperçu de la relecture automatique de demain.</p>
+<ul><li><a href="https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/">The Decoder – Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel</a></li></ul>
+<h3>Un détecteur de failles gratuit pour les logiciels libres</h3>
+<p>Dans son programme Cyber Mission, Anthropic propose un scanner qui parcourt le code open source, explique les failles et suggère des correctifs, avec possibilité d'erreurs. Pour vous : les outils que vous utilisez reposent sur ces logiciels, ils devraient être mieux protégés.</p>
+<ul><li><a href="https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/">The Decoder – Anthropic launches a free AI scanner for open-source projects</a></li></ul>
+<h3>De fausses infos glissées dans de vrais médias</h3>
+<p>OpenAI a démasqué deux opérations d'influence, russe et iranienne, qui utilisaient de faux journalistes pour placer des articles dans des médias réels. Les comptes ont été fermés. Pour vous : un article publié dans un média sérieux n'est pas forcément fiable, vérifiez l'auteur et recoupez.</p>
+<ul><li><a href="https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/">The Decoder – OpenAI uncovers Russian and Iranian influence ops</a></li></ul>
+<h3>Un livre retiré pour des décisions de justice inventées</h3>
+<p>Au Japon, un éditeur a retiré un livre dont trois décisions de justice citées avaient été inventées par un outil d'IA. Pour vous : plus une information est précise (citation, date, numéro), plus il faut la vérifier vous-même.</p>
+<ul><li><a href="https://www.actuia.com/veille/2026-10-10/">ActuIA – La veille du jour, 10 octobre 2026</a></li></ul>
+<h3>IA au travail : le comité social et économique doit être consulté</h3>
+<p>En France, un employeur qui introduit un outil d'IA modifiant les conditions de travail doit consulter le comité social et économique avant de décider ; plusieurs juges ont déjà suspendu des outils déployés sans cette étape. Pour vous : si votre service teste un outil d'IA, demandez si les représentants du personnel ont été consultés.</p>
+<ul><li><a href="https://www.actuia.com/actualite/quand-consulter-le-cse-avant-de-deployer-lia-octobre-2026/">ActuIA – Quand consulter le CSE avant de déployer l'IA (octobre 2026)</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Après votre prochaine réunion, demandez à votre assistant IA de résumer vos notes en trois décisions et une liste d'actions, puis comparez avec votre propre compte rendu.</p>]]></content:encoded>
-      <itunes:summary>Gemini devient un agent pour les entreprises, Claude crée des tableaux de bord et des vidéos, Google publie une appli de notes de réunion hors ligne, une faille touche des agents d'Amazon, Anthropic durcit ses règles et Windows 11 isole les agents. Conseil du jour : comparer ses notes de réunion avec celles de l'IA.</itunes:summary>
-      <guid isPermaLink="false">2026-10-09-6b1fc8ac</guid>
-      <pubDate>Fri, 09 Oct 2026 05:15:32 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-09.mp3?v=6b1fc8ac" length="1367568" type="audio/mpeg"/>
-      <itunes:duration>227</itunes:duration>
+<p>Collez la description d'une fonctionnalité à tester dans votre assistant et demandez-lui les vingt cas limites que personne ne pense à tester, avec le résultat attendu. Triez ensuite avec votre connaissance du produit.</p>]]></content:encoded>
+      <itunes:summary>Claude peut désormais orchestrer jusqu'à mille assistants en parallèle, Anthropic lance un détecteur de failles gratuit pour les logiciels libres, OpenAI démasque de fausses informations glissées dans de vrais médias, un livre japonais est retiré pour des décisions de justice inventées par l'IA, et en France le comité social et économique doit être consulté avant un déploiement d'IA. Conseil : demander à l'IA les cas limites à tester.</itunes:summary>
+      <guid isPermaLink="false">2026-10-10-91dcf30e</guid>
+      <pubDate>Sat, 10 Oct 2026 05:13:51 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-10.mp3?v=91dcf30e" length="1263312" type="audio/mpeg"/>
+      <itunes:duration>210</itunes:duration>
     </item>
   </channel>
 </rss>
