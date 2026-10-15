@@ -11,3 +11,4 @@
 2026-10-12 : équipes d'assistants IA coûteuses ; Nadella frein d'urgence et journal d'actions ; Apple recrute l'équipe Huxe ; voix artificielle ; arXiv limite les publications ; conseil : demander un journal de bord
 2026-10-13 : Meta Muse Wonder ; effacer l'historique d'un assistant ; Maison Blanche et tests britanniques ; application Ambi ; Karpathy sur l'usage limité de l'IA ; conseil : résumer une conversation puis repartir à neuf
 2026-10-14 : Gemini 4 Argon disponible pour les abonnés ; American Express et les achats par agents IA ; faillite de Character.AI ; Anthropic et les objets connectés mal protégés ; lettre de 406 scientifiques ; conseil : faire reformuler une réponse de support
+2026-10-15 : Nvidia investit en France ; assistants IA qui contournent des protections ; compte de chatbot partagé et enquête OpenAI ; Orion-1 IA pour la sécurité ; prochains modèles d'OpenAI ; conseil : vérifier les appareils connectés à son compte IA
