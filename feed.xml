@@ -8,80 +8,56 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 20 Oct 2026 05:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:16:47 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – mardi 20 octobre 2026</title>
-      <description><![CDATA[<p>Des clés d'accès volées chez l'outil OpenCode, l'avertissement de Microsoft sur les assistants autonomes, de nouveaux modèles Nvidia qui tournent en local, une règle italienne sur les décisions d'emploi prises avec l'IA, et des télévisions nettoyées par des assistants. Conseil du jour : faire le tri de ses clés d'accès et fixer un plafond de dépenses.</p><p>Au menu : un piratage qui touche des clés d'accès d'IA, un avertissement de Microsoft, des modèles qui tournent sur votre ordinateur, une règle italienne sur l'emploi et des télés nettoyées par l'IA.</p>
-<h3>Des clés d'accès volées chez OpenCode</h3>
-<p>La plateforme en ligne de l'assistant de programmation OpenCode a été piratée, exposant les clés d'accès d'environ un utilisateur sur soixante-dix. Certains ont vu des centaines de dollars de dépenses inconnues sur leurs comptes d'IA. Pour vous : révoquez et remplacez vos clés chez chaque fournisseur si vous en avez confié à un outil tiers.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/">TechCrunch – Hackers hit AI coding tool OpenCode, running up charges on users' AI accounts</a></li>
-</ul>
-<h3>Microsoft : les assistants autonomes sont comme des collaborateurs à risque</h3>
-<p>Microsoft estime qu'on ne peut pas faire confiance aveuglément aux grands modèles, car ils sont imprévisibles. Elle recommande des accès limités, une surveillance indépendante et une validation humaine des actions risquées. Pour vous : donnez à un assistant uniquement les droits dont il a besoin.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">TechCrunch – Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'</a></li>
-</ul>
-<h3>Nvidia : des modèles ouverts qui tournent en local</h3>
-<p>Nvidia lance des modèles ouverts, dont de petits modèles prévus pour des PC récents, qui fonctionnent sans envoyer les données dans le nuage. Pour vous : une piste à évoquer avec votre service informatique si la confidentialité est un souci.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/">TechCrunch – Nvidia launches new open models to run agents in the enterprise and on PCs</a></li>
-</ul>
-<h3>Italie : un humain doit décider</h3>
-<p>Dès le 23 octobre, une décision d'emploi (licenciement, sanction, évaluation) prise avec l'aide d'une IA devra être tranchée par une personne ayant un vrai pouvoir, sous peine de nullité. Une proposition de loi comparable existe au Sénat français. Pour vous : « l'IA conseille, l'humain décide » devient une règle.</p>
-<ul>
-<li><a href="https://www.actuia.com/actualite/italie-des-le-23-octobre-licencier-ou-sanctionner-avec-lia-exige-un-decideur-humain-sous-peine-de-nullite/">ActuIA – Italie : dès le 23 octobre, licencier ou sanctionner avec l'IA exige un décideur humain</a></li>
-</ul>
-<h3>Des télévisions nettoyées par l'IA</h3>
-<p>Des internautes utilisent des assistants de programmation pour retirer publicités, applications inutiles et suivi des télévisions connectées, mais un appareil a été rendu inutilisable. Pour vous : vérifiez ce que l'IA propose de supprimer avant de la laisser toucher un appareil.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/">TechCrunch – People are using AI to make their smart TVs dumb again</a></li>
-</ul>
-<h3>Un fonds Anthropic pour l'emploi</h3>
-<p>Anthropic prévoit de placer cinq pour cent de ses actions dans un fonds d'intérêt public, notamment pour aider les personnes touchées par l'IA. Pour vous : le sujet de l'emploi devient central.</p>
-<ul>
-<li><a href="https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/">The Decoder – Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children</a></li>
-</ul>
+      <title>Le Brief IA – mercredi 21 octobre 2026</title>
+      <description><![CDATA[<p>ChatGPT permet de verrouiller des conversations, des consignes cachées sont découvertes dans les pages d'aide de WhatsApp, des pirates utilisent des assistants IA contre des sites marchands, Mistral lance Voxtral trois pour la voix, Yelp teste un assistant qui appelle les restaurants, et les États-Unis écartent DeepSeek de leurs administrations civiles. Conseil du jour : poser trois fois la même question à son assistant pour tester sa constance.</p><p>Au menu : un cadenas pour vos conversations ChatGPT, des consignes cachées chez WhatsApp, des pirates aidés par l'IA, la voix de Mistral, un assistant qui téléphone pour vous et DeepSeek écarté aux États-Unis.</p>
+<h3>ChatGPT : verrouiller ses conversations</h3>
+<p>OpenAI permet de protéger certaines conversations par un code ou par Face ID, dans un espace séparé avec sa propre mémoire. Ce n'est pas un chiffrement de bout en bout. Pour vous : utile quand d'autres peuvent voir votre écran.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/">TechCrunch – ChatGPT adds the ability to lock chats</a></li></ul>
+<h3>WhatsApp : consignes cachées pour une IA</h3>
+<p>Une société a repéré des textes invisibles destinés à une IA dans des pages d'aide de WhatsApp, dont une consigne évitant de recommander de contacter un régulateur. WhatsApp évoque un bug corrigé. Pour vous : relisez les consignes de vos propres chatbots de support.</p>
+<ul><li><a href="https://www.actuia.com/actualite/pages-daide-de-whatsapp-une-consigne-cachee-interdisait-de-recommander-un-regulateur/">ActuIA – Pages d'aide de WhatsApp : une consigne cachée interdisait de recommander un régulateur</a></li></ul>
+<h3>Des agents IA au service des pirates</h3>
+<p>Selon une enquête, des pirates ont piloté des assistants IA contre des sites marchands et touché plus d'une centaine d'entreprises, souvent via des sites annexes oubliés. Pour vous : inventoriez aussi les petits sites secondaires.</p>
+<ul><li><a href="https://www.actuia.com/actualite/un-pirate-a-perce-les-sites-de-plus-de-100-entreprises-dont-deere-avec-des-agents-dia/">ActuIA – Un pirate a percé les sites de plus de 100 entreprises, dont Deere, avec des agents d'IA</a></li></ul>
+<h3>Mistral lance Voxtral 3</h3>
+<p>Mistral propose un ensemble qui écoute, réfléchit et répond à voix haute en temps réel, hébergeable en Europe. Pour vous : attendez-vous à des standards vocaux bien plus naturels.</p>
+<ul><li><a href="https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/">The Decoder – Mistral AI launches Voxtral 3</a></li></ul>
+<h3>Yelp : un assistant qui téléphone au restaurant</h3>
+<p>La fonction « Check for Me » appelle le restaurant pour connaître l'attente, puis envoie un SMS. Pour vous : un aperçu des assistants qui téléphonent à notre place, pour l'instant aux États-Unis.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/">TechCrunch – Yelp can now call on your behalf to check wait times at a restaurant</a></li></ul>
+<h3>DeepSeek écarté des administrations américaines</h3>
+<p>Washington ordonne aux agences civiles de retirer DeepSeek et les produits qui s'appuient sur lui, par crainte pour les données. Pour vous : demandez à vos fournisseurs quel modèle se cache derrière leurs outils.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/">TechCrunch – US orders federal agencies to remove China's DeepSeek AI from their systems</a></li><li><a href="https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/">The Decoder – US bans Deepseek technology across federal civilian agencies</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Ouvrez la page de gestion de votre compte chez votre fournisseur d'IA, supprimez les clés d'accès inconnues ou inutilisées et fixez un plafond de dépenses mensuel.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au menu : un piratage qui touche des clés d'accès d'IA, un avertissement de Microsoft, des modèles qui tournent sur votre ordinateur, une règle italienne sur l'emploi et des télés nettoyées par l'IA.</p>
-<h3>Des clés d'accès volées chez OpenCode</h3>
-<p>La plateforme en ligne de l'assistant de programmation OpenCode a été piratée, exposant les clés d'accès d'environ un utilisateur sur soixante-dix. Certains ont vu des centaines de dollars de dépenses inconnues sur leurs comptes d'IA. Pour vous : révoquez et remplacez vos clés chez chaque fournisseur si vous en avez confié à un outil tiers.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/">TechCrunch – Hackers hit AI coding tool OpenCode, running up charges on users' AI accounts</a></li>
-</ul>
-<h3>Microsoft : les assistants autonomes sont comme des collaborateurs à risque</h3>
-<p>Microsoft estime qu'on ne peut pas faire confiance aveuglément aux grands modèles, car ils sont imprévisibles. Elle recommande des accès limités, une surveillance indépendante et une validation humaine des actions risquées. Pour vous : donnez à un assistant uniquement les droits dont il a besoin.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">TechCrunch – Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'</a></li>
-</ul>
-<h3>Nvidia : des modèles ouverts qui tournent en local</h3>
-<p>Nvidia lance des modèles ouverts, dont de petits modèles prévus pour des PC récents, qui fonctionnent sans envoyer les données dans le nuage. Pour vous : une piste à évoquer avec votre service informatique si la confidentialité est un souci.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/">TechCrunch – Nvidia launches new open models to run agents in the enterprise and on PCs</a></li>
-</ul>
-<h3>Italie : un humain doit décider</h3>
-<p>Dès le 23 octobre, une décision d'emploi (licenciement, sanction, évaluation) prise avec l'aide d'une IA devra être tranchée par une personne ayant un vrai pouvoir, sous peine de nullité. Une proposition de loi comparable existe au Sénat français. Pour vous : « l'IA conseille, l'humain décide » devient une règle.</p>
-<ul>
-<li><a href="https://www.actuia.com/actualite/italie-des-le-23-octobre-licencier-ou-sanctionner-avec-lia-exige-un-decideur-humain-sous-peine-de-nullite/">ActuIA – Italie : dès le 23 octobre, licencier ou sanctionner avec l'IA exige un décideur humain</a></li>
-</ul>
-<h3>Des télévisions nettoyées par l'IA</h3>
-<p>Des internautes utilisent des assistants de programmation pour retirer publicités, applications inutiles et suivi des télévisions connectées, mais un appareil a été rendu inutilisable. Pour vous : vérifiez ce que l'IA propose de supprimer avant de la laisser toucher un appareil.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/">TechCrunch – People are using AI to make their smart TVs dumb again</a></li>
-</ul>
-<h3>Un fonds Anthropic pour l'emploi</h3>
-<p>Anthropic prévoit de placer cinq pour cent de ses actions dans un fonds d'intérêt public, notamment pour aider les personnes touchées par l'IA. Pour vous : le sujet de l'emploi devient central.</p>
-<ul>
-<li><a href="https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/">The Decoder – Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children</a></li>
-</ul>
+<p>Posez la même question à votre assistant IA de trois façons différentes et comparez les réponses : si elles se contredisent, méfiance sur ce sujet.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au menu : un cadenas pour vos conversations ChatGPT, des consignes cachées chez WhatsApp, des pirates aidés par l'IA, la voix de Mistral, un assistant qui téléphone pour vous et DeepSeek écarté aux États-Unis.</p>
+<h3>ChatGPT : verrouiller ses conversations</h3>
+<p>OpenAI permet de protéger certaines conversations par un code ou par Face ID, dans un espace séparé avec sa propre mémoire. Ce n'est pas un chiffrement de bout en bout. Pour vous : utile quand d'autres peuvent voir votre écran.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/">TechCrunch – ChatGPT adds the ability to lock chats</a></li></ul>
+<h3>WhatsApp : consignes cachées pour une IA</h3>
+<p>Une société a repéré des textes invisibles destinés à une IA dans des pages d'aide de WhatsApp, dont une consigne évitant de recommander de contacter un régulateur. WhatsApp évoque un bug corrigé. Pour vous : relisez les consignes de vos propres chatbots de support.</p>
+<ul><li><a href="https://www.actuia.com/actualite/pages-daide-de-whatsapp-une-consigne-cachee-interdisait-de-recommander-un-regulateur/">ActuIA – Pages d'aide de WhatsApp : une consigne cachée interdisait de recommander un régulateur</a></li></ul>
+<h3>Des agents IA au service des pirates</h3>
+<p>Selon une enquête, des pirates ont piloté des assistants IA contre des sites marchands et touché plus d'une centaine d'entreprises, souvent via des sites annexes oubliés. Pour vous : inventoriez aussi les petits sites secondaires.</p>
+<ul><li><a href="https://www.actuia.com/actualite/un-pirate-a-perce-les-sites-de-plus-de-100-entreprises-dont-deere-avec-des-agents-dia/">ActuIA – Un pirate a percé les sites de plus de 100 entreprises, dont Deere, avec des agents d'IA</a></li></ul>
+<h3>Mistral lance Voxtral 3</h3>
+<p>Mistral propose un ensemble qui écoute, réfléchit et répond à voix haute en temps réel, hébergeable en Europe. Pour vous : attendez-vous à des standards vocaux bien plus naturels.</p>
+<ul><li><a href="https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/">The Decoder – Mistral AI launches Voxtral 3</a></li></ul>
+<h3>Yelp : un assistant qui téléphone au restaurant</h3>
+<p>La fonction « Check for Me » appelle le restaurant pour connaître l'attente, puis envoie un SMS. Pour vous : un aperçu des assistants qui téléphonent à notre place, pour l'instant aux États-Unis.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/">TechCrunch – Yelp can now call on your behalf to check wait times at a restaurant</a></li></ul>
+<h3>DeepSeek écarté des administrations américaines</h3>
+<p>Washington ordonne aux agences civiles de retirer DeepSeek et les produits qui s'appuient sur lui, par crainte pour les données. Pour vous : demandez à vos fournisseurs quel modèle se cache derrière leurs outils.</p>
+<ul><li><a href="https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/">TechCrunch – US orders federal agencies to remove China's DeepSeek AI from their systems</a></li><li><a href="https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/">The Decoder – US bans Deepseek technology across federal civilian agencies</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Ouvrez la page de gestion de votre compte chez votre fournisseur d'IA, supprimez les clés d'accès inconnues ou inutilisées et fixez un plafond de dépenses mensuel.</p>]]></content:encoded>
-      <itunes:summary>Des clés d'accès volées chez l'outil OpenCode, l'avertissement de Microsoft sur les assistants autonomes, de nouveaux modèles Nvidia qui tournent en local, une règle italienne sur les décisions d'emploi prises avec l'IA, et des télévisions nettoyées par des assistants. Conseil du jour : faire le tri de ses clés d'accès et fixer un plafond de dépenses.</itunes:summary>
-      <guid isPermaLink="false">2026-10-20-d69f9815</guid>
-      <pubDate>Tue, 20 Oct 2026 05:10:59 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-20.mp3?v=d69f9815" length="1356336" type="audio/mpeg"/>
-      <itunes:duration>226</itunes:duration>
+<p>Posez la même question à votre assistant IA de trois façons différentes et comparez les réponses : si elles se contredisent, méfiance sur ce sujet.</p>]]></content:encoded>
+      <itunes:summary>ChatGPT permet de verrouiller des conversations, des consignes cachées sont découvertes dans les pages d'aide de WhatsApp, des pirates utilisent des assistants IA contre des sites marchands, Mistral lance Voxtral trois pour la voix, Yelp teste un assistant qui appelle les restaurants, et les États-Unis écartent DeepSeek de leurs administrations civiles. Conseil du jour : poser trois fois la même question à son assistant pour tester sa constance.</itunes:summary>
+      <guid isPermaLink="false">2026-10-21-03c28197</guid>
+      <pubDate>Wed, 21 Oct 2026 05:13:26 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-21.mp3?v=03c28197" length="1211040" type="audio/mpeg"/>
+      <itunes:duration>201</itunes:duration>
     </item>
   </channel>
 </rss>
