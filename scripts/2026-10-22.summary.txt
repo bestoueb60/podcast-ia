@@ -1,0 +1,1 @@
+Des IA découvrent de graves failles dans PHP, Walmart ouvre ses portes aux assistants d'achat quand Amazon les bloque, Google propose les modèles d'OpenAI, une enquête montre que les managers jugent plus difficilement le travail aidé par l'IA, et Anthropic propose une loi américaine de sécurité. Conseil : demander à son équipe technique quelle version de PHP est utilisée.
