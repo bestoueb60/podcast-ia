@@ -1,0 +1,1 @@
+Une IA qui prouve que des logiciels libres sont sûrs, un audit qui révèle des trous dans la surveillance des assistants d'OpenAI, Canva et son nouveau générateur d'images, Google et des bulles isolées pour chaque assistant, la première norme de l'AI Act. Conseil du jour : demander à l'IA de chercher comment faire échouer votre scénario de test.
