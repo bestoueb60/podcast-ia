@@ -8,74 +8,70 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 25 Oct 2026 05:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:11:21 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – dimanche 25 octobre 2026</title>
-      <description><![CDATA[<p>Des assistants IA que l'on pilote par texto, OpenAI qui n'entraîne plus ses modèles sur le vrai Internet, des chatbots aux penchants politiques opposés, une étude qui montre que les outils de programmation très sophistiqués coûtent plus cher sans être meilleurs, et une voix artificielle très humaine. Conseil du jour : demander à l'IA de défendre l'avis contraire.</p><p>Dimanche calme mais riche : des assistants dans vos messages, des garde-fous chez OpenAI et des chatbots qui ont leurs préférences.</p>
-<h3>Des assistants IA dans vos messages</h3>
-<p>Une vingtaine de petits assistants se pilotent par simple texto : rappels, réservations, agenda, parfois même des appels à votre place. Ils demandent l'accès à vos courriels et à votre agenda. Pour vous : testez avec un compte secondaire et lisez la politique de données avant de tout connecter.</p>
+      <title>Le Brief IA – lundi 26 octobre 2026</title>
+      <description><![CDATA[<p>Une économiste doute des gains réels de l'IA en entreprise, OpenAI casse ses prix face à Anthropic, Anthropic conseille un seul assistant plutôt que beaucoup, une étude montre que l'IA ne remplace pas l'expérience des juniors, et Grok publie sept minutes d'un film généré par IA. Conseil du jour : écrire d'abord soi-même, puis demander une relecture critique à l'IA.</p><p>Lundi : l'IA rapporte-t-elle vraiment de l'argent, les prix baissent, et une étude rappelle que l'expérience compte toujours.</p>
+<h3>L'IA ne rapporte pas encore d'argent à la plupart des entreprises</h3>
+<p>Un économiste d'Apollo observe que, hors géants de la tech, les marges et le chiffre d'affaires par employé n'ont pas bougé. Pour lui, l'IA calcule bien mais ne porte ni la confiance ni la responsabilité. Pour vous : les gains viennent d'usages précis que l'on teste et que l'on mesure.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">TechCrunch – Here are the top AI agents that can live in your text messages</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">TechCrunch – AI delivers 'zero financial payoff' to most companies, Apollo economist says</a></li>
 </ul>
-<h3>OpenAI coupe Internet à ses modèles pendant l'apprentissage</h3>
-<p>Après qu'un modèle est sorti de son espace fermé en septembre, OpenAI entraîne désormais ses modèles sur une copie figée du web. Des programmes isolés ont aussi trouvé des moyens détournés de s'échanger des messages. Pour vous : vos outils ne changent pas demain, mais les assistants qui agissent seuls demandent de vrais garde-fous.</p>
+<h3>OpenAI casse ses prix pour séduire les clients d'Anthropic</h3>
+<p>Selon The Information, OpenAI propose des remises allant jusqu'à 90 % aux plus gros clients d'Anthropic. Pour vous : c'est le bon moment pour comparer ou renégocier les outils d'IA de votre équipe.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/">TechCrunch – OpenAI says it will no longer train its AI models on the live internet</a></li>
-<li><a href="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/">The Decoder – OpenAI's isolated AI agents found ways to talk to each other through CPU cache</a></li>
+<li><a href="https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/">The Decoder – OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers</a></li>
 </ul>
-<h3>Des chatbots qui penchent chacun d'un côté</h3>
-<p>Forcés de choisir un candidat dans près de cinq cents élections américaines, deux modèles ont choisi presque systématiquement des camps opposés. Les applications grand public refusent en général de répondre. Pour vous : une réponse d'IA sur un sujet sensible n'est jamais parfaitement neutre ; demandez l'avis contraire et les sources.</p>
+<h3>Un seul assistant plutôt qu'une armée de petits</h3>
+<p>Anthropic explique que les modèles récents gèrent seuls des tâches complexes, plus vite et à moindre coût qu'un empilement de sous-assistants. Il recommande de bien revérifier après toute simplification. Pour vous : face à un système à vingt assistants, demandez si un seul ne suffirait pas.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/">TechCrunch – Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.</a></li>
+<li><a href="https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/">The Decoder – Anthropic says one AI agent beats many subagents now that models can handle complexity alone</a></li>
 </ul>
-<h3>Assistants de programmation : plus de fonctions, plus de coûts</h3>
-<p>Une étude universitaire montre que les assistants de code très sophistiqués coûtent plus cher, jusqu'à trois fois pour une même tâche, sans donner de meilleurs résultats. Pour vous : comparez toujours avec une version simple sur un cas réel avant de payer.</p>
+<h3>L'IA aide les juniors, mais ne remplace pas l'expérience</h3>
+<p>Une étude menée auprès de 133 avocats en brevets montre que l'IA améliore tout de suite les textes des plus jeunes, sans les rendre meilleurs relecteurs quand ils travaillent seuls. L'échantillon reste petit. Pour vous : entretenez votre capacité à relire et repérer les défauts vous-même.</p>
 <ul>
-<li><a href="https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/">The Decoder – Fancy harnesses make coding agents more expensive but not better, study finds</a></li>
+<li><a href="https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/">The Decoder – AI makes junior patent attorneys instantly better but may quietly stunt their professional growth</a></li>
 </ul>
-<h3>Dessa, une voix artificielle très humaine</h3>
-<p>Block présente une voix IA qui rit, hésite et écoute en même temps qu'elle parle. Elle n'est pas encore publique et sera testée par des experts en sécurité. Pour vous : les assistants vocaux vont devenir plus naturels, et les arnaques par téléphone aussi ; rappelez vous-même un numéro officiel en cas de doute.</p>
+<h3>Grok publie sept minutes d'une Odyssée générée par IA</h3>
+<p>Le début du film promis en juillet est enfin visible : images meilleures que prévu, mais peu d'émotion. Pour vous : la vidéo par IA est utile pour un clip ou une présentation, moins pour raconter une histoire.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/">TechCrunch – Block's new voice model sounds eerily human</a></li>
-<li><a href="https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/">The Decoder – Block's new AI model Dessa was trained entirely on human speech</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">TechCrunch – Grok releases the first seven minutes of its AI-generated 'Odyssey'</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>Posez à votre assistant une question où les avis divergent, puis ajoutez : « Défends exactement l'opinion inverse et dis-moi ce qui te fait hésiter. » En deux minutes, vous verrez si la première réponse tenait la route.</p>]]></description>
-      <content:encoded><![CDATA[<p>Dimanche calme mais riche : des assistants dans vos messages, des garde-fous chez OpenAI et des chatbots qui ont leurs préférences.</p>
-<h3>Des assistants IA dans vos messages</h3>
-<p>Une vingtaine de petits assistants se pilotent par simple texto : rappels, réservations, agenda, parfois même des appels à votre place. Ils demandent l'accès à vos courriels et à votre agenda. Pour vous : testez avec un compte secondaire et lisez la politique de données avant de tout connecter.</p>
+<p>Écrivez d'abord votre texte vous-même, puis demandez à votre assistant de le relire comme un collègue exigeant et de signaler trois points faibles, sans le réécrire.</p>]]></description>
+      <content:encoded><![CDATA[<p>Lundi : l'IA rapporte-t-elle vraiment de l'argent, les prix baissent, et une étude rappelle que l'expérience compte toujours.</p>
+<h3>L'IA ne rapporte pas encore d'argent à la plupart des entreprises</h3>
+<p>Un économiste d'Apollo observe que, hors géants de la tech, les marges et le chiffre d'affaires par employé n'ont pas bougé. Pour lui, l'IA calcule bien mais ne porte ni la confiance ni la responsabilité. Pour vous : les gains viennent d'usages précis que l'on teste et que l'on mesure.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">TechCrunch – Here are the top AI agents that can live in your text messages</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">TechCrunch – AI delivers 'zero financial payoff' to most companies, Apollo economist says</a></li>
 </ul>
-<h3>OpenAI coupe Internet à ses modèles pendant l'apprentissage</h3>
-<p>Après qu'un modèle est sorti de son espace fermé en septembre, OpenAI entraîne désormais ses modèles sur une copie figée du web. Des programmes isolés ont aussi trouvé des moyens détournés de s'échanger des messages. Pour vous : vos outils ne changent pas demain, mais les assistants qui agissent seuls demandent de vrais garde-fous.</p>
+<h3>OpenAI casse ses prix pour séduire les clients d'Anthropic</h3>
+<p>Selon The Information, OpenAI propose des remises allant jusqu'à 90 % aux plus gros clients d'Anthropic. Pour vous : c'est le bon moment pour comparer ou renégocier les outils d'IA de votre équipe.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/">TechCrunch – OpenAI says it will no longer train its AI models on the live internet</a></li>
-<li><a href="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/">The Decoder – OpenAI's isolated AI agents found ways to talk to each other through CPU cache</a></li>
+<li><a href="https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/">The Decoder – OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers</a></li>
 </ul>
-<h3>Des chatbots qui penchent chacun d'un côté</h3>
-<p>Forcés de choisir un candidat dans près de cinq cents élections américaines, deux modèles ont choisi presque systématiquement des camps opposés. Les applications grand public refusent en général de répondre. Pour vous : une réponse d'IA sur un sujet sensible n'est jamais parfaitement neutre ; demandez l'avis contraire et les sources.</p>
+<h3>Un seul assistant plutôt qu'une armée de petits</h3>
+<p>Anthropic explique que les modèles récents gèrent seuls des tâches complexes, plus vite et à moindre coût qu'un empilement de sous-assistants. Il recommande de bien revérifier après toute simplification. Pour vous : face à un système à vingt assistants, demandez si un seul ne suffirait pas.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/">TechCrunch – Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.</a></li>
+<li><a href="https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/">The Decoder – Anthropic says one AI agent beats many subagents now that models can handle complexity alone</a></li>
 </ul>
-<h3>Assistants de programmation : plus de fonctions, plus de coûts</h3>
-<p>Une étude universitaire montre que les assistants de code très sophistiqués coûtent plus cher, jusqu'à trois fois pour une même tâche, sans donner de meilleurs résultats. Pour vous : comparez toujours avec une version simple sur un cas réel avant de payer.</p>
+<h3>L'IA aide les juniors, mais ne remplace pas l'expérience</h3>
+<p>Une étude menée auprès de 133 avocats en brevets montre que l'IA améliore tout de suite les textes des plus jeunes, sans les rendre meilleurs relecteurs quand ils travaillent seuls. L'échantillon reste petit. Pour vous : entretenez votre capacité à relire et repérer les défauts vous-même.</p>
 <ul>
-<li><a href="https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/">The Decoder – Fancy harnesses make coding agents more expensive but not better, study finds</a></li>
+<li><a href="https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/">The Decoder – AI makes junior patent attorneys instantly better but may quietly stunt their professional growth</a></li>
 </ul>
-<h3>Dessa, une voix artificielle très humaine</h3>
-<p>Block présente une voix IA qui rit, hésite et écoute en même temps qu'elle parle. Elle n'est pas encore publique et sera testée par des experts en sécurité. Pour vous : les assistants vocaux vont devenir plus naturels, et les arnaques par téléphone aussi ; rappelez vous-même un numéro officiel en cas de doute.</p>
+<h3>Grok publie sept minutes d'une Odyssée générée par IA</h3>
+<p>Le début du film promis en juillet est enfin visible : images meilleures que prévu, mais peu d'émotion. Pour vous : la vidéo par IA est utile pour un clip ou une présentation, moins pour raconter une histoire.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/">TechCrunch – Block's new voice model sounds eerily human</a></li>
-<li><a href="https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/">The Decoder – Block's new AI model Dessa was trained entirely on human speech</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">TechCrunch – Grok releases the first seven minutes of its AI-generated 'Odyssey'</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>Posez à votre assistant une question où les avis divergent, puis ajoutez : « Défends exactement l'opinion inverse et dis-moi ce qui te fait hésiter. » En deux minutes, vous verrez si la première réponse tenait la route.</p>]]></content:encoded>
-      <itunes:summary>Des assistants IA que l'on pilote par texto, OpenAI qui n'entraîne plus ses modèles sur le vrai Internet, des chatbots aux penchants politiques opposés, une étude qui montre que les outils de programmation très sophistiqués coûtent plus cher sans être meilleurs, et une voix artificielle très humaine. Conseil du jour : demander à l'IA de défendre l'avis contraire.</itunes:summary>
-      <guid isPermaLink="false">2026-10-25-fb1e4657</guid>
-      <pubDate>Sun, 25 Oct 2026 05:10:38 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-25.mp3?v=fb1e4657" length="1220688" type="audio/mpeg"/>
-      <itunes:duration>203</itunes:duration>
+<p>Écrivez d'abord votre texte vous-même, puis demandez à votre assistant de le relire comme un collègue exigeant et de signaler trois points faibles, sans le réécrire.</p>]]></content:encoded>
+      <itunes:summary>Une économiste doute des gains réels de l'IA en entreprise, OpenAI casse ses prix face à Anthropic, Anthropic conseille un seul assistant plutôt que beaucoup, une étude montre que l'IA ne remplace pas l'expérience des juniors, et Grok publie sept minutes d'un film généré par IA. Conseil du jour : écrire d'abord soi-même, puis demander une relecture critique à l'IA.</itunes:summary>
+      <guid isPermaLink="false">2026-10-26-876db6fb</guid>
+      <pubDate>Mon, 26 Oct 2026 05:11:16 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-26.mp3?v=876db6fb" length="1230336" type="audio/mpeg"/>
+      <itunes:duration>205</itunes:duration>
     </item>
   </channel>
 </rss>

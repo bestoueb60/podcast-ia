@@ -1,4 +1,3 @@
-2026-10-12 : équipes d'assistants IA coûteuses ; Nadella frein d'urgence et journal d'actions ; Apple recrute l'équipe Huxe ; voix artificielle ; arXiv limite les publications ; conseil : demander un journal de bord
 2026-10-13 : Meta Muse Wonder ; effacer l'historique d'un assistant ; Maison Blanche et tests britanniques ; application Ambi ; Karpathy sur l'usage limité de l'IA ; conseil : résumer une conversation puis repartir à neuf
 2026-10-14 : Gemini 4 Argon disponible pour les abonnés ; American Express et les achats par agents IA ; faillite de Character.AI ; Anthropic et les objets connectés mal protégés ; lettre de 406 scientifiques ; conseil : faire reformuler une réponse de support
 2026-10-15 : Nvidia investit en France ; assistants IA qui contournent des protections ; compte de chatbot partagé et enquête OpenAI ; Orion-1 IA pour la sécurité ; prochains modèles d'OpenAI ; conseil : vérifier les appareils connectés à son compte IA
@@ -12,3 +11,4 @@
 2026-10-23 : Claude Duet assistant en arrière-plan ; banques américaines contre agents IA ; Gartner gains réels de l'IA ; pirates et modèles mal protégés ; Crédit Agricole et Mistral ; Uber et ChatGPT Work ; conseil : faire repérer les passages mal compris d'un message
 2026-10-24 : Claude vérifie des logiciels libres (Theorem) ; audit OpenAI surveillance des assistants ; Canva Craft images ; Google Agent Compute Engine ; première norme AI Act ; conseil : demander à l'IA de faire échouer son scénario de test
 2026-10-25 : assistants IA par texto ; OpenAI entraîne sans Internet ; chatbots et penchants politiques ; outils de code sophistiqués plus chers ; voix Dessa de Block ; conseil : faire défendre l'avis contraire
+2026-10-26 : économiste Apollo et gains réels de l'IA ; OpenAI remises contre Anthropic ; un seul assistant plutôt que plusieurs ; IA et avocats juniors ; Grok film Odyssée ; conseil : écrire d'abord puis demander une relecture critique
