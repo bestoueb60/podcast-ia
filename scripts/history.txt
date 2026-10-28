@@ -11,3 +11,4 @@
 2026-10-25 : assistants IA par texto ; OpenAI entraîne sans Internet ; chatbots et penchants politiques ; outils de code sophistiqués plus chers ; voix Dessa de Block ; conseil : faire défendre l'avis contraire
 2026-10-26 : économiste Apollo et gains réels de l'IA ; OpenAI remises contre Anthropic ; un seul assistant plutôt que plusieurs ; IA et avocats juniors ; Grok film Odyssée ; conseil : écrire d'abord puis demander une relecture critique
 2026-10-27 : dots assistant permanent OpenAI ; GPT-6.1 Terra moitié prix ; Qwen d'Alibaba et Pékin ; Reddit interdit l'IA dans r/opensource ; Anthropic dépose son dossier de Bourse ; six tics d'écriture des IA ; conseil : demander des phrases courtes et simples
+2026-10-28 : Bank of America et mots de passe donnés aux assistants IA ; Opera WebAI IA locale ; Anthropic promet Claude sans pub ; ChatGPT favorise les partenaires d'OpenAI ; procès OpenAI et conseil de santé ; conseil : demander ses sources à l'IA et les vérifier
