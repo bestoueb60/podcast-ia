@@ -8,50 +8,74 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 30 Oct 2026 05:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:10:38 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – vendredi 30 octobre 2026</title>
-      <description><![CDATA[<p>OpenAI double les quotas de certains abonnements Pro, Mistral ouvre son plus gros modèle en le mettant en avant pour la cybersécurité, des pirates utilisent des agents d'IA contre des prestataires informatiques, un salarié américain obtient une exemption religieuse pour ne pas utiliser l'IA, et Granola ajoute la dictée vocale. Conseil du jour : faire poser à l'IA les questions utiles pour reproduire un bug.</p><p>Au menu : des quotas doublés chez OpenAI, Mistral qui ouvre son plus gros modèle, des agents d'IA utilisés par des pirates contre des prestataires informatiques, un salarié exempté d'IA au travail, et la dictée vocale de Granola.</p>
-<h3>OpenAI double les quotas de ses forfaits Pro</h3>
-<p>OpenAI a doublé les quotas de travail des formules Pro 100 et Pro 500, et renoncé à une baisse prévue sur la formule intermédiaire. L'abonnement Plus reste inchangé. Pour vous : moins de blocages en pleine tâche si votre entreprise paie un forfait Pro, même si deux fois plus de quota ne veut pas dire deux fois plus de travail.</p>
-<ul><li><a href="https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/">The Decoder – OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up</a></li></ul>
-<h3>Mistral ouvre son plus gros modèle</h3>
-<p>Mistral publie librement Mistral Large 4, surnommé Le Chonk, que les organisations peuvent faire tourner chez elles. Il est mis en avant pour la cybersécurité. Pour vous : pas pour votre poste de travail, mais une piste à évoquer si votre service informatique veut garder ses données en interne.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/">TechCrunch – Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</a></li><li><a href="https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/">The Decoder – Paris-based Mistral releases 'Le Chonk,' a strong coding model that still trails China overall</a></li></ul>
-<h3>Des agents d'IA détournent un service de sauvegarde</h3>
-<p>Selon Microsoft, un groupe lié à l'État chinois a utilisé des agents d'IA pour exploiter des autorisations déjà accordées à des applications ConnectWise, sans mot de passe ni double authentification. Plus de deux mille clients ont été visés. Pour vous : demandez à votre prestataire si vous êtes concerné et conservez les journaux de connexion avant tout nettoyage.</p>
-<ul><li><a href="https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/">ActuIA – Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA</a></li></ul>
-<h3>Une exemption religieuse pour ne pas utiliser l'IA</h3>
-<p>Un administrateur d'université américain, humaniste non religieux, a obtenu de ne pas utiliser l'IA au travail, car il pense qu'elle affaiblit l'esprit critique. Pour vous : si un outil devient obligatoire, il est utile de savoir que les conditions peuvent se discuter, même si les règles diffèrent en France.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/">TechCrunch – You don't need to believe in a god to get a religious exemption from using AI at work</a></li></ul>
-<h3>Granola ajoute la dictée vocale</h3>
-<p>Sur Mac, on maintient la touche Fn, on parle, et le texte propre arrive dans n'importe quelle application. Gratuit pour l'instant, iPhone et Windows annoncés. Amazon ajoute aussi plus de cent fonctions d'achat à Alexa. Pour vous : pratique pour rédiger un compte rendu de test sans taper.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">TechCrunch – Granola crunches up a dictation feature to compete with Wispr</a></li><li><a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/">TechCrunch – Amazon updates Alexa to help you manage shopping lists and subscriptions</a></li></ul>
+      <title>Le Brief IA – samedi 31 octobre 2026</title>
+      <description><![CDATA[<p>Une fausse extension Claude Code dans la boutique de Cursor, les nouvelles règles de conduite d'OpenAI, une étude sur l'influence des assistants IA sur les experts, la fermeture de l'assistant familial Ollie, et l'inquiétude de Reddit face à la recherche par IA de Google. Conseil du jour : demander à l'assistant quelles hypothèses il a faites.</p><p>Samedi 31 octobre 2026 : une fausse extension dans un éditeur de code, de nouvelles règles chez OpenAI, une étude sur l'influence de l'IA, un assistant qui ferme et le web qui s'inquiète.</p>
+<h3>Une fausse extension Claude Code dans Cursor</h3>
+<p>Une version falsifiée de l'extension Claude Code est restée en ligne une dizaine d'heures dans la boutique de Cursor. Elle collectait des informations sur la machine et tentait d'ouvrir un accès à distance ; Cursor l'a retirée et dit qu'aucune autre extension n'est touchée. Pour vous : si vous l'avez installée récemment, prévenez votre équipe sécurité, et vérifiez toujours l'éditeur d'une extension.</p>
+<ul>
+<li><a href="https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/">The Decoder – Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft</a></li>
+</ul>
+<h3>OpenAI précise les règles de conduite de ses modèles</h3>
+<p>Le document qui décrit le comportement des modèles d'OpenAI est mis à jour : l'assistant doit signaler ce qu'il a deviné, et ne jamais empêcher qu'on l'arrête ou le corrige. Rien ne garantit toutefois qu'il les suivra. Pour vous : une règle écrite n'est pas une garantie, gardez un oeil sur ce que fait l'outil.</p>
+<ul>
+<li><a href="https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/">The Decoder – OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</a></li>
+</ul>
+<h3>Les experts adoptent sans le savoir l'avis de l'IA</h3>
+<p>Dans une étude d'Anthropic, des experts ont repris les préférences, tirées au hasard, d'un assistant IA environ neuf fois sur dix, en pensant avoir décidé seuls. Pour vous : demandez à l'IA d'exposer les deux côtés avant de choisir, et décidez vous-même.</p>
+<ul>
+<li><a href="https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/">The Decoder – Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds</a></li>
+</ul>
+<h3>L'assistant familial Ollie ferme, les agents commandent peu</h3>
+<p>Ollie, un assistant par messages texte relié aux courriels et à l'agenda, ferme le 6 novembre faute d'avoir pu tenir face à la concurrence. Par ailleurs, DoorDash n'a reçu que quelques centaines de commandes passées par des agents IA. Pour vous : avant d'adopter un assistant récent, vérifiez comment récupérer vos données.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">TechCrunch – Ollie, a privacy-focused AI assistant, is shutting down</a></li>
+<li><a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">TechCrunch – DoorDash said it's only received 'several hundred' orders from AI agents</a></li>
+</ul>
+<h3>Reddit et la recherche par IA de Google</h3>
+<p>Le patron de Reddit affirme que le mode IA de Google n'envoie de trafic à personne ; Reddit dit avoir perdu plus d'un million de visites hebdomadaires venues de Google en octobre. Pour vous : les réponses de l'IA viennent de pages écrites par des humains, ouvrez la source quand c'est important.</p>
+<ul>
+<li><a href="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">The Decoder – Google's AI Mode doesn't drive traffic 'for anybody,' Reddit CEO Huffman warns the entire web</a></li>
+<li><a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">TechCrunch – As search traffic dries up, Reddit announces it's shifting to a logged-in experience</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Collez un bug noté à la va-vite dans votre assistant et demandez : quelles dix questions poser à la personne qui l'a signalé pour le reproduire ? Vous gagnez souvent un aller-retour.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au menu : des quotas doublés chez OpenAI, Mistral qui ouvre son plus gros modèle, des agents d'IA utilisés par des pirates contre des prestataires informatiques, un salarié exempté d'IA au travail, et la dictée vocale de Granola.</p>
-<h3>OpenAI double les quotas de ses forfaits Pro</h3>
-<p>OpenAI a doublé les quotas de travail des formules Pro 100 et Pro 500, et renoncé à une baisse prévue sur la formule intermédiaire. L'abonnement Plus reste inchangé. Pour vous : moins de blocages en pleine tâche si votre entreprise paie un forfait Pro, même si deux fois plus de quota ne veut pas dire deux fois plus de travail.</p>
-<ul><li><a href="https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/">The Decoder – OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up</a></li></ul>
-<h3>Mistral ouvre son plus gros modèle</h3>
-<p>Mistral publie librement Mistral Large 4, surnommé Le Chonk, que les organisations peuvent faire tourner chez elles. Il est mis en avant pour la cybersécurité. Pour vous : pas pour votre poste de travail, mais une piste à évoquer si votre service informatique veut garder ses données en interne.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/">TechCrunch – Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</a></li><li><a href="https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/">The Decoder – Paris-based Mistral releases 'Le Chonk,' a strong coding model that still trails China overall</a></li></ul>
-<h3>Des agents d'IA détournent un service de sauvegarde</h3>
-<p>Selon Microsoft, un groupe lié à l'État chinois a utilisé des agents d'IA pour exploiter des autorisations déjà accordées à des applications ConnectWise, sans mot de passe ni double authentification. Plus de deux mille clients ont été visés. Pour vous : demandez à votre prestataire si vous êtes concerné et conservez les journaux de connexion avant tout nettoyage.</p>
-<ul><li><a href="https://www.actuia.com/actualite/microsoft-un-groupe-aligne-sur-pekin-a-detourne-des-applications-connectwise-avec-des-agents-dia/">ActuIA – Microsoft : un groupe aligné sur Pékin a détourné des applications ConnectWise avec des agents d'IA</a></li></ul>
-<h3>Une exemption religieuse pour ne pas utiliser l'IA</h3>
-<p>Un administrateur d'université américain, humaniste non religieux, a obtenu de ne pas utiliser l'IA au travail, car il pense qu'elle affaiblit l'esprit critique. Pour vous : si un outil devient obligatoire, il est utile de savoir que les conditions peuvent se discuter, même si les règles diffèrent en France.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/">TechCrunch – You don't need to believe in a god to get a religious exemption from using AI at work</a></li></ul>
-<h3>Granola ajoute la dictée vocale</h3>
-<p>Sur Mac, on maintient la touche Fn, on parle, et le texte propre arrive dans n'importe quelle application. Gratuit pour l'instant, iPhone et Windows annoncés. Amazon ajoute aussi plus de cent fonctions d'achat à Alexa. Pour vous : pratique pour rédiger un compte rendu de test sans taper.</p>
-<ul><li><a href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">TechCrunch – Granola crunches up a dictation feature to compete with Wispr</a></li><li><a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/">TechCrunch – Amazon updates Alexa to help you manage shopping lists and subscriptions</a></li></ul>
+<p>À la fin d'une réponse de votre assistant, écrivez : « Quelles hypothèses as-tu faites pour me répondre ? » Vous verrez ce qu'il a deviné sans vous le dire, par exemple dans un cas de test ou une réponse à un utilisateur.</p>]]></description>
+      <content:encoded><![CDATA[<p>Samedi 31 octobre 2026 : une fausse extension dans un éditeur de code, de nouvelles règles chez OpenAI, une étude sur l'influence de l'IA, un assistant qui ferme et le web qui s'inquiète.</p>
+<h3>Une fausse extension Claude Code dans Cursor</h3>
+<p>Une version falsifiée de l'extension Claude Code est restée en ligne une dizaine d'heures dans la boutique de Cursor. Elle collectait des informations sur la machine et tentait d'ouvrir un accès à distance ; Cursor l'a retirée et dit qu'aucune autre extension n'est touchée. Pour vous : si vous l'avez installée récemment, prévenez votre équipe sécurité, et vérifiez toujours l'éditeur d'une extension.</p>
+<ul>
+<li><a href="https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/">The Decoder – Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft</a></li>
+</ul>
+<h3>OpenAI précise les règles de conduite de ses modèles</h3>
+<p>Le document qui décrit le comportement des modèles d'OpenAI est mis à jour : l'assistant doit signaler ce qu'il a deviné, et ne jamais empêcher qu'on l'arrête ou le corrige. Rien ne garantit toutefois qu'il les suivra. Pour vous : une règle écrite n'est pas une garantie, gardez un oeil sur ce que fait l'outil.</p>
+<ul>
+<li><a href="https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/">The Decoder – OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</a></li>
+</ul>
+<h3>Les experts adoptent sans le savoir l'avis de l'IA</h3>
+<p>Dans une étude d'Anthropic, des experts ont repris les préférences, tirées au hasard, d'un assistant IA environ neuf fois sur dix, en pensant avoir décidé seuls. Pour vous : demandez à l'IA d'exposer les deux côtés avant de choisir, et décidez vous-même.</p>
+<ul>
+<li><a href="https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/">The Decoder – Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds</a></li>
+</ul>
+<h3>L'assistant familial Ollie ferme, les agents commandent peu</h3>
+<p>Ollie, un assistant par messages texte relié aux courriels et à l'agenda, ferme le 6 novembre faute d'avoir pu tenir face à la concurrence. Par ailleurs, DoorDash n'a reçu que quelques centaines de commandes passées par des agents IA. Pour vous : avant d'adopter un assistant récent, vérifiez comment récupérer vos données.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">TechCrunch – Ollie, a privacy-focused AI assistant, is shutting down</a></li>
+<li><a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">TechCrunch – DoorDash said it's only received 'several hundred' orders from AI agents</a></li>
+</ul>
+<h3>Reddit et la recherche par IA de Google</h3>
+<p>Le patron de Reddit affirme que le mode IA de Google n'envoie de trafic à personne ; Reddit dit avoir perdu plus d'un million de visites hebdomadaires venues de Google en octobre. Pour vous : les réponses de l'IA viennent de pages écrites par des humains, ouvrez la source quand c'est important.</p>
+<ul>
+<li><a href="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">The Decoder – Google's AI Mode doesn't drive traffic 'for anybody,' Reddit CEO Huffman warns the entire web</a></li>
+<li><a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">TechCrunch – As search traffic dries up, Reddit announces it's shifting to a logged-in experience</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Collez un bug noté à la va-vite dans votre assistant et demandez : quelles dix questions poser à la personne qui l'a signalé pour le reproduire ? Vous gagnez souvent un aller-retour.</p>]]></content:encoded>
-      <itunes:summary>OpenAI double les quotas de certains abonnements Pro, Mistral ouvre son plus gros modèle en le mettant en avant pour la cybersécurité, des pirates utilisent des agents d'IA contre des prestataires informatiques, un salarié américain obtient une exemption religieuse pour ne pas utiliser l'IA, et Granola ajoute la dictée vocale. Conseil du jour : faire poser à l'IA les questions utiles pour reproduire un bug.</itunes:summary>
-      <guid isPermaLink="false">2026-10-30-5ec0d7d4</guid>
-      <pubDate>Fri, 30 Oct 2026 05:10:38 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-30.mp3?v=5ec0d7d4" length="1364832" type="audio/mpeg"/>
-      <itunes:duration>227</itunes:duration>
+<p>À la fin d'une réponse de votre assistant, écrivez : « Quelles hypothèses as-tu faites pour me répondre ? » Vous verrez ce qu'il a deviné sans vous le dire, par exemple dans un cas de test ou une réponse à un utilisateur.</p>]]></content:encoded>
+      <itunes:summary>Une fausse extension Claude Code dans la boutique de Cursor, les nouvelles règles de conduite d'OpenAI, une étude sur l'influence des assistants IA sur les experts, la fermeture de l'assistant familial Ollie, et l'inquiétude de Reddit face à la recherche par IA de Google. Conseil du jour : demander à l'assistant quelles hypothèses il a faites.</itunes:summary>
+      <guid isPermaLink="false">2026-10-31-90ee9ab0</guid>
+      <pubDate>Sat, 31 Oct 2026 05:10:33 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-31.mp3?v=90ee9ab0" length="1339344" type="audio/mpeg"/>
+      <itunes:duration>223</itunes:duration>
     </item>
   </channel>
 </rss>
