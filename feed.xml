@@ -8,74 +8,70 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 31 Oct 2026 05:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:11:05 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – samedi 31 octobre 2026</title>
-      <description><![CDATA[<p>Une fausse extension Claude Code dans la boutique de Cursor, les nouvelles règles de conduite d'OpenAI, une étude sur l'influence des assistants IA sur les experts, la fermeture de l'assistant familial Ollie, et l'inquiétude de Reddit face à la recherche par IA de Google. Conseil du jour : demander à l'assistant quelles hypothèses il a faites.</p><p>Samedi 31 octobre 2026 : une fausse extension dans un éditeur de code, de nouvelles règles chez OpenAI, une étude sur l'influence de l'IA, un assistant qui ferme et le web qui s'inquiète.</p>
-<h3>Une fausse extension Claude Code dans Cursor</h3>
-<p>Une version falsifiée de l'extension Claude Code est restée en ligne une dizaine d'heures dans la boutique de Cursor. Elle collectait des informations sur la machine et tentait d'ouvrir un accès à distance ; Cursor l'a retirée et dit qu'aucune autre extension n'est touchée. Pour vous : si vous l'avez installée récemment, prévenez votre équipe sécurité, et vérifiez toujours l'éditeur d'une extension.</p>
+      <title>Le Brief IA – dimanche 1er novembre 2026</title>
+      <description><![CDATA[<p>Des pirates lâchent des agents IA sur de vieilles fuites de données, une IA trouve des dizaines de failles dans Chrome, Anthropic ajoute un filigrane invisible à ses textes, OpenAI change l'usage de certaines données, et Microsoft propose des départs volontaires à un quart de ses salariés. Conseil : vérifier que Chrome est à jour.</p><p>Dimanche 1er novembre 2026 : des agents IA pour exploiter de vieilles fuites, la chasse aux failles de Chrome, un filigrane dans les textes de Claude, des données d'entraînement chez OpenAI et un grand plan de départs chez Microsoft.</p>
+<h3>Des agents IA recyclent de vieilles fuites de données</h3>
+<p>Selon CrowdStrike, un groupe lié à la Chine a utilisé un outil libre qui pilote des agents IA contre plus de 200 organisations, dont neuf ont été infiltrées. Les agents ont surtout réutilisé d'anciennes clés et d'anciens identifiants jamais changés. Pour vous : après une fuite, changez vraiment les clés et mots de passe concernés.</p>
 <ul>
-<li><a href="https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/">The Decoder – Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft</a></li>
+<li><a href="https://www.actuia.com/actualite/un-deuxieme-groupe-lie-a-pekin-mene-ses-intrusions-avec-les-agents-dartex/">ActuIA – Un deuxième groupe lié à Pékin mène ses intrusions avec les agents d'ARTEX</a></li>
 </ul>
-<h3>OpenAI précise les règles de conduite de ses modèles</h3>
-<p>Le document qui décrit le comportement des modèles d'OpenAI est mis à jour : l'assistant doit signaler ce qu'il a deviné, et ne jamais empêcher qu'on l'arrête ou le corrige. Rien ne garantit toutefois qu'il les suivra. Pour vous : une règle écrite n'est pas une garantie, gardez un oeil sur ce que fait l'outil.</p>
+<h3>Une IA traque les failles de Chrome</h3>
+<p>Anthropic indique qu'un modèle interne a trouvé des dizaines de failles dans Chrome, désormais corrigées. Les IA fouillent le code très vite, pour le meilleur et pour le pire. Pour vous : un correctif n'aide que s'il est installé, vérifiez vos mises à jour de navigateur.</p>
 <ul>
-<li><a href="https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/">The Decoder – OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</a></li>
+<li><a href="https://www.actuia.com/actualite/un-chercheur-danthropic-signe-une-faille-sur-dix-corrigee-par-chrome-en-octobre/">ActuIA – Un chercheur d'Anthropic signe une faille sur dix corrigée par Chrome en octobre</a></li>
 </ul>
-<h3>Les experts adoptent sans le savoir l'avis de l'IA</h3>
-<p>Dans une étude d'Anthropic, des experts ont repris les préférences, tirées au hasard, d'un assistant IA environ neuf fois sur dix, en pensant avoir décidé seuls. Pour vous : demandez à l'IA d'exposer les deux côtés avant de choisir, et décidez vous-même.</p>
+<h3>Un filigrane invisible dans les textes de Claude</h3>
+<p>Anthropic étend à plusieurs modèles un motif discret dans le choix des mots, qui permet de reconnaître un texte généré, en lien avec l'AI Act européen. Sur deux modèles plus anciens, certains réglages suffisent à le contourner. Pour vous : ne comptez pas sur ce marquage comme preuve absolue.</p>
 <ul>
-<li><a href="https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/">The Decoder – Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds</a></li>
+<li><a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">The Decoder – Anthropic's watermark rollout leaves a loophole on two older Claude models</a></li>
 </ul>
-<h3>L'assistant familial Ollie ferme, les agents commandent peu</h3>
-<p>Ollie, un assistant par messages texte relié aux courriels et à l'agenda, ferme le 6 novembre faute d'avoir pu tenir face à la concurrence. Par ailleurs, DoorDash n'a reçu que quelques centaines de commandes passées par des agents IA. Pour vous : avant d'adopter un assistant récent, vérifiez comment récupérer vos données.</p>
+<h3>OpenAI va utiliser des données auparavant protégées</h3>
+<p>À partir du 29 novembre, OpenAI prévoit d'entraîner ses modèles sur les échanges d'un programme de cybersécurité jusque-là exclus, avec une option de refus promise après les critiques. Pour vous : relisez régulièrement les réglages de confidentialité de vos outils.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">TechCrunch – Ollie, a privacy-focused AI assistant, is shutting down</a></li>
-<li><a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">TechCrunch – DoorDash said it's only received 'several hundred' orders from AI agents</a></li>
+<li><a href="https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/">The Decoder – OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</a></li>
 </ul>
-<h3>Reddit et la recherche par IA de Google</h3>
-<p>Le patron de Reddit affirme que le mode IA de Google n'envoie de trafic à personne ; Reddit dit avoir perdu plus d'un million de visites hebdomadaires venues de Google en octobre. Pour vous : les réponses de l'IA viennent de pages écrites par des humains, ouvrez la source quand c'est important.</p>
+<h3>Microsoft propose des départs volontaires à un quart de ses salariés</h3>
+<p>Environ 60 000 personnes sont concernées, notamment chez Xbox, Windows et Copilot, alors que cybersécurité, centres de données et ventes sont épargnés. Pour vous : les entreprises se réorganisent autour de l'IA, se former aux outils reste un atout.</p>
 <ul>
-<li><a href="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">The Decoder – Google's AI Mode doesn't drive traffic 'for anybody,' Reddit CEO Huffman warns the entire web</a></li>
-<li><a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">TechCrunch – As search traffic dries up, Reddit announces it's shifting to a logged-in experience</a></li>
+<li><a href="https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/">The Decoder – Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>À la fin d'une réponse de votre assistant, écrivez : « Quelles hypothèses as-tu faites pour me répondre ? » Vous verrez ce qu'il a deviné sans vous le dire, par exemple dans un cas de test ou une réponse à un utilisateur.</p>]]></description>
-      <content:encoded><![CDATA[<p>Samedi 31 octobre 2026 : une fausse extension dans un éditeur de code, de nouvelles règles chez OpenAI, une étude sur l'influence de l'IA, un assistant qui ferme et le web qui s'inquiète.</p>
-<h3>Une fausse extension Claude Code dans Cursor</h3>
-<p>Une version falsifiée de l'extension Claude Code est restée en ligne une dizaine d'heures dans la boutique de Cursor. Elle collectait des informations sur la machine et tentait d'ouvrir un accès à distance ; Cursor l'a retirée et dit qu'aucune autre extension n'est touchée. Pour vous : si vous l'avez installée récemment, prévenez votre équipe sécurité, et vérifiez toujours l'éditeur d'une extension.</p>
+<p>Dans Chrome, ouvrez le menu des trois points, puis Aide, puis À propos de Google Chrome : le navigateur se met à jour et propose de redémarrer. Faites de même sur votre téléphone.</p>]]></description>
+      <content:encoded><![CDATA[<p>Dimanche 1er novembre 2026 : des agents IA pour exploiter de vieilles fuites, la chasse aux failles de Chrome, un filigrane dans les textes de Claude, des données d'entraînement chez OpenAI et un grand plan de départs chez Microsoft.</p>
+<h3>Des agents IA recyclent de vieilles fuites de données</h3>
+<p>Selon CrowdStrike, un groupe lié à la Chine a utilisé un outil libre qui pilote des agents IA contre plus de 200 organisations, dont neuf ont été infiltrées. Les agents ont surtout réutilisé d'anciennes clés et d'anciens identifiants jamais changés. Pour vous : après une fuite, changez vraiment les clés et mots de passe concernés.</p>
 <ul>
-<li><a href="https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/">The Decoder – Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft</a></li>
+<li><a href="https://www.actuia.com/actualite/un-deuxieme-groupe-lie-a-pekin-mene-ses-intrusions-avec-les-agents-dartex/">ActuIA – Un deuxième groupe lié à Pékin mène ses intrusions avec les agents d'ARTEX</a></li>
 </ul>
-<h3>OpenAI précise les règles de conduite de ses modèles</h3>
-<p>Le document qui décrit le comportement des modèles d'OpenAI est mis à jour : l'assistant doit signaler ce qu'il a deviné, et ne jamais empêcher qu'on l'arrête ou le corrige. Rien ne garantit toutefois qu'il les suivra. Pour vous : une règle écrite n'est pas une garantie, gardez un oeil sur ce que fait l'outil.</p>
+<h3>Une IA traque les failles de Chrome</h3>
+<p>Anthropic indique qu'un modèle interne a trouvé des dizaines de failles dans Chrome, désormais corrigées. Les IA fouillent le code très vite, pour le meilleur et pour le pire. Pour vous : un correctif n'aide que s'il est installé, vérifiez vos mises à jour de navigateur.</p>
 <ul>
-<li><a href="https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/">The Decoder – OpenAI sets new behavioral guidelines for AI models that have already proven hard to control</a></li>
+<li><a href="https://www.actuia.com/actualite/un-chercheur-danthropic-signe-une-faille-sur-dix-corrigee-par-chrome-en-octobre/">ActuIA – Un chercheur d'Anthropic signe une faille sur dix corrigée par Chrome en octobre</a></li>
 </ul>
-<h3>Les experts adoptent sans le savoir l'avis de l'IA</h3>
-<p>Dans une étude d'Anthropic, des experts ont repris les préférences, tirées au hasard, d'un assistant IA environ neuf fois sur dix, en pensant avoir décidé seuls. Pour vous : demandez à l'IA d'exposer les deux côtés avant de choisir, et décidez vous-même.</p>
+<h3>Un filigrane invisible dans les textes de Claude</h3>
+<p>Anthropic étend à plusieurs modèles un motif discret dans le choix des mots, qui permet de reconnaître un texte généré, en lien avec l'AI Act européen. Sur deux modèles plus anciens, certains réglages suffisent à le contourner. Pour vous : ne comptez pas sur ce marquage comme preuve absolue.</p>
 <ul>
-<li><a href="https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/">The Decoder – Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds</a></li>
+<li><a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">The Decoder – Anthropic's watermark rollout leaves a loophole on two older Claude models</a></li>
 </ul>
-<h3>L'assistant familial Ollie ferme, les agents commandent peu</h3>
-<p>Ollie, un assistant par messages texte relié aux courriels et à l'agenda, ferme le 6 novembre faute d'avoir pu tenir face à la concurrence. Par ailleurs, DoorDash n'a reçu que quelques centaines de commandes passées par des agents IA. Pour vous : avant d'adopter un assistant récent, vérifiez comment récupérer vos données.</p>
+<h3>OpenAI va utiliser des données auparavant protégées</h3>
+<p>À partir du 29 novembre, OpenAI prévoit d'entraîner ses modèles sur les échanges d'un programme de cybersécurité jusque-là exclus, avec une option de refus promise après les critiques. Pour vous : relisez régulièrement les réglages de confidentialité de vos outils.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/">TechCrunch – Ollie, a privacy-focused AI assistant, is shutting down</a></li>
-<li><a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">TechCrunch – DoorDash said it's only received 'several hundred' orders from AI agents</a></li>
+<li><a href="https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/">The Decoder – OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</a></li>
 </ul>
-<h3>Reddit et la recherche par IA de Google</h3>
-<p>Le patron de Reddit affirme que le mode IA de Google n'envoie de trafic à personne ; Reddit dit avoir perdu plus d'un million de visites hebdomadaires venues de Google en octobre. Pour vous : les réponses de l'IA viennent de pages écrites par des humains, ouvrez la source quand c'est important.</p>
+<h3>Microsoft propose des départs volontaires à un quart de ses salariés</h3>
+<p>Environ 60 000 personnes sont concernées, notamment chez Xbox, Windows et Copilot, alors que cybersécurité, centres de données et ventes sont épargnés. Pour vous : les entreprises se réorganisent autour de l'IA, se former aux outils reste un atout.</p>
 <ul>
-<li><a href="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">The Decoder – Google's AI Mode doesn't drive traffic 'for anybody,' Reddit CEO Huffman warns the entire web</a></li>
-<li><a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">TechCrunch – As search traffic dries up, Reddit announces it's shifting to a logged-in experience</a></li>
+<li><a href="https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/">The Decoder – Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>À la fin d'une réponse de votre assistant, écrivez : « Quelles hypothèses as-tu faites pour me répondre ? » Vous verrez ce qu'il a deviné sans vous le dire, par exemple dans un cas de test ou une réponse à un utilisateur.</p>]]></content:encoded>
-      <itunes:summary>Une fausse extension Claude Code dans la boutique de Cursor, les nouvelles règles de conduite d'OpenAI, une étude sur l'influence des assistants IA sur les experts, la fermeture de l'assistant familial Ollie, et l'inquiétude de Reddit face à la recherche par IA de Google. Conseil du jour : demander à l'assistant quelles hypothèses il a faites.</itunes:summary>
-      <guid isPermaLink="false">2026-10-31-90ee9ab0</guid>
-      <pubDate>Sat, 31 Oct 2026 05:10:33 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-10-31.mp3?v=90ee9ab0" length="1339344" type="audio/mpeg"/>
-      <itunes:duration>223</itunes:duration>
+<p>Dans Chrome, ouvrez le menu des trois points, puis Aide, puis À propos de Google Chrome : le navigateur se met à jour et propose de redémarrer. Faites de même sur votre téléphone.</p>]]></content:encoded>
+      <itunes:summary>Des pirates lâchent des agents IA sur de vieilles fuites de données, une IA trouve des dizaines de failles dans Chrome, Anthropic ajoute un filigrane invisible à ses textes, OpenAI change l'usage de certaines données, et Microsoft propose des départs volontaires à un quart de ses salariés. Conseil : vérifier que Chrome est à jour.</itunes:summary>
+      <guid isPermaLink="false">2026-11-01-fcde57db</guid>
+      <pubDate>Sun, 01 Nov 2026 05:11:01 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-01.mp3?v=fcde57db" length="1212192" type="audio/mpeg"/>
+      <itunes:duration>202</itunes:duration>
     </item>
   </channel>
 </rss>
