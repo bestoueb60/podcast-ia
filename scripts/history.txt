@@ -12,3 +12,4 @@
 2026-10-30 : OpenAI double les quotas Pro ; Mistral Large 4 ouvert et cybersécurité ; agents IA contre ConnectWise ; exemption religieuse pour ne pas utiliser l'IA ; Granola dictée et Alexa ; conseil : faire poser les questions pour reproduire un bug
 2026-10-31 : fausse extension Claude Code dans Cursor ; règles de conduite OpenAI ; étude Anthropic experts influencés par l'IA ; Ollie ferme et DoorDash peu de commandes d'agents ; Reddit et mode IA de Google ; conseil : demander à l'IA ses hypothèses
 2026-11-01 : agents IA et vieilles fuites (ARTEX) ; IA et failles de Chrome ; filigrane Claude et AI Act ; OpenAI données d'entraînement cybersécurité ; Microsoft départs volontaires ; conseil : mettre Chrome à jour
+2026-11-02 : ChatGPT fusion Chat et Work et budget unique ; limites de comptes par appareil ; Bourse et dépenses IA ; chatbots traumatisés en fausse thérapie ; Apple IA discrète ; assistant vidéo de Google ; conseil : choisir le bon modèle selon la tâche

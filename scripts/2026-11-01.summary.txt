@@ -1,1 +1,0 @@
-Des pirates lâchent des agents IA sur de vieilles fuites de données, une IA trouve des dizaines de failles dans Chrome, Anthropic ajoute un filigrane invisible à ses textes, OpenAI change l'usage de certaines données, et Microsoft propose des départs volontaires à un quart de ses salariés. Conseil : vérifier que Chrome est à jour.

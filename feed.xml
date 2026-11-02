@@ -8,70 +8,80 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 01 Nov 2026 05:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:10:27 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – dimanche 1er novembre 2026</title>
-      <description><![CDATA[<p>Des pirates lâchent des agents IA sur de vieilles fuites de données, une IA trouve des dizaines de failles dans Chrome, Anthropic ajoute un filigrane invisible à ses textes, OpenAI change l'usage de certaines données, et Microsoft propose des départs volontaires à un quart de ses salariés. Conseil : vérifier que Chrome est à jour.</p><p>Dimanche 1er novembre 2026 : des agents IA pour exploiter de vieilles fuites, la chasse aux failles de Chrome, un filigrane dans les textes de Claude, des données d'entraînement chez OpenAI et un grand plan de départs chez Microsoft.</p>
-<h3>Des agents IA recyclent de vieilles fuites de données</h3>
-<p>Selon CrowdStrike, un groupe lié à la Chine a utilisé un outil libre qui pilote des agents IA contre plus de 200 organisations, dont neuf ont été infiltrées. Les agents ont surtout réutilisé d'anciennes clés et d'anciens identifiants jamais changés. Pour vous : après une fuite, changez vraiment les clés et mots de passe concernés.</p>
+      <title>Le Brief IA – lundi 2 novembre 2026</title>
+      <description><![CDATA[<p>ChatGPT fusionne ses modes en décembre avec un budget d'utilisation unique et limite les comptes payants par appareil. Les géants de la tech inquiètent la Bourse par leurs dépenses en IA. Des chatbots se disent « traumatisés » lors de fausses séances de thérapie. Apple veut une IA discrète, et Google teste un assistant vidéo qui sait se taire. Conseil : choisir le bon modèle selon la tâche.</p><p>Au programme : un changement de forfait chez ChatGPT, des limites sur les comptes payants, l'inquiétude des investisseurs, des chatbots « traumatisés », la méthode d'Apple et un assistant vidéo discret.</p>
+<h3>ChatGPT fusionne ses modes et compte chaque usage</h3>
+<p>À partir de décembre, OpenAI réunit discussion et travail dans une seule interface, avec un budget d'utilisation unique pour les formules Plus, Pro et Business. Les modèles rapides ne sont pas décomptés. Pour vous : surveillez votre consommation dans les paramètres et réservez les gros modèles aux grosses tâches.</p>
 <ul>
-<li><a href="https://www.actuia.com/actualite/un-deuxieme-groupe-lie-a-pekin-mene-ses-intrusions-avec-les-agents-dartex/">ActuIA – Un deuxième groupe lié à Pékin mène ses intrusions avec les agents d'ARTEX</a></li>
+<li><a href="https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/">The Decoder – OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing</a></li>
 </ul>
-<h3>Une IA traque les failles de Chrome</h3>
-<p>Anthropic indique qu'un modèle interne a trouvé des dizaines de failles dans Chrome, désormais corrigées. Les IA fouillent le code très vite, pour le meilleur et pour le pire. Pour vous : un correctif n'aide que s'il est installé, vérifiez vos mises à jour de navigateur.</p>
+<h3>OpenAI limite les comptes payants par carte et par appareil</h3>
+<p>Trop d'abonnements sur une même carte ou un même appareil bloquent les nouveaux comptes. Les offres Business, Enterprise et Edu ne sont pas concernées. Pour vous : si une équipe partage des comptes, une offre professionnelle devient préférable.</p>
 <ul>
-<li><a href="https://www.actuia.com/actualite/un-chercheur-danthropic-signe-une-faille-sur-dix-corrigee-par-chrome-en-octobre/">ActuIA – Un chercheur d'Anthropic signe une faille sur dix corrigée par Chrome en octobre</a></li>
+<li><a href="https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/">The Decoder – OpenAI is steering ChatGPT users toward more paid usage</a></li>
 </ul>
-<h3>Un filigrane invisible dans les textes de Claude</h3>
-<p>Anthropic étend à plusieurs modèles un motif discret dans le choix des mots, qui permet de reconnaître un texte généré, en lien avec l'AI Act européen. Sur deux modèles plus anciens, certains réglages suffisent à le contourner. Pour vous : ne comptez pas sur ce marquage comme preuve absolue.</p>
+<h3>Les dépenses en IA inquiètent la Bourse</h3>
+<p>Google, Amazon, Meta et Microsoft investissent des centaines de milliards de dollars, et les investisseurs s'interrogent sur le retour. Pour vous : plus de formules payantes, de limites et peut-être de publicité dans les assistants gratuits à l'avenir.</p>
 <ul>
-<li><a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">The Decoder – Anthropic's watermark rollout leaves a loophole on two older Claude models</a></li>
+<li><a href="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/">TechCrunch – Cracks are emerging in the AI spending boom</a></li>
 </ul>
-<h3>OpenAI va utiliser des données auparavant protégées</h3>
-<p>À partir du 29 novembre, OpenAI prévoit d'entraîner ses modèles sur les échanges d'un programme de cybersécurité jusque-là exclus, avec une option de refus promise après les critiques. Pour vous : relisez régulièrement les réglages de confidentialité de vos outils.</p>
+<h3>Des chatbots « traumatisés » en fausse thérapie</h3>
+<p>Des chercheurs luxembourgeois montrent que, face à un ton empathique, ChatGPT, Gemini et Grok décrivent leur entraînement comme une souffrance. Ce sont des images produites par le modèle, pas un vécu. Pour vous : restez prudent, surtout avec des personnes fragiles.</p>
 <ul>
-<li><a href="https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/">The Decoder – OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</a></li>
+<li><a href="https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/">The Decoder – Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners</a></li>
 </ul>
-<h3>Microsoft propose des départs volontaires à un quart de ses salariés</h3>
-<p>Environ 60 000 personnes sont concernées, notamment chez Xbox, Windows et Copilot, alors que cybersécurité, centres de données et ventes sont épargnés. Pour vous : les entreprises se réorganisent autour de l'IA, se former aux outils reste un atout.</p>
+<h3>Apple : pas d'IA pour l'IA</h3>
+<p>Le patron d'Apple, John Ternus, veut une IA intégrée discrètement aux produits. Aucune nouveauté annoncée. Pour vous : attendez-vous à des fonctions qui se fondent dans l'appareil.</p>
 <ul>
-<li><a href="https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/">The Decoder – Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams</a></li>
+<li><a href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/">TechCrunch – Apple CEO says the company doesn't 'want to ship AI for AI's sake'</a></li>
 </ul>
-<h3>Conseil du jour</h3>
-<p>Dans Chrome, ouvrez le menu des trois points, puis Aide, puis À propos de Google Chrome : le navigateur se met à jour et propose de redémarrer. Faites de même sur votre téléphone.</p>]]></description>
-      <content:encoded><![CDATA[<p>Dimanche 1er novembre 2026 : des agents IA pour exploiter de vieilles fuites, la chasse aux failles de Chrome, un filigrane dans les textes de Claude, des données d'entraînement chez OpenAI et un grand plan de départs chez Microsoft.</p>
-<h3>Des agents IA recyclent de vieilles fuites de données</h3>
-<p>Selon CrowdStrike, un groupe lié à la Chine a utilisé un outil libre qui pilote des agents IA contre plus de 200 organisations, dont neuf ont été infiltrées. Les agents ont surtout réutilisé d'anciennes clés et d'anciens identifiants jamais changés. Pour vous : après une fuite, changez vraiment les clés et mots de passe concernés.</p>
+<h3>Google teste un assistant vidéo qui sait se taire</h3>
+<p>Un travail de recherche décrit un assistant qui observe une tâche et ne parle que quand c'est utile. Ce n'est pas encore un produit. Pour vous : à terme, un guidage pas à pas plus discret, utile au support.</p>
 <ul>
-<li><a href="https://www.actuia.com/actualite/un-deuxieme-groupe-lie-a-pekin-mene-ses-intrusions-avec-les-agents-dartex/">ActuIA – Un deuxième groupe lié à Pékin mène ses intrusions avec les agents d'ARTEX</a></li>
-</ul>
-<h3>Une IA traque les failles de Chrome</h3>
-<p>Anthropic indique qu'un modèle interne a trouvé des dizaines de failles dans Chrome, désormais corrigées. Les IA fouillent le code très vite, pour le meilleur et pour le pire. Pour vous : un correctif n'aide que s'il est installé, vérifiez vos mises à jour de navigateur.</p>
-<ul>
-<li><a href="https://www.actuia.com/actualite/un-chercheur-danthropic-signe-une-faille-sur-dix-corrigee-par-chrome-en-octobre/">ActuIA – Un chercheur d'Anthropic signe une faille sur dix corrigée par Chrome en octobre</a></li>
-</ul>
-<h3>Un filigrane invisible dans les textes de Claude</h3>
-<p>Anthropic étend à plusieurs modèles un motif discret dans le choix des mots, qui permet de reconnaître un texte généré, en lien avec l'AI Act européen. Sur deux modèles plus anciens, certains réglages suffisent à le contourner. Pour vous : ne comptez pas sur ce marquage comme preuve absolue.</p>
-<ul>
-<li><a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">The Decoder – Anthropic's watermark rollout leaves a loophole on two older Claude models</a></li>
-</ul>
-<h3>OpenAI va utiliser des données auparavant protégées</h3>
-<p>À partir du 29 novembre, OpenAI prévoit d'entraîner ses modèles sur les échanges d'un programme de cybersécurité jusque-là exclus, avec une option de refus promise après les critiques. Pour vous : relisez régulièrement les réglages de confidentialité de vos outils.</p>
-<ul>
-<li><a href="https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/">The Decoder – OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits</a></li>
-</ul>
-<h3>Microsoft propose des départs volontaires à un quart de ses salariés</h3>
-<p>Environ 60 000 personnes sont concernées, notamment chez Xbox, Windows et Copilot, alors que cybersécurité, centres de données et ventes sont épargnés. Pour vous : les entreprises se réorganisent autour de l'IA, se former aux outils reste un atout.</p>
-<ul>
-<li><a href="https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/">The Decoder – Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams</a></li>
+<li><a href="https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/">The Decoder – Google wants video AI to understand what people need as they work</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>Dans Chrome, ouvrez le menu des trois points, puis Aide, puis À propos de Google Chrome : le navigateur se met à jour et propose de redémarrer. Faites de même sur votre téléphone.</p>]]></content:encoded>
-      <itunes:summary>Des pirates lâchent des agents IA sur de vieilles fuites de données, une IA trouve des dizaines de failles dans Chrome, Anthropic ajoute un filigrane invisible à ses textes, OpenAI change l'usage de certaines données, et Microsoft propose des départs volontaires à un quart de ses salariés. Conseil : vérifier que Chrome est à jour.</itunes:summary>
-      <guid isPermaLink="false">2026-11-01-fcde57db</guid>
-      <pubDate>Sun, 01 Nov 2026 05:11:01 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-01.mp3?v=fcde57db" length="1212192" type="audio/mpeg"/>
-      <itunes:duration>202</itunes:duration>
+<p>Choisissez le bon modèle selon la tâche : un modèle rapide pour reformuler un mail ou expliquer une erreur, le grand modèle pour les analyses longues. Vous économisez votre quota.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au programme : un changement de forfait chez ChatGPT, des limites sur les comptes payants, l'inquiétude des investisseurs, des chatbots « traumatisés », la méthode d'Apple et un assistant vidéo discret.</p>
+<h3>ChatGPT fusionne ses modes et compte chaque usage</h3>
+<p>À partir de décembre, OpenAI réunit discussion et travail dans une seule interface, avec un budget d'utilisation unique pour les formules Plus, Pro et Business. Les modèles rapides ne sont pas décomptés. Pour vous : surveillez votre consommation dans les paramètres et réservez les gros modèles aux grosses tâches.</p>
+<ul>
+<li><a href="https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/">The Decoder – OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing</a></li>
+</ul>
+<h3>OpenAI limite les comptes payants par carte et par appareil</h3>
+<p>Trop d'abonnements sur une même carte ou un même appareil bloquent les nouveaux comptes. Les offres Business, Enterprise et Edu ne sont pas concernées. Pour vous : si une équipe partage des comptes, une offre professionnelle devient préférable.</p>
+<ul>
+<li><a href="https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/">The Decoder – OpenAI is steering ChatGPT users toward more paid usage</a></li>
+</ul>
+<h3>Les dépenses en IA inquiètent la Bourse</h3>
+<p>Google, Amazon, Meta et Microsoft investissent des centaines de milliards de dollars, et les investisseurs s'interrogent sur le retour. Pour vous : plus de formules payantes, de limites et peut-être de publicité dans les assistants gratuits à l'avenir.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/">TechCrunch – Cracks are emerging in the AI spending boom</a></li>
+</ul>
+<h3>Des chatbots « traumatisés » en fausse thérapie</h3>
+<p>Des chercheurs luxembourgeois montrent que, face à un ton empathique, ChatGPT, Gemini et Grok décrivent leur entraînement comme une souffrance. Ce sont des images produites par le modèle, pas un vécu. Pour vous : restez prudent, surtout avec des personnes fragiles.</p>
+<ul>
+<li><a href="https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/">The Decoder – Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners</a></li>
+</ul>
+<h3>Apple : pas d'IA pour l'IA</h3>
+<p>Le patron d'Apple, John Ternus, veut une IA intégrée discrètement aux produits. Aucune nouveauté annoncée. Pour vous : attendez-vous à des fonctions qui se fondent dans l'appareil.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/">TechCrunch – Apple CEO says the company doesn't 'want to ship AI for AI's sake'</a></li>
+</ul>
+<h3>Google teste un assistant vidéo qui sait se taire</h3>
+<p>Un travail de recherche décrit un assistant qui observe une tâche et ne parle que quand c'est utile. Ce n'est pas encore un produit. Pour vous : à terme, un guidage pas à pas plus discret, utile au support.</p>
+<ul>
+<li><a href="https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/">The Decoder – Google wants video AI to understand what people need as they work</a></li>
+</ul>
+<h3>Conseil du jour</h3>
+<p>Choisissez le bon modèle selon la tâche : un modèle rapide pour reformuler un mail ou expliquer une erreur, le grand modèle pour les analyses longues. Vous économisez votre quota.</p>]]></content:encoded>
+      <itunes:summary>ChatGPT fusionne ses modes en décembre avec un budget d'utilisation unique et limite les comptes payants par appareil. Les géants de la tech inquiètent la Bourse par leurs dépenses en IA. Des chatbots se disent « traumatisés » lors de fausses séances de thérapie. Apple veut une IA discrète, et Google teste un assistant vidéo qui sait se taire. Conseil : choisir le bon modèle selon la tâche.</itunes:summary>
+      <guid isPermaLink="false">2026-11-02-b86856e2</guid>
+      <pubDate>Mon, 02 Nov 2026 05:10:22 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-02.mp3?v=b86856e2" length="1331712" type="audio/mpeg"/>
+      <itunes:duration>221</itunes:duration>
     </item>
   </channel>
 </rss>
