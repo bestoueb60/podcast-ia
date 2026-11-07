@@ -8,56 +8,82 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 06 Nov 2026 05:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:11:21 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – vendredi 6 novembre 2026</title>
-      <description><![CDATA[<p>Claude lance un outil de finances personnelles en test aux États-Unis ; OpenAI présente GPT-6 Cyber, une IA qui cherche les failles de sécurité ; Anthropic paie un média pour la première fois ; un test montre que les agents IA réussissent peu de longues tâches de bureau ; Google rend sa vidéo IA plus longue et moins chère ; Meta ouvre la vidéo avec son avatar Muse. Conseil : faire repérer les problèmes récurrents dans des tickets de support.</p><p>Un assistant qui lit vos comptes, une IA chasseuse de failles, et un test qui rappelle les limites des agents : l'actu IA du vendredi 6 novembre.</p>
-<h3>Claude analyse vos dépenses</h3>
-<p>Anthropic lance un outil de finances personnelles : on relie ses comptes bancaires et Claude classe les dépenses et repère doublons, frais surprises et abonnements qui montent. Il lit seulement, sans pouvoir bouger l'argent. Pour vous : version d'essai pour abonnés payants aux États-Unis, rien d'annoncé pour l'Europe, mais pensez à vérifier ce qu'un assistant a le droit de voir.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">TechCrunch – Claude can now analyze your spending with its new Personal Finance tool</a></li></ul>
-<h3>GPT-6 Cyber, l'IA qui cherche les failles</h3>
-<p>OpenAI présente un modèle qui trouve des failles dans des logiciels et propose des correctifs, avec un accès limité à des clients choisis. Les résultats annoncés n'ont pas encore été vérifiés par des tiers. Pour vous : la recherche de bugs de sécurité va évoluer, même si l'outil n'est pas encore accessible.</p>
-<ul><li><a href="https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/">The Decoder – OpenAI's GPT-6 Cyber can both break into systems and propose how to fix them</a></li><li><a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">TechCrunch – OpenAI released a new cybersecurity model. Is that enough?</a></li></ul>
-<h3>Anthropic paie pour des articles de presse</h3>
-<p>Anthropic signe son premier accord avec un média, l'agence Associated Press, pour afficher en direct les résultats des élections américaines. Pour vous : avec des sources fraîches et citées, les réponses sur l'actualité gagnent en fiabilité.</p>
-<ul><li><a href="https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/">The Decoder – Anthropic reverses course and pays for news content for the first time</a></li></ul>
-<h3>Les agents IA et le vrai travail de bureau</h3>
-<p>Un test de SemiAnalysis place des agents devant des tâches professionnelles de plusieurs heures : le meilleur n'en réussit qu'environ 12 %. Le test est contesté. Pour vous : l'IA aide sur de petites tâches, mais la relecture humaine reste indispensable.</p>
-<ul><li><a href="https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/">The Decoder – No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark</a></li></ul>
-<h3>Vidéo IA de Google : plus longue, moins chère</h3>
-<p>Gemini Omni génère des clips jusqu'à 15 secondes, environ 30 % moins cher, et se corrige par la conversation. Chaque vidéo porte un filigrane invisible. Pour vous : pratique pour une démo ou un tutoriel rapide, et gardez un œil critique sur les vidéos trop parfaites.</p>
-<ul><li><a href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/">The Decoder – Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent</a></li></ul>
-<h3>Muse, l'avatar vidéo de Meta</h3>
-<p>Meta ouvre à tous les Américains la discussion vidéo avec son assistant Muse, représenté par un personnage animé. Pour vous : pas disponible en Europe pour l'instant.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">TechCrunch – Meta says US users can now video chat with their Muse AI avatar</a></li></ul>
+      <title>Le Brief IA – samedi 7 novembre 2026</title>
+      <description><![CDATA[<p>Perplexity lance un assistant qui travaille en permanence, Alexa se pilote par texto, Meta ajoute des espaces par projet à Muse, Airbnb prépare un agent de voyage. Un audit pointe l'accélération des modèles d'Anthropic, et les dépenses en IA des entreprises stagnent. Conseil : faire générer de faux utilisateurs piégeux pour les tests.</p><p>Ce samedi : des assistants IA qui travaillent en continu, du shopping par SMS, et deux histoires d'argent qui secouent le secteur.</p>
+<h3>Perplexity Teammates, un collègue virtuel permanent</h3>
+<p>Perplexity lance des assistants qui tournent en continu sur leur propre machine virtuelle et avancent sur des projets, suivis depuis l'application ou Slack. Pour vous : réservé pour l'instant à l'offre à environ 200 dollars par mois, mais l'idée arrivera dans les outils d'entreprise.</p>
+<ul>
+<li><a href="https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/">The Decoder – Perplexity now has its own always-on AI agent</a></li>
+</ul>
+<h3>Alexa : faire ses achats par SMS</h3>
+<p>Amazon permet de chercher, comparer et commander en écrivant à Alexa, photo comprise, pour certains clients américains. Pour vous : pas disponible en France, mais pensez à limiter ce qu'un assistant peut acheter seul.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/">TechCrunch – After blocking Muse, Amazon now lets users text Alexa to help them shop</a></li>
+</ul>
+<h3>Meta Spaces : un espace par projet</h3>
+<p>Meta ajoute à son assistant Muse des espaces dédiés qui se créent à partir d'une phrase et se mettent à jour seuls. Pour vous : une bonne idée à copier, un espace de discussion par sujet plutôt qu'une conversation fourre-tout.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">TechCrunch – Meta introduces Spaces, a new way to collaborate with your Muse agent</a></li>
+</ul>
+<h3>Airbnb prépare son agent de voyage</h3>
+<p>Prévu pour le premier semestre 2027, il construira l'écran adapté à chaque demande et gérera réservations et remboursements. Pour vous : des interfaces qui changent d'un utilisateur à l'autre, un vrai sujet pour les testeurs.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/">TechCrunch – Airbnb says it's launching an AI travel agent in the first half of 2027</a></li>
+</ul>
+<h3>Audit : l'IA d'Anthropic progresse deux fois plus vite</h3>
+<p>L'organisation METR estime qu'Anthropic a peut-être franchi dès juillet son seuil d'alerte, car l'IA aide déjà à fabriquer la suivante. Le risque immédiat est jugé faible. Pour vous : les outils continueront d'évoluer vite, gardez des habitudes souples.</p>
+<ul>
+<li><a href="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">The Decoder – METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July</a></li>
+</ul>
+<h3>Dépenses en IA qui stagnent, Bourse qui hésite</h3>
+<p>Les dépenses en IA des entreprises ont presque stagné cet automne, les prix baissent, et l'entrée en Bourse d'Anthropic rencontre de la résistance. Pour vous : la concurrence joue en faveur des clients, les prix sont négociables.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">TechCrunch – Ramp data shows AI spending stalling just as Anthropic nears its IPO</a></li>
+<li><a href="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">The Decoder – Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Collez un export anonymisé de tickets de support dans votre assistant et demandez les trois problèmes les plus fréquents, plus une question pour les cerner plus vite. Vérifiez ensuite les regroupements.</p>]]></description>
-      <content:encoded><![CDATA[<p>Un assistant qui lit vos comptes, une IA chasseuse de failles, et un test qui rappelle les limites des agents : l'actu IA du vendredi 6 novembre.</p>
-<h3>Claude analyse vos dépenses</h3>
-<p>Anthropic lance un outil de finances personnelles : on relie ses comptes bancaires et Claude classe les dépenses et repère doublons, frais surprises et abonnements qui montent. Il lit seulement, sans pouvoir bouger l'argent. Pour vous : version d'essai pour abonnés payants aux États-Unis, rien d'annoncé pour l'Europe, mais pensez à vérifier ce qu'un assistant a le droit de voir.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/">TechCrunch – Claude can now analyze your spending with its new Personal Finance tool</a></li></ul>
-<h3>GPT-6 Cyber, l'IA qui cherche les failles</h3>
-<p>OpenAI présente un modèle qui trouve des failles dans des logiciels et propose des correctifs, avec un accès limité à des clients choisis. Les résultats annoncés n'ont pas encore été vérifiés par des tiers. Pour vous : la recherche de bugs de sécurité va évoluer, même si l'outil n'est pas encore accessible.</p>
-<ul><li><a href="https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/">The Decoder – OpenAI's GPT-6 Cyber can both break into systems and propose how to fix them</a></li><li><a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">TechCrunch – OpenAI released a new cybersecurity model. Is that enough?</a></li></ul>
-<h3>Anthropic paie pour des articles de presse</h3>
-<p>Anthropic signe son premier accord avec un média, l'agence Associated Press, pour afficher en direct les résultats des élections américaines. Pour vous : avec des sources fraîches et citées, les réponses sur l'actualité gagnent en fiabilité.</p>
-<ul><li><a href="https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/">The Decoder – Anthropic reverses course and pays for news content for the first time</a></li></ul>
-<h3>Les agents IA et le vrai travail de bureau</h3>
-<p>Un test de SemiAnalysis place des agents devant des tâches professionnelles de plusieurs heures : le meilleur n'en réussit qu'environ 12 %. Le test est contesté. Pour vous : l'IA aide sur de petites tâches, mais la relecture humaine reste indispensable.</p>
-<ul><li><a href="https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/">The Decoder – No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark</a></li></ul>
-<h3>Vidéo IA de Google : plus longue, moins chère</h3>
-<p>Gemini Omni génère des clips jusqu'à 15 secondes, environ 30 % moins cher, et se corrige par la conversation. Chaque vidéo porte un filigrane invisible. Pour vous : pratique pour une démo ou un tutoriel rapide, et gardez un œil critique sur les vidéos trop parfaites.</p>
-<ul><li><a href="https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/">The Decoder – Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent</a></li></ul>
-<h3>Muse, l'avatar vidéo de Meta</h3>
-<p>Meta ouvre à tous les Américains la discussion vidéo avec son assistant Muse, représenté par un personnage animé. Pour vous : pas disponible en Europe pour l'instant.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">TechCrunch – Meta says US users can now video chat with their Muse AI avatar</a></li></ul>
+<p>Demandez à votre assistant dix faux utilisateurs aux données volontairement piégeuses (accents, apostrophes, noms très longs, champs vides) pour mettre à l'épreuve un formulaire, sans toucher à de vraies données personnelles.</p>]]></description>
+      <content:encoded><![CDATA[<p>Ce samedi : des assistants IA qui travaillent en continu, du shopping par SMS, et deux histoires d'argent qui secouent le secteur.</p>
+<h3>Perplexity Teammates, un collègue virtuel permanent</h3>
+<p>Perplexity lance des assistants qui tournent en continu sur leur propre machine virtuelle et avancent sur des projets, suivis depuis l'application ou Slack. Pour vous : réservé pour l'instant à l'offre à environ 200 dollars par mois, mais l'idée arrivera dans les outils d'entreprise.</p>
+<ul>
+<li><a href="https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/">The Decoder – Perplexity now has its own always-on AI agent</a></li>
+</ul>
+<h3>Alexa : faire ses achats par SMS</h3>
+<p>Amazon permet de chercher, comparer et commander en écrivant à Alexa, photo comprise, pour certains clients américains. Pour vous : pas disponible en France, mais pensez à limiter ce qu'un assistant peut acheter seul.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/">TechCrunch – After blocking Muse, Amazon now lets users text Alexa to help them shop</a></li>
+</ul>
+<h3>Meta Spaces : un espace par projet</h3>
+<p>Meta ajoute à son assistant Muse des espaces dédiés qui se créent à partir d'une phrase et se mettent à jour seuls. Pour vous : une bonne idée à copier, un espace de discussion par sujet plutôt qu'une conversation fourre-tout.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">TechCrunch – Meta introduces Spaces, a new way to collaborate with your Muse agent</a></li>
+</ul>
+<h3>Airbnb prépare son agent de voyage</h3>
+<p>Prévu pour le premier semestre 2027, il construira l'écran adapté à chaque demande et gérera réservations et remboursements. Pour vous : des interfaces qui changent d'un utilisateur à l'autre, un vrai sujet pour les testeurs.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/">TechCrunch – Airbnb says it's launching an AI travel agent in the first half of 2027</a></li>
+</ul>
+<h3>Audit : l'IA d'Anthropic progresse deux fois plus vite</h3>
+<p>L'organisation METR estime qu'Anthropic a peut-être franchi dès juillet son seuil d'alerte, car l'IA aide déjà à fabriquer la suivante. Le risque immédiat est jugé faible. Pour vous : les outils continueront d'évoluer vite, gardez des habitudes souples.</p>
+<ul>
+<li><a href="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">The Decoder – METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July</a></li>
+</ul>
+<h3>Dépenses en IA qui stagnent, Bourse qui hésite</h3>
+<p>Les dépenses en IA des entreprises ont presque stagné cet automne, les prix baissent, et l'entrée en Bourse d'Anthropic rencontre de la résistance. Pour vous : la concurrence joue en faveur des clients, les prix sont négociables.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">TechCrunch – Ramp data shows AI spending stalling just as Anthropic nears its IPO</a></li>
+<li><a href="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">The Decoder – Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Collez un export anonymisé de tickets de support dans votre assistant et demandez les trois problèmes les plus fréquents, plus une question pour les cerner plus vite. Vérifiez ensuite les regroupements.</p>]]></content:encoded>
-      <itunes:summary>Claude lance un outil de finances personnelles en test aux États-Unis ; OpenAI présente GPT-6 Cyber, une IA qui cherche les failles de sécurité ; Anthropic paie un média pour la première fois ; un test montre que les agents IA réussissent peu de longues tâches de bureau ; Google rend sa vidéo IA plus longue et moins chère ; Meta ouvre la vidéo avec son avatar Muse. Conseil : faire repérer les problèmes récurrents dans des tickets de support.</itunes:summary>
-      <guid isPermaLink="false">2026-11-06-57502874</guid>
-      <pubDate>Fri, 06 Nov 2026 05:11:21 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-06.mp3?v=57502874" length="1305936" type="audio/mpeg"/>
-      <itunes:duration>217</itunes:duration>
+<p>Demandez à votre assistant dix faux utilisateurs aux données volontairement piégeuses (accents, apostrophes, noms très longs, champs vides) pour mettre à l'épreuve un formulaire, sans toucher à de vraies données personnelles.</p>]]></content:encoded>
+      <itunes:summary>Perplexity lance un assistant qui travaille en permanence, Alexa se pilote par texto, Meta ajoute des espaces par projet à Muse, Airbnb prépare un agent de voyage. Un audit pointe l'accélération des modèles d'Anthropic, et les dépenses en IA des entreprises stagnent. Conseil : faire générer de faux utilisateurs piégeux pour les tests.</itunes:summary>
+      <guid isPermaLink="false">2026-11-07-06a66dfc</guid>
+      <pubDate>Sat, 07 Nov 2026 05:11:16 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-07.mp3?v=06a66dfc" length="1319040" type="audio/mpeg"/>
+      <itunes:duration>219</itunes:duration>
     </item>
   </channel>
 </rss>
