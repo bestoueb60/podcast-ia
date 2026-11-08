@@ -8,82 +8,72 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 07 Nov 2026 05:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:11:45 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – samedi 7 novembre 2026</title>
-      <description><![CDATA[<p>Perplexity lance un assistant qui travaille en permanence, Alexa se pilote par texto, Meta ajoute des espaces par projet à Muse, Airbnb prépare un agent de voyage. Un audit pointe l'accélération des modèles d'Anthropic, et les dépenses en IA des entreprises stagnent. Conseil : faire générer de faux utilisateurs piégeux pour les tests.</p><p>Ce samedi : des assistants IA qui travaillent en continu, du shopping par SMS, et deux histoires d'argent qui secouent le secteur.</p>
-<h3>Perplexity Teammates, un collègue virtuel permanent</h3>
-<p>Perplexity lance des assistants qui tournent en continu sur leur propre machine virtuelle et avancent sur des projets, suivis depuis l'application ou Slack. Pour vous : réservé pour l'instant à l'offre à environ 200 dollars par mois, mais l'idée arrivera dans les outils d'entreprise.</p>
+      <title>Le Brief IA – dimanche 8 novembre 2026</title>
+      <description><![CDATA[<p>Une montre Google qui repère un risque d'hypertension, des IA qui relisent d'autres IA avec beaucoup de fausses alertes, la sécurité des agents IA avec le rachat probable de Clutch, le débat sur les centres de données aux États-Unis, et l'entrée en Bourse d'Anthropic. Conseil du jour : faire trier ses tests en échec par l'IA.</p><p>Ce dimanche : une montre qui surveille la tension, des robots qui en surveillent d'autres, des agents IA à encadrer, des centres de données contestés et une Bourse qui s'agite.</p>
+<h3>Une montre connectée pour repérer l'hypertension</h3>
+<p>Google Research a mis au point une IA qui estime un risque de tension élevée avec le pouls et les mouvements d'une montre ordinaire, sans brassard. La fonction arrive dans l'application Google Health. Pour vous : un outil de dépistage utile, mais qui ne remplace pas un avis médical.</p>
 <ul>
-<li><a href="https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/">The Decoder – Perplexity now has its own always-on AI agent</a></li>
+<li><a href="https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/">The Decoder – Google's AI detects high blood pressure from a regular smartwatch</a></li>
 </ul>
-<h3>Alexa : faire ses achats par SMS</h3>
-<p>Amazon permet de chercher, comparer et commander en écrivant à Alexa, photo comprise, pour certains clients américains. Pour vous : pas disponible en France, mais pensez à limiter ce qu'un assistant peut acheter seul.</p>
+<h3>Des IA qui relisent d'autres IA</h3>
+<p>Une étude montre qu'une IA peut relire le journal d'une autre pour repérer les tricheries, mais au prix de nombreuses fausses alertes. Pour vous : ces relecteurs servent à trier, pas à décider seuls.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/">TechCrunch – After blocking Muse, Amazon now lets users text Alexa to help them shop</a></li>
+<li><a href="https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/">The Decoder – AI auditors catch most agent misbehavior but flood reviewers with false alarms</a></li>
 </ul>
-<h3>Meta Spaces : un espace par projet</h3>
-<p>Meta ajoute à son assistant Muse des espaces dédiés qui se créent à partir d'une phrase et se mettent à jour seuls. Pour vous : une bonne idée à copier, un espace de discussion par sujet plutôt qu'une conversation fourre-tout.</p>
+<h3>Encadrer les agents IA en entreprise</h3>
+<p>Palo Alto Networks serait en discussion pour racheter Clutch, une société qui contrôle ce que les agents IA ont le droit de faire dans les systèmes d'une entreprise. Pour vous : demandez quels droits d'accès ont les agents déployés chez vous.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">TechCrunch – Meta introduces Spaces, a new way to collaborate with your Muse agent</a></li>
+<li><a href="https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/">TechCrunch – Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</a></li>
 </ul>
-<h3>Airbnb prépare son agent de voyage</h3>
-<p>Prévu pour le premier semestre 2027, il construira l'écran adapté à chaque demande et gérera réservations et remboursements. Pour vous : des interfaces qui changent d'un utilisateur à l'autre, un vrai sujet pour les testeurs.</p>
+<h3>Centres de données : la contestation monte</h3>
+<p>Après les élections américaines, des projets de centres de données sont rejetés localement et OpenAI promet plus de transparence. Pour vous : ces freins pourraient peser un jour sur le prix et la disponibilité des outils.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/">TechCrunch – Airbnb says it's launching an AI travel agent in the first half of 2027</a></li>
+<li><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/">TechCrunch – After the midterms, things are looking rocky for Elon Musk and data centers</a></li>
 </ul>
-<h3>Audit : l'IA d'Anthropic progresse deux fois plus vite</h3>
-<p>L'organisation METR estime qu'Anthropic a peut-être franchi dès juillet son seuil d'alerte, car l'IA aide déjà à fabriquer la suivante. Le risque immédiat est jugé faible. Pour vous : les outils continueront d'évoluer vite, gardez des habitudes souples.</p>
+<h3>OpenAI lève des fonds, Anthropic vise la Bourse</h3>
+<p>OpenAI aurait levé onze milliards de dollars de plus, tandis qu'Anthropic maintiendrait son entrée en Bourse avant Thanksgiving, avec une valorisation plus basse. Pour vous : rien à faire, mais cela peut influencer les tarifs et les offres à venir.</p>
 <ul>
-<li><a href="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">The Decoder – METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July</a></li>
-</ul>
-<h3>Dépenses en IA qui stagnent, Bourse qui hésite</h3>
-<p>Les dépenses en IA des entreprises ont presque stagné cet automne, les prix baissent, et l'entrée en Bourse d'Anthropic rencontre de la résistance. Pour vous : la concurrence joue en faveur des clients, les prix sont négociables.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">TechCrunch – Ramp data shows AI spending stalling just as Anthropic nears its IPO</a></li>
-<li><a href="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">The Decoder – Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation</a></li>
+<li><a href="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">The Decoder – Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff</a></li>
+<li><a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">TechCrunch – OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>Demandez à votre assistant dix faux utilisateurs aux données volontairement piégeuses (accents, apostrophes, noms très longs, champs vides) pour mettre à l'épreuve un formulaire, sans toucher à de vraies données personnelles.</p>]]></description>
-      <content:encoded><![CDATA[<p>Ce samedi : des assistants IA qui travaillent en continu, du shopping par SMS, et deux histoires d'argent qui secouent le secteur.</p>
-<h3>Perplexity Teammates, un collègue virtuel permanent</h3>
-<p>Perplexity lance des assistants qui tournent en continu sur leur propre machine virtuelle et avancent sur des projets, suivis depuis l'application ou Slack. Pour vous : réservé pour l'instant à l'offre à environ 200 dollars par mois, mais l'idée arrivera dans les outils d'entreprise.</p>
+<p>Collez la liste de vos tests en échec dans votre assistant et demandez-lui de classer chaque cas : vrai bug probable, test instable ou problème d'environnement, avec une raison et un niveau de confiance. Regardez ensuite les cas où il hésite : c'est là que votre expertise compte.</p>]]></description>
+      <content:encoded><![CDATA[<p>Ce dimanche : une montre qui surveille la tension, des robots qui en surveillent d'autres, des agents IA à encadrer, des centres de données contestés et une Bourse qui s'agite.</p>
+<h3>Une montre connectée pour repérer l'hypertension</h3>
+<p>Google Research a mis au point une IA qui estime un risque de tension élevée avec le pouls et les mouvements d'une montre ordinaire, sans brassard. La fonction arrive dans l'application Google Health. Pour vous : un outil de dépistage utile, mais qui ne remplace pas un avis médical.</p>
 <ul>
-<li><a href="https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/">The Decoder – Perplexity now has its own always-on AI agent</a></li>
+<li><a href="https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/">The Decoder – Google's AI detects high blood pressure from a regular smartwatch</a></li>
 </ul>
-<h3>Alexa : faire ses achats par SMS</h3>
-<p>Amazon permet de chercher, comparer et commander en écrivant à Alexa, photo comprise, pour certains clients américains. Pour vous : pas disponible en France, mais pensez à limiter ce qu'un assistant peut acheter seul.</p>
+<h3>Des IA qui relisent d'autres IA</h3>
+<p>Une étude montre qu'une IA peut relire le journal d'une autre pour repérer les tricheries, mais au prix de nombreuses fausses alertes. Pour vous : ces relecteurs servent à trier, pas à décider seuls.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/">TechCrunch – After blocking Muse, Amazon now lets users text Alexa to help them shop</a></li>
+<li><a href="https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/">The Decoder – AI auditors catch most agent misbehavior but flood reviewers with false alarms</a></li>
 </ul>
-<h3>Meta Spaces : un espace par projet</h3>
-<p>Meta ajoute à son assistant Muse des espaces dédiés qui se créent à partir d'une phrase et se mettent à jour seuls. Pour vous : une bonne idée à copier, un espace de discussion par sujet plutôt qu'une conversation fourre-tout.</p>
+<h3>Encadrer les agents IA en entreprise</h3>
+<p>Palo Alto Networks serait en discussion pour racheter Clutch, une société qui contrôle ce que les agents IA ont le droit de faire dans les systèmes d'une entreprise. Pour vous : demandez quels droits d'accès ont les agents déployés chez vous.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">TechCrunch – Meta introduces Spaces, a new way to collaborate with your Muse agent</a></li>
+<li><a href="https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/">TechCrunch – Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</a></li>
 </ul>
-<h3>Airbnb prépare son agent de voyage</h3>
-<p>Prévu pour le premier semestre 2027, il construira l'écran adapté à chaque demande et gérera réservations et remboursements. Pour vous : des interfaces qui changent d'un utilisateur à l'autre, un vrai sujet pour les testeurs.</p>
+<h3>Centres de données : la contestation monte</h3>
+<p>Après les élections américaines, des projets de centres de données sont rejetés localement et OpenAI promet plus de transparence. Pour vous : ces freins pourraient peser un jour sur le prix et la disponibilité des outils.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/">TechCrunch – Airbnb says it's launching an AI travel agent in the first half of 2027</a></li>
+<li><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/">TechCrunch – After the midterms, things are looking rocky for Elon Musk and data centers</a></li>
 </ul>
-<h3>Audit : l'IA d'Anthropic progresse deux fois plus vite</h3>
-<p>L'organisation METR estime qu'Anthropic a peut-être franchi dès juillet son seuil d'alerte, car l'IA aide déjà à fabriquer la suivante. Le risque immédiat est jugé faible. Pour vous : les outils continueront d'évoluer vite, gardez des habitudes souples.</p>
+<h3>OpenAI lève des fonds, Anthropic vise la Bourse</h3>
+<p>OpenAI aurait levé onze milliards de dollars de plus, tandis qu'Anthropic maintiendrait son entrée en Bourse avant Thanksgiving, avec une valorisation plus basse. Pour vous : rien à faire, mais cela peut influencer les tarifs et les offres à venir.</p>
 <ul>
-<li><a href="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">The Decoder – METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July</a></li>
-</ul>
-<h3>Dépenses en IA qui stagnent, Bourse qui hésite</h3>
-<p>Les dépenses en IA des entreprises ont presque stagné cet automne, les prix baissent, et l'entrée en Bourse d'Anthropic rencontre de la résistance. Pour vous : la concurrence joue en faveur des clients, les prix sont négociables.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">TechCrunch – Ramp data shows AI spending stalling just as Anthropic nears its IPO</a></li>
-<li><a href="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">The Decoder – Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation</a></li>
+<li><a href="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">The Decoder – Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff</a></li>
+<li><a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">TechCrunch – OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>Demandez à votre assistant dix faux utilisateurs aux données volontairement piégeuses (accents, apostrophes, noms très longs, champs vides) pour mettre à l'épreuve un formulaire, sans toucher à de vraies données personnelles.</p>]]></content:encoded>
-      <itunes:summary>Perplexity lance un assistant qui travaille en permanence, Alexa se pilote par texto, Meta ajoute des espaces par projet à Muse, Airbnb prépare un agent de voyage. Un audit pointe l'accélération des modèles d'Anthropic, et les dépenses en IA des entreprises stagnent. Conseil : faire générer de faux utilisateurs piégeux pour les tests.</itunes:summary>
-      <guid isPermaLink="false">2026-11-07-06a66dfc</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:16 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-07.mp3?v=06a66dfc" length="1319040" type="audio/mpeg"/>
-      <itunes:duration>219</itunes:duration>
+<p>Collez la liste de vos tests en échec dans votre assistant et demandez-lui de classer chaque cas : vrai bug probable, test instable ou problème d'environnement, avec une raison et un niveau de confiance. Regardez ensuite les cas où il hésite : c'est là que votre expertise compte.</p>]]></content:encoded>
+      <itunes:summary>Une montre Google qui repère un risque d'hypertension, des IA qui relisent d'autres IA avec beaucoup de fausses alertes, la sécurité des agents IA avec le rachat probable de Clutch, le débat sur les centres de données aux États-Unis, et l'entrée en Bourse d'Anthropic. Conseil du jour : faire trier ses tests en échec par l'IA.</itunes:summary>
+      <guid isPermaLink="false">2026-11-08-2189e93e</guid>
+      <pubDate>Sun, 08 Nov 2026 05:11:40 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-08.mp3?v=2189e93e" length="1239552" type="audio/mpeg"/>
+      <itunes:duration>206</itunes:duration>
     </item>
   </channel>
 </rss>
