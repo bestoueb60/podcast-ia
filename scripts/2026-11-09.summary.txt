@@ -1,1 +1,0 @@
-Les agents de code IA oublient encore souvent un détail ; Karpathy construit un site en un week-end avec Claude Code ; Anthropic veut entrer en Bourse avant Thanksgiving ; les modèles ouverts rattrapent les fermés en piratage simulé ; le biais politique de certains modèles chinois serait superficiel. Conseil : demander à l'IA de relire la demande point par point.
