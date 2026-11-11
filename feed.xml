@@ -8,74 +8,76 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 10 Nov 2026 05:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:10:41 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – mardi 10 novembre 2026</title>
-      <description><![CDATA[<p>Anthropic lance de nouveaux modèles Claude plus rapides et moins chers, Meta présente un petit modèle économique pour les tâches répétitives, Medium sort un éditeur avec assistant IA, Automattic lance Spacefast pour mettre en ligne des applications créées par IA, et Disney s'associe à Adobe pour des modèles sur mesure. Conseil du jour : transformer des notes de réunion en liste d'actions.</p><p>Au menu ce mardi : de nouveaux modèles Claude, un petit modèle chez Meta, un assistant d'écriture, une plateforme pour publier ses applications et un partenariat Disney–Adobe.</p>
-<h3>Anthropic lance Fable 5.2 et Mythos 5.2</h3>
-<p>Anthropic a sorti deux nouveaux modèles, meilleurs en code, en raisonnement et en vision, avec des réponses plus rapides et un prix en baisse pour les entreprises. L'entreprise reconnaît que les modèles se doutent parfois d'être testés. Pour vous : attendez-vous à voir ces nouveautés arriver dans Claude et comparez avec vos habitudes.</p>
+      <title>Le Brief IA – mercredi 11 novembre 2026</title>
+      <description><![CDATA[<p>Claude rejoint vos réunions en visio, ChatGPT lance des profils d'entreprise, Google présente Gemini 4 Carbon, huit pays signent un appel de Paris sur la sécurité de l'IA, et Adobe ouvre ses logiciels aux assistants. Conseil : faire expliquer un message d'erreur en langage simple.</p><p>Claude s'invite en réunion, ChatGPT devient un annuaire d'entreprises, et Paris réunit autour de la sécurité de l'IA.</p>
+<h3>Claude Meetings : l'IA prend le compte rendu</h3>
+<p>Anthropic lance Claude Meetings, qui rejoint une visioconférence, suit la discussion et prépare notes et tâches, avec aussi des tableaux blancs et des feuilles de calcul. Pour vous : moins de comptes rendus à rédiger à la main, mais pour l'instant seulement en test, sur Google Meet et avec les offres équipe et entreprise.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">TechCrunch – Anthropic releases new Mythos and Fable models amid RSI concerns</a></li>
-<li><a href="https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/">The Decoder – Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO</a></li>
+<li><a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">TechCrunch – Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</a></li>
+<li><a href="https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/">The Decoder – Anthropic turns Claude into a full workspace</a></li>
 </ul>
-<h3>Meta lance Muse Ember</h3>
-<p>Meta présente un petit modèle très économique, pensé pour les tâches répétitives des assistants automatiques : lire des documents, des images ou de l'audio et appliquer des consignes en masse. Pour vous : effet indirect, ce sont surtout les entreprises et leurs outils de support qui en profiteront.</p>
+<h3>ChatGPT lance des profils d'entreprise</h3>
+<p>OpenAI permet à des sociétés vérifiées de créer un profil et un agent qui répond aux questions des clients dans ChatGPT. Pour vous : un nouveau canal où vos utilisateurs pourraient poser leurs questions, encore en test.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/">TechCrunch – Meta releases Muse Ember, a new lightweight model for agent execution</a></li>
-<li><a href="https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/">The Decoder – Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do</a></li>
+<li><a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">TechCrunch – OpenAI rolls out new business profiles</a></li>
+<li><a href="https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/">The Decoder – OpenAI turns ChatGPT into a business directory</a></li>
 </ul>
-<h3>Medium lance TK, un éditeur avec assistant IA</h3>
-<p>On appelle l'assistant avec « @TK » pour obtenir des titres, des avis sur son texte ou une vérification du style, et l'auteur peut indiquer comment l'IA a été utilisée. Gratuit pour les comptes Medium, sur le web. Pour vous : utile pour rédiger comptes rendus de tests ou fiches de support.</p>
+<h3>Google : Gemini 4 Carbon</h3>
+<p>Un nouveau modèle pour les tâches difficiles, proposé aux développeurs et aux entreprises à côté d'Argon, recommandé au quotidien. Pour vous : rien à faire, mais il coûte plus cher à l'usage.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/">TechCrunch – Medium's new TK app brings AI assistance directly into the writing process</a></li>
+<li><a href="https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/">The Decoder – Gemini 4 Carbon arrives just in time to feel like yesterday's news</a></li>
 </ul>
-<h3>Automattic lance Spacefast</h3>
-<p>Cette plateforme met en ligne les applications créées en « vibe coding » (décrire l'application à une IA) et gère base de données, comptes et e-mails. Pour vous : attendez-vous à voir arriver des applications maison à tester et à dépanner.</p>
+<h3>Appel de Paris et loi de New York sur la sécurité de l'IA</h3>
+<p>Huit pays et de grands laboratoires s'engagent à publier des tests, accepter des audits et prévoir des mécanismes d'arrêt, sans sanction. À New York, une loi oblige les grands laboratoires à publier leurs règles de sécurité et signaler les incidents graves sous 72 heures. Pour vous : pas de changement immédiat, mais plus de transparence à terme.</p>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/">TechCrunch – Automattic debuts a platform to deploy vibe-coding apps amid a changing internet</a></li>
+<li><a href="https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/">The Decoder – Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration</a></li>
+<li><a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">TechCrunch – OpenAI, Anthropic face new oversight as New York's AI safety law takes effect</a></li>
 </ul>
-<h3>Disney et Adobe s'associent</h3>
-<p>Adobe créera pour Disney des modèles d'IA entraînés sur ses propres personnages et univers. Pour vous : plus de contenus générés dans les parcs et sur les chaînes sportives, avec la question de l'emploi en toile de fond.</p>
+<h3>Adobe ouvre ses logiciels aux assistants</h3>
+<p>Nouvelles fonctions d'IA dans Photoshop, Premiere et Firefly, et une connexion permettant à ChatGPT, Claude ou Gemini de piloter les outils Adobe. Pour vous : utile pour produire vite des visuels de support, dates de disponibilité à confirmer.</p>
 <ul>
-<li><a href="https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/">The Decoder – Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire</a></li>
-</ul>
-<h3>Conseil du jour</h3>
-<p>Collez vos notes de réunion dans votre assistant et demandez : « transforme ces notes en liste d'actions avec un responsable et une date, et dis-moi ce qui n'est pas clair ». Retirez d'abord les noms et informations sensibles.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au menu ce mardi : de nouveaux modèles Claude, un petit modèle chez Meta, un assistant d'écriture, une plateforme pour publier ses applications et un partenariat Disney–Adobe.</p>
-<h3>Anthropic lance Fable 5.2 et Mythos 5.2</h3>
-<p>Anthropic a sorti deux nouveaux modèles, meilleurs en code, en raisonnement et en vision, avec des réponses plus rapides et un prix en baisse pour les entreprises. L'entreprise reconnaît que les modèles se doutent parfois d'être testés. Pour vous : attendez-vous à voir ces nouveautés arriver dans Claude et comparez avec vos habitudes.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">TechCrunch – Anthropic releases new Mythos and Fable models amid RSI concerns</a></li>
-<li><a href="https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/">The Decoder – Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO</a></li>
-</ul>
-<h3>Meta lance Muse Ember</h3>
-<p>Meta présente un petit modèle très économique, pensé pour les tâches répétitives des assistants automatiques : lire des documents, des images ou de l'audio et appliquer des consignes en masse. Pour vous : effet indirect, ce sont surtout les entreprises et leurs outils de support qui en profiteront.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/">TechCrunch – Meta releases Muse Ember, a new lightweight model for agent execution</a></li>
-<li><a href="https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/">The Decoder – Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do</a></li>
-</ul>
-<h3>Medium lance TK, un éditeur avec assistant IA</h3>
-<p>On appelle l'assistant avec « @TK » pour obtenir des titres, des avis sur son texte ou une vérification du style, et l'auteur peut indiquer comment l'IA a été utilisée. Gratuit pour les comptes Medium, sur le web. Pour vous : utile pour rédiger comptes rendus de tests ou fiches de support.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/">TechCrunch – Medium's new TK app brings AI assistance directly into the writing process</a></li>
-</ul>
-<h3>Automattic lance Spacefast</h3>
-<p>Cette plateforme met en ligne les applications créées en « vibe coding » (décrire l'application à une IA) et gère base de données, comptes et e-mails. Pour vous : attendez-vous à voir arriver des applications maison à tester et à dépanner.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/">TechCrunch – Automattic debuts a platform to deploy vibe-coding apps amid a changing internet</a></li>
-</ul>
-<h3>Disney et Adobe s'associent</h3>
-<p>Adobe créera pour Disney des modèles d'IA entraînés sur ses propres personnages et univers. Pour vous : plus de contenus générés dans les parcs et sur les chaînes sportives, avec la question de l'emploi en toile de fond.</p>
-<ul>
-<li><a href="https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/">The Decoder – Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire</a></li>
+<li><a href="https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/">TechCrunch – Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</a></li>
 </ul>
 <h3>Conseil du jour</h3>
-<p>Collez vos notes de réunion dans votre assistant et demandez : « transforme ces notes en liste d'actions avec un responsable et une date, et dis-moi ce qui n'est pas clair ». Retirez d'abord les noms et informations sensibles.</p>]]></content:encoded>
-      <itunes:summary>Anthropic lance de nouveaux modèles Claude plus rapides et moins chers, Meta présente un petit modèle économique pour les tâches répétitives, Medium sort un éditeur avec assistant IA, Automattic lance Spacefast pour mettre en ligne des applications créées par IA, et Disney s'associe à Adobe pour des modèles sur mesure. Conseil du jour : transformer des notes de réunion en liste d'actions.</itunes:summary>
-      <guid isPermaLink="false">2026-11-10-24a16654</guid>
-      <pubDate>Tue, 10 Nov 2026 05:11:36 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-10.mp3?v=24a16654" length="1367424" type="audio/mpeg"/>
-      <itunes:duration>227</itunes:duration>
+<p>Collez un message d'erreur (sans données sensibles) dans votre assistant et demandez : « Explique cette erreur en langage simple, puis donne trois vérifications, de la plus rapide à la plus longue. »</p>]]></description>
+      <content:encoded><![CDATA[<p>Claude s'invite en réunion, ChatGPT devient un annuaire d'entreprises, et Paris réunit autour de la sécurité de l'IA.</p>
+<h3>Claude Meetings : l'IA prend le compte rendu</h3>
+<p>Anthropic lance Claude Meetings, qui rejoint une visioconférence, suit la discussion et prépare notes et tâches, avec aussi des tableaux blancs et des feuilles de calcul. Pour vous : moins de comptes rendus à rédiger à la main, mais pour l'instant seulement en test, sur Google Meet et avec les offres équipe et entreprise.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">TechCrunch – Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</a></li>
+<li><a href="https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/">The Decoder – Anthropic turns Claude into a full workspace</a></li>
+</ul>
+<h3>ChatGPT lance des profils d'entreprise</h3>
+<p>OpenAI permet à des sociétés vérifiées de créer un profil et un agent qui répond aux questions des clients dans ChatGPT. Pour vous : un nouveau canal où vos utilisateurs pourraient poser leurs questions, encore en test.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/">TechCrunch – OpenAI rolls out new business profiles</a></li>
+<li><a href="https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/">The Decoder – OpenAI turns ChatGPT into a business directory</a></li>
+</ul>
+<h3>Google : Gemini 4 Carbon</h3>
+<p>Un nouveau modèle pour les tâches difficiles, proposé aux développeurs et aux entreprises à côté d'Argon, recommandé au quotidien. Pour vous : rien à faire, mais il coûte plus cher à l'usage.</p>
+<ul>
+<li><a href="https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/">The Decoder – Gemini 4 Carbon arrives just in time to feel like yesterday's news</a></li>
+</ul>
+<h3>Appel de Paris et loi de New York sur la sécurité de l'IA</h3>
+<p>Huit pays et de grands laboratoires s'engagent à publier des tests, accepter des audits et prévoir des mécanismes d'arrêt, sans sanction. À New York, une loi oblige les grands laboratoires à publier leurs règles de sécurité et signaler les incidents graves sous 72 heures. Pour vous : pas de changement immédiat, mais plus de transparence à terme.</p>
+<ul>
+<li><a href="https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/">The Decoder – Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration</a></li>
+<li><a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">TechCrunch – OpenAI, Anthropic face new oversight as New York's AI safety law takes effect</a></li>
+</ul>
+<h3>Adobe ouvre ses logiciels aux assistants</h3>
+<p>Nouvelles fonctions d'IA dans Photoshop, Premiere et Firefly, et une connexion permettant à ChatGPT, Claude ou Gemini de piloter les outils Adobe. Pour vous : utile pour produire vite des visuels de support, dates de disponibilité à confirmer.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/">TechCrunch – Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</a></li>
+</ul>
+<h3>Conseil du jour</h3>
+<p>Collez un message d'erreur (sans données sensibles) dans votre assistant et demandez : « Explique cette erreur en langage simple, puis donne trois vérifications, de la plus rapide à la plus longue. »</p>]]></content:encoded>
+      <itunes:summary>Claude rejoint vos réunions en visio, ChatGPT lance des profils d'entreprise, Google présente Gemini 4 Carbon, huit pays signent un appel de Paris sur la sécurité de l'IA, et Adobe ouvre ses logiciels aux assistants. Conseil : faire expliquer un message d'erreur en langage simple.</itunes:summary>
+      <guid isPermaLink="false">2026-11-11-8cf0704f</guid>
+      <pubDate>Wed, 11 Nov 2026 05:10:36 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-11.mp3?v=8cf0704f" length="1332288" type="audio/mpeg"/>
+      <itunes:duration>222</itunes:duration>
     </item>
   </channel>
 </rss>
