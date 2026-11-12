@@ -13,3 +13,4 @@
 2026-11-09 : agents de code et détails oubliés ; Karpathy site en un week-end avec Claude Code ; Anthropic Bourse avant Thanksgiving ; modèles ouverts et piratage simulé ; biais des modèles chinois superficiel ; conseil : faire relire la demande point par point
 2026-11-10 : Anthropic Fable 5.2 et Mythos 5.2 ; Meta Muse Ember ; Medium TK éditeur IA ; Automattic Spacefast ; Disney et Adobe modèles sur mesure ; conseil : transformer des notes de réunion en liste d'actions
 2026-11-11 : Claude Meetings en réunion ; ChatGPT profils d'entreprise ; Gemini 4 Carbon ; Appel de Paris et loi de New York sur la sécurité de l'IA ; Adobe ouvre ses outils aux assistants ; conseil : faire expliquer un message d'erreur
+2026-11-12 : applications Grok exposées ; DeepL Aure traduction vocale ; AlphaProof Code et Signal ; Plurai teste les agents IA ; Gemini Decisions ; conseil : tester en navigation privée ce qu'on partage
