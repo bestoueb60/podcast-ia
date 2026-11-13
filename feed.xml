@@ -8,50 +8,74 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 12 Nov 2026 05:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:11:10 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – jeudi 12 novembre 2026</title>
-      <description><![CDATA[<p>Des applications créées avec Grok exposées à tous, la traduction vocale DeepL qui garde le ton et le sarcasme, une IA de Google qui vérifie le cœur du chiffrement de Signal, Plurai qui teste les agents IA par simulation, et une interface Google pour des décisions éclair. Conseil du jour : tester en navigation privée ce que l'on partage.</p><p>Au programme : des applications faites avec Grok laissées ouvertes à tous, une traduction vocale qui garde le ton, un code de Signal vérifié par IA, des tests pour agents IA et un service de décisions éclair chez Google.</p>
-<h3>Applications Grok : la porte grande ouverte</h3>
-<p>Une société de sécurité a examiné près de quarante mille applications créées avec le mode Build de Grok : environ neuf sur dix étaient accessibles sans connexion, car l'option de publication préselectionnée était « toute personne disposant du lien ». Des données sensibles et des mots de passe en clair ont été trouvés. L'étude vient d'une société qui vend des solutions de sécurité. Pour vous : vérifiez qui peut ouvrir une application générée par IA avant de la publier, et n'y mettez pas de données de tiers sans test d'accès.</p>
-<ul><li><a href="https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/">The Decoder – Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline</a></li></ul>
-<h3>DeepL Aure : une traduction vocale qui garde le ton</h3>
-<p>Le nouveau modèle de DeepL Voice transpose aussi l'intonation, le rythme et l'émotion de la personne dans la langue cible, en huit langues dont le français. Pour vous : à essayer dans vos réunions avec des collègues ou des utilisateurs étrangers.</p>
-<ul><li><a href="https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/">The Decoder – DeepL Voice translates intonation and speaking speed</a></li></ul>
-<h3>Signal : son code de chiffrement vérifié par une IA</h3>
-<p>Google DeepMind affirme que son système AlphaProof Code a démontré en environ quatre semaines que le cœur du chiffrement de Signal respecte ses exigences de sécurité, un travail qui prend normalement des années. Ce sont les annonces de Google, sans précision sur l'accès public. Pour vous : à terme, des logiciels sensibles pourraient être mieux contrôlés, donc vos données mieux protégées.</p>
-<ul><li><a href="https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/">The Decoder – AlphaProof Code verified Signal's cryptographic core in four weeks</a></li></ul>
-<h3>Plurai : faire passer des tests de conduite aux agents IA</h3>
-<p>Cette jeune société, qui a levé treize millions de dollars, simule l'environnement d'une entreprise pour provoquer les erreurs d'un agent IA avant la mise en service, comme on teste une voiture autonome. Pour vous : c'est le métier du testeur appliqué à l'IA, une compétence qui va compter.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/">TechCrunch – Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</a></li></ul>
-<h3>Google : un service pour décider en un éclair</h3>
-<p>Gemini Decisions répond par oui, non ou un choix, avec un niveau de confiance, en une fraction de seconde et pour très peu cher. Pour vous : surtout destiné aux développeurs, il pourrait accélérer le tri automatique des tickets.</p>
-<ul><li><a href="https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/">The Decoder – Google joins the decision-model wave with Gemini Decision 1</a></li></ul>
+      <title>Le Brief IA – vendredi 13 novembre 2026</title>
+      <description><![CDATA[<p>Google muscle sa recherche avec l'IA, une fuite chez Fireworks expose des conversations Notion AI, United Airlines bloque les assistants IA de réservation, Meta Muse passe des appels aux commerces américains et Jensen Huang quitte la direction de Nvidia. Conseil du jour : faire proposer des cas de test limites par l'IA.</p><p>Recherche Google dopée à l'IA, fuite de données chez un sous-traitant d'IA, compagnie aérienne qui bloque les agents, assistant qui téléphone, et départ du patron de Nvidia.</p>
+<h3>Google muscle sa recherche</h3>
+<p>Google déploie une grosse mise à jour de sa recherche, qui comprend mieux les questions longues et compliquées et affiche plus de tableaux et d'images. Pour vous : posez la question complète plutôt que des mots clés.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">TechCrunch – Google's latest Search upgrade promises better answers to your most complicated questions</a></li>
+<li><a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">The Decoder – Gemini 4 Hydrogen beats the larger Argon model</a></li>
+</ul>
+<h3>Fuite de données chez Fireworks, des conversations Notion touchées</h3>
+<p>Des pirates ont infiltré l'hébergeur de Fireworks et volé des données, dont des transcriptions de conversations avec Notion AI chez environ 1 % des clients de Notion. Pour vous : ne collez pas de mots de passe ni de données sensibles dans un assistant.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/">TechCrunch – Cyberattack on Fireworks AI allowed hackers to access Notion customers' chat transcripts</a></li>
+</ul>
+<h3>United Airlines bloque les agents IA</h3>
+<p>La compagnie interdit aux assistants IA tiers de réserver ou modifier des vols, par crainte pour la sécurité des comptes. Pour vous : ne donnez jamais vos identifiants à un agent, et surveillez ses droits.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/">TechCrunch – United Airlines blocks AI agents from booking flights, citing cybersecurity risks</a></li>
+</ul>
+<h3>Meta Muse passe des appels</h3>
+<p>L'assistant Muse peut téléphoner à des commerces américains, pour les abonnés payants. Pour vous : pas disponible en Europe, mais le support devra s'habituer aux appels de machines.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">TechCrunch – Muse can now place calls to US businesses, if you pay</a></li>
+</ul>
+<h3>Jensen Huang quitte Nvidia</h3>
+<p>Le patron de Nvidia démissionne après un scandale, la directrice financière assure l'intérim. Pour vous : rien de immédiat, mais à suivre pour l'avenir des services d'IA.</p>
+<ul>
+<li><a href="https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/">The Decoder – Jensen Huang resigns as Nvidia CEO</a></li>
+<li><a href="https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/">TechCrunch – Jensen Huang is out at Nvidia, who is Colette Kress</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Avant de partager une page ou une petite application générée par IA, ouvrez le lien en navigation privée, sans être connecté : si vous voyez tout, tout le monde le verra. Demandez ensuite à l'IA comment restreindre l'accès, et vérifiez sa réponse.</p>]]></description>
-      <content:encoded><![CDATA[<p>Au programme : des applications faites avec Grok laissées ouvertes à tous, une traduction vocale qui garde le ton, un code de Signal vérifié par IA, des tests pour agents IA et un service de décisions éclair chez Google.</p>
-<h3>Applications Grok : la porte grande ouverte</h3>
-<p>Une société de sécurité a examiné près de quarante mille applications créées avec le mode Build de Grok : environ neuf sur dix étaient accessibles sans connexion, car l'option de publication préselectionnée était « toute personne disposant du lien ». Des données sensibles et des mots de passe en clair ont été trouvés. L'étude vient d'une société qui vend des solutions de sécurité. Pour vous : vérifiez qui peut ouvrir une application générée par IA avant de la publier, et n'y mettez pas de données de tiers sans test d'accès.</p>
-<ul><li><a href="https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/">The Decoder – Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline</a></li></ul>
-<h3>DeepL Aure : une traduction vocale qui garde le ton</h3>
-<p>Le nouveau modèle de DeepL Voice transpose aussi l'intonation, le rythme et l'émotion de la personne dans la langue cible, en huit langues dont le français. Pour vous : à essayer dans vos réunions avec des collègues ou des utilisateurs étrangers.</p>
-<ul><li><a href="https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/">The Decoder – DeepL Voice translates intonation and speaking speed</a></li></ul>
-<h3>Signal : son code de chiffrement vérifié par une IA</h3>
-<p>Google DeepMind affirme que son système AlphaProof Code a démontré en environ quatre semaines que le cœur du chiffrement de Signal respecte ses exigences de sécurité, un travail qui prend normalement des années. Ce sont les annonces de Google, sans précision sur l'accès public. Pour vous : à terme, des logiciels sensibles pourraient être mieux contrôlés, donc vos données mieux protégées.</p>
-<ul><li><a href="https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/">The Decoder – AlphaProof Code verified Signal's cryptographic core in four weeks</a></li></ul>
-<h3>Plurai : faire passer des tests de conduite aux agents IA</h3>
-<p>Cette jeune société, qui a levé treize millions de dollars, simule l'environnement d'une entreprise pour provoquer les erreurs d'un agent IA avant la mise en service, comme on teste une voiture autonome. Pour vous : c'est le métier du testeur appliqué à l'IA, une compétence qui va compter.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/">TechCrunch – Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</a></li></ul>
-<h3>Google : un service pour décider en un éclair</h3>
-<p>Gemini Decisions répond par oui, non ou un choix, avec un niveau de confiance, en une fraction de seconde et pour très peu cher. Pour vous : surtout destiné aux développeurs, il pourrait accélérer le tri automatique des tickets.</p>
-<ul><li><a href="https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/">The Decoder – Google joins the decision-model wave with Gemini Decision 1</a></li></ul>
+<p>Collez la description d'une fonction à tester, sans données confidentielles, et demandez à l'IA une liste de cas de test en commençant par les cas limites. Puis triez vous-même.</p>]]></description>
+      <content:encoded><![CDATA[<p>Recherche Google dopée à l'IA, fuite de données chez un sous-traitant d'IA, compagnie aérienne qui bloque les agents, assistant qui téléphone, et départ du patron de Nvidia.</p>
+<h3>Google muscle sa recherche</h3>
+<p>Google déploie une grosse mise à jour de sa recherche, qui comprend mieux les questions longues et compliquées et affiche plus de tableaux et d'images. Pour vous : posez la question complète plutôt que des mots clés.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/">TechCrunch – Google's latest Search upgrade promises better answers to your most complicated questions</a></li>
+<li><a href="https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/">The Decoder – Gemini 4 Hydrogen beats the larger Argon model</a></li>
+</ul>
+<h3>Fuite de données chez Fireworks, des conversations Notion touchées</h3>
+<p>Des pirates ont infiltré l'hébergeur de Fireworks et volé des données, dont des transcriptions de conversations avec Notion AI chez environ 1 % des clients de Notion. Pour vous : ne collez pas de mots de passe ni de données sensibles dans un assistant.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/">TechCrunch – Cyberattack on Fireworks AI allowed hackers to access Notion customers' chat transcripts</a></li>
+</ul>
+<h3>United Airlines bloque les agents IA</h3>
+<p>La compagnie interdit aux assistants IA tiers de réserver ou modifier des vols, par crainte pour la sécurité des comptes. Pour vous : ne donnez jamais vos identifiants à un agent, et surveillez ses droits.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/">TechCrunch – United Airlines blocks AI agents from booking flights, citing cybersecurity risks</a></li>
+</ul>
+<h3>Meta Muse passe des appels</h3>
+<p>L'assistant Muse peut téléphoner à des commerces américains, pour les abonnés payants. Pour vous : pas disponible en Europe, mais le support devra s'habituer aux appels de machines.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">TechCrunch – Muse can now place calls to US businesses, if you pay</a></li>
+</ul>
+<h3>Jensen Huang quitte Nvidia</h3>
+<p>Le patron de Nvidia démissionne après un scandale, la directrice financière assure l'intérim. Pour vous : rien de immédiat, mais à suivre pour l'avenir des services d'IA.</p>
+<ul>
+<li><a href="https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/">The Decoder – Jensen Huang resigns as Nvidia CEO</a></li>
+<li><a href="https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/">TechCrunch – Jensen Huang is out at Nvidia, who is Colette Kress</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Avant de partager une page ou une petite application générée par IA, ouvrez le lien en navigation privée, sans être connecté : si vous voyez tout, tout le monde le verra. Demandez ensuite à l'IA comment restreindre l'accès, et vérifiez sa réponse.</p>]]></content:encoded>
-      <itunes:summary>Des applications créées avec Grok exposées à tous, la traduction vocale DeepL qui garde le ton et le sarcasme, une IA de Google qui vérifie le cœur du chiffrement de Signal, Plurai qui teste les agents IA par simulation, et une interface Google pour des décisions éclair. Conseil du jour : tester en navigation privée ce que l'on partage.</itunes:summary>
-      <guid isPermaLink="false">2026-11-12-2009e461</guid>
-      <pubDate>Thu, 12 Nov 2026 05:10:44 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-12.mp3?v=2009e461" length="1386432" type="audio/mpeg"/>
-      <itunes:duration>231</itunes:duration>
+<p>Collez la description d'une fonction à tester, sans données confidentielles, et demandez à l'IA une liste de cas de test en commençant par les cas limites. Puis triez vous-même.</p>]]></content:encoded>
+      <itunes:summary>Google muscle sa recherche avec l'IA, une fuite chez Fireworks expose des conversations Notion AI, United Airlines bloque les assistants IA de réservation, Meta Muse passe des appels aux commerces américains et Jensen Huang quitte la direction de Nvidia. Conseil du jour : faire proposer des cas de test limites par l'IA.</itunes:summary>
+      <guid isPermaLink="false">2026-11-13-51a62a07</guid>
+      <pubDate>Fri, 13 Nov 2026 05:10:57 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-13.mp3?v=51a62a07" length="1240704" type="audio/mpeg"/>
+      <itunes:duration>206</itunes:duration>
     </item>
   </channel>
 </rss>

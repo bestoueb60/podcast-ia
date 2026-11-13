@@ -1,1 +1,0 @@
-Des applications créées avec Grok exposées à tous, la traduction vocale DeepL qui garde le ton et le sarcasme, une IA de Google qui vérifie le cœur du chiffrement de Signal, Plurai qui teste les agents IA par simulation, et une interface Google pour des décisions éclair. Conseil du jour : tester en navigation privée ce que l'on partage.
