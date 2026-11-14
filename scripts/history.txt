@@ -1,4 +1,3 @@
-2026-10-31 : fausse extension Claude Code dans Cursor ; règles de conduite OpenAI ; étude Anthropic experts influencés par l'IA ; Ollie ferme et DoorDash peu de commandes d'agents ; Reddit et mode IA de Google ; conseil : demander à l'IA ses hypothèses
 2026-11-01 : agents IA et vieilles fuites (ARTEX) ; IA et failles de Chrome ; filigrane Claude et AI Act ; OpenAI données d'entraînement cybersécurité ; Microsoft départs volontaires ; conseil : mettre Chrome à jour
 2026-11-02 : ChatGPT fusion Chat et Work et budget unique ; limites de comptes par appareil ; Bourse et dépenses IA ; chatbots traumatisés en fausse thérapie ; Apple IA discrète ; assistant vidéo de Google ; conseil : choisir le bon modèle selon la tâche
 2026-11-03 : Goldman Sachs retire les outils de code IA ; Grok réduit les quotas ; Anthropic et IA qui s'améliore seule ; Apple et assistants IA tiers ; Garry Tan et agents ; Dreambeans Google ; conseil : remplacer les noms par des étiquettes avant de coller un texte
@@ -12,3 +11,4 @@
 2026-11-11 : Claude Meetings en réunion ; ChatGPT profils d'entreprise ; Gemini 4 Carbon ; Appel de Paris et loi de New York sur la sécurité de l'IA ; Adobe ouvre ses outils aux assistants ; conseil : faire expliquer un message d'erreur
 2026-11-12 : applications Grok exposées ; DeepL Aure traduction vocale ; AlphaProof Code et Signal ; Plurai teste les agents IA ; Gemini Decisions ; conseil : tester en navigation privée ce qu'on partage
 2026-11-13 : recherche Google Gemini 4 Hydrogen ; fuite Fireworks et Notion AI ; United Airlines bloque les agents IA ; Meta Muse appels téléphoniques ; Jensen Huang quitte Nvidia ; conseil : faire proposer des cas de test limites
+2026-11-14 : ChatGPT Wallet ; OpenAI Daybreak chasse aux failles ; ElevenLabs notes de réunion ; Claude for Manufacturing ; Anthropic Bourse record ; conseil : transformer une note de bug en ticket clair
