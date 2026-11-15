@@ -1,0 +1,21 @@
+Bonjour, et bienvenue dans Le Brief IA de ce dimanche quinze novembre deux mille vingt-six.
+
+Dimanche tranquille, donc un épisode un peu plus léger que d'habitude. Au programme : les vieilles habitudes qui ralentissent votre assistant, un robot qui apprend à se passer de spécialistes, une IA de robots mise gratuitement à disposition de tous, et le grand pari financier d'Anthropic. Et pour finir, le conseil du jour.
+
+Commençons par un sujet qui vous concerne directement. Anthropic, l'entreprise qui fabrique Claude, a publié des recommandations pour sa dernière version, Claude Opus cinq point cinq. Le message est simple : oubliez les vieux réflexes.
+
+Vous savez, ces petites formules magiques qu'on glisse dans une demande, comme « réfléchis bien » ou « réfléchis longuement ». Avec les anciens assistants, ça aidait. Avec celui-ci, c'est comme crier « concentre-toi » à un collègue qui est déjà concentré : ça ne sert à rien, et ça le ralentit. Anthropic recommande aussi de garder le niveau d'effort par défaut, le niveau moyen, et de ne passer au niveau élevé que si le résultat ne suffit pas. Anthropic affirme que les réponses arrivent plus vite sans ces formules, sans perte de qualité mesurable.
+
+Autres conseils : décrire dès le premier message ce que vous voulez, dans quel format, et quand l'assistant doit vous poser une question. Joindre vos schémas ou vos tableaux plutôt que de les retaper. Et demander directement le document final, pas un brouillon d'abord. Pour vous, côté tests et support, c'est un gain de temps immédiat : une seule demande bien posée vaut dix allers-retours.
+
+Deuxième sujet : les robots. OpenAI a réorganisé son équipe de robotique. Les chercheurs ont été répartis dans d'autres équipes, notamment celle qui travaille sur les modèles généralistes. Pourquoi ? L'entreprise parie que ses modèles polyvalents, ceux qui discutent avec vous, sauront bientôt piloter des robots directement, sans qu'il faille une IA spécialisée pour chaque machine. Ce n'est pas un abandon, plutôt un changement de stratégie. Elle a même laissé vide son stand à une conférence de robotique, tant la décision a été rapide. Pour vous, rien de concret demain matin. Mais c'est un signe de plus : l'idée d'une seule IA qui sait tout faire gagne du terrain, y compris dans le monde physique.
+
+Troisième sujet, toujours côté robots. La société Runway, connue pour ses vidéos générées par IA, a mis en ligne gratuitement un modèle appelé Praxis un. Il regarde des images, lit une consigne écrite, puis calcule les mouvements d'un robot. Le code est ouvert : n'importe qui peut le télécharger et l'essayer. Les créateurs annoncent un taux de réussite d'environ la moitié sur des tests en simulation, ce qui reste modeste. Soyons honnêtes, il se trompe encore souvent, par exemple en confondant deux objets qui se ressemblent. Pour vous, c'est surtout de la culture : voilà à quoi ressemblera l'IA qui ne se contente plus de parler, mais agit.
+
+Quatrième sujet : Anthropic, justement. Son patron, Dario Amodei, a reconnu devant des investisseurs qu'il y avait une énorme incertitude sur l'année prochaine. Son plus gros dilemme, dit-il, c'est la puissance de calcul. Il faut la réserver un à deux ans à l'avance, sans savoir si les revenus suivront. Tout ça quelques jours avant l'entrée en Bourse prévue le dix-neuf novembre, qui pourrait être la plus grosse de l'histoire. Imaginez un restaurateur qui doit commander ses ingrédients pour deux ans sans savoir combien de clients viendront. Pour vous, la leçon est pratique : les prix, les limites d'usage et les offres de ces outils peuvent encore bouger. Évitez de bâtir tout votre travail sur un seul fournisseur.
+
+Voilà pour les nouvelles du jour. Passons au conseil.
+
+Le conseil du jour : testez la demande en un seul message. La prochaine fois que vous avez une tâche, par exemple analyser une série de tickets de support, écrivez en trois phrases : votre objectif, le format de réponse voulu, et la consigne « pose-moi une question si quelque chose n'est pas clair ». Ne mettez aucune formule du genre « réfléchis bien ». Comparez avec votre façon habituelle. Deux minutes, et vous verrez la différence.
+
+Merci de m'avoir écouté, très bon dimanche, et à demain pour un nouveau Brief IA.

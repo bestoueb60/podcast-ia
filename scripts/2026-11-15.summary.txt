@@ -1,0 +1,1 @@
+Anthropic conseille d'abandonner les vieilles formules du type « réfléchis bien » avec Claude Opus 5.5. OpenAI réorganise sa robotique, Runway ouvre gratuitement un modèle pour robots, et Anthropic prépare son entrée en Bourse sous le signe de l'incertitude. Conseil du jour : tester une demande bien posée en un seul message.
