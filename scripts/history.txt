@@ -12,3 +12,4 @@
 2026-11-13 : recherche Google Gemini 4 Hydrogen ; fuite Fireworks et Notion AI ; United Airlines bloque les agents IA ; Meta Muse appels téléphoniques ; Jensen Huang quitte Nvidia ; conseil : faire proposer des cas de test limites
 2026-11-14 : ChatGPT Wallet ; OpenAI Daybreak chasse aux failles ; ElevenLabs notes de réunion ; Claude for Manufacturing ; Anthropic Bourse record ; conseil : transformer une note de bug en ticket clair
 2026-11-15 : Anthropic abandonner les vieilles formules de prompt ; OpenAI réorganise sa robotique ; Runway Praxis-1 modèle ouvert pour robots ; Amodei incertitude avant la Bourse ; conseil : demande en un seul message
+2026-11-16 : panne Microsoft de dix-huit heures ; Apple appli d'étude IA et santé ; Claude Fable 5.2 peint avec des coups de pinceau ; banque centrale d'Australie IA et jeunes débutants ; sécurité et facteur humain chez Nvidia ; conseil : faire rédiger un message d'incident
