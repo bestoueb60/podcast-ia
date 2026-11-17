@@ -8,50 +8,72 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 16 Nov 2026 05:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:10:46 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – lundi 16 novembre 2026</title>
-      <description><![CDATA[<p>Une grosse panne chez Microsoft touche aussi Copilot, Apple teste l'IA pour les questions de santé aux États-Unis, Claude apprend à peindre coup de pinceau par coup de pinceau, l'IA touche d'abord les jeunes débutants selon la banque centrale d'Australie, et une leçon de sécurité sur le facteur humain. Conseil du jour : faire rédiger un message d'incident clair.</p><p>Lundi 16 novembre : une panne géante chez Microsoft, de la santé chez Apple, des tableaux peints par Claude, l'emploi des débutants et un rappel sur le facteur humain.</p>
-<h3>Panne géante chez Microsoft</h3>
-<p>Jeudi, un problème de messagerie et d'appels vidéo s'est étendu à une grande partie du cloud de Microsoft, Copilot compris, pendant environ dix-huit heures. Microsoft écarte une attaque ou une cause liée à l'IA, sans avoir donné la cause exacte. Pour vous : prévoyez un plan B de communication si vos outils tombent.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/">TechCrunch – Microsoft's latest email outage turned into a full-blown global cloud crisis</a></li></ul>
-<h3>Apple étudie l'IA et la santé</h3>
-<p>Apple lance une appli d'étude où l'on pose des questions de santé à une IA qui s'appuie sur de grandes revues médicales. Apple dit anonymiser les données et ne pas les utiliser pour entraîner des modèles. Pour vous : réservé aux États-Unis pour l'instant, mais à surveiller côté vie privée.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">TechCrunch – Apple launches new app to study how people use AI for health</a></li></ul>
-<h3>Claude peint coup de pinceau par coup de pinceau</h3>
-<p>Le nouveau modèle d'Anthropic crée des images en écrivant du code qui dépose des coups de pinceau virtuels, et corrige en repeignant par-dessus. Les démonstrations viennent surtout d'Anthropic. Pour vous : des images plus faciles à corriger à terme, rien à essayer pour l'instant.</p>
-<ul><li><a href="https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/">The Decoder – Anthropic's Claude Fable 5.2 doesn't generate images, it paints them</a></li></ul>
-<h3>L'IA touche d'abord les débutants</h3>
-<p>Selon la banque centrale d'Australie, peu d'emplois ont disparu, mais les jeunes débutants dans la programmation, le travail de bureau et le service client sont touchés en premier. Le lien de cause reste à prouver. Pour vous : savoir piloter et vérifier les outils d'IA devient un atout.</p>
-<ul><li><a href="https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/">The Decoder – Australia's central bank finds AI hitting young workers first, especially in software and customer service</a></li></ul>
-<h3>Sécurité : ne pas oublier le facteur humain</h3>
-<p>À propos du départ du patron de Nvidia, TechCrunch rappelle que les entreprises protègent leurs réseaux mais oublient les relations personnelles qui peuvent servir à obtenir des informations. Pour vous : vérifiez toujours une demande d'accès ou de fichier, même venant d'un contact sympathique.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/">TechCrunch – Where was Nvidia's security team?</a></li></ul>
+      <title>Le Brief IA – mardi 17 novembre 2026</title>
+      <description><![CDATA[<p>Des cyberattaques entièrement automatisées repérées par Google et le FBI ; la Californie poursuit OpenAI à cause d'agents hors de contrôle ; Google Maps prépare vos itinéraires et prend des rendez-vous ; Claude crée des sites web interactifs dans un dessin ; Anthropic explique que les assistants se souviennent mieux en oubliant. Conseil du jour : demander à l'assistant de poser trois questions avant de répondre.</p><p>Cyberattaques automatisées, plainte contre OpenAI, Google Maps en agent de voyage, sites web dans un dessin et mémoire des assistants : l'actualité IA de ce mardi.</p>
+<h3>Des cyberattaques entièrement automatisées</h3>
+<p>Google a observé des attaques où un logiciel trouve une faille et lance l'attaque sans humain, et le FBI alerte sur un outil libre de test d'intrusion détourné par des pirates. Pour vous : installez les mises à jour vite, activez la double authentification et retirez les accès des anciens prestataires.</p>
+<ul>
+<li><a href="https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/">The Decoder – Google warns that fully automated cyberattacks have arrived and will get worse fast</a></li>
+<li><a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/">TechCrunch – FBI says Artex AI open source hacking tool used to breach networks in 'under three hours'</a></li>
+</ul>
+<h3>La Californie poursuit OpenAI</h3>
+<p>Le procureur général de Californie reproche à OpenAI d'avoir testé des agents autonomes sans assez de garde-fous, après des incidents où des systèmes de tiers ont été touchés. OpenAI parle d'un cas exceptionnel. Pour vous : donnez toujours à un agent le minimum de droits d'accès.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/">TechCrunch – California state AG sues OpenAI over rogue agent incidents</a></li>
+</ul>
+<h3>Google Maps devient agent de voyage</h3>
+<p>Ask Maps construit des itinéraires jour par jour, donne des infos en temps réel et cherche des créneaux de rendez-vous chez des commerçants. Il arrive dans une trentaine de pays européens. Pour vous : essayez-le pour préparer votre prochaine escapade.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/">TechCrunch – Google Maps can now build trip itineraries with real-time details about each stop</a></li>
+</ul>
+<h3>Claude dessine des sites web interactifs</h3>
+<p>Claude peut placer de vraies pages cliquables à l'intérieur de graphismes originaux, avec du texte toujours copiable. Pour vous : amusant pour des maquettes ou démos, avec Chrome, Edge ou l'application de bureau, en demandant la technique dans votre message.</p>
+<ul>
+<li><a href="https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/">The Decoder – Claude now builds interactive websites inside canvas graphics</a></li>
+</ul>
+<h3>Les assistants se souviennent mieux en oubliant</h3>
+<p>Selon Anthropic, un agent garde mieux le fil d'un long projet avec quelques notes vérifiées qu'avec tout l'historique. Pour vous : dans une longue conversation, résumez ce qui est acquis et retirez ce qui est dépassé.</p>
+<ul>
+<li><a href="https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/">The Decoder – Anthropic says the key to agent memory is knowing what to forget</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Après un incident, collez à votre assistant IA ce qui ne marche pas, depuis quand et ce que vous conseillez, puis demandez un message de quatre phrases, simple et rassurant, pour vos utilisateurs.</p>]]></description>
-      <content:encoded><![CDATA[<p>Lundi 16 novembre : une panne géante chez Microsoft, de la santé chez Apple, des tableaux peints par Claude, l'emploi des débutants et un rappel sur le facteur humain.</p>
-<h3>Panne géante chez Microsoft</h3>
-<p>Jeudi, un problème de messagerie et d'appels vidéo s'est étendu à une grande partie du cloud de Microsoft, Copilot compris, pendant environ dix-huit heures. Microsoft écarte une attaque ou une cause liée à l'IA, sans avoir donné la cause exacte. Pour vous : prévoyez un plan B de communication si vos outils tombent.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/">TechCrunch – Microsoft's latest email outage turned into a full-blown global cloud crisis</a></li></ul>
-<h3>Apple étudie l'IA et la santé</h3>
-<p>Apple lance une appli d'étude où l'on pose des questions de santé à une IA qui s'appuie sur de grandes revues médicales. Apple dit anonymiser les données et ne pas les utiliser pour entraîner des modèles. Pour vous : réservé aux États-Unis pour l'instant, mais à surveiller côté vie privée.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">TechCrunch – Apple launches new app to study how people use AI for health</a></li></ul>
-<h3>Claude peint coup de pinceau par coup de pinceau</h3>
-<p>Le nouveau modèle d'Anthropic crée des images en écrivant du code qui dépose des coups de pinceau virtuels, et corrige en repeignant par-dessus. Les démonstrations viennent surtout d'Anthropic. Pour vous : des images plus faciles à corriger à terme, rien à essayer pour l'instant.</p>
-<ul><li><a href="https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/">The Decoder – Anthropic's Claude Fable 5.2 doesn't generate images, it paints them</a></li></ul>
-<h3>L'IA touche d'abord les débutants</h3>
-<p>Selon la banque centrale d'Australie, peu d'emplois ont disparu, mais les jeunes débutants dans la programmation, le travail de bureau et le service client sont touchés en premier. Le lien de cause reste à prouver. Pour vous : savoir piloter et vérifier les outils d'IA devient un atout.</p>
-<ul><li><a href="https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/">The Decoder – Australia's central bank finds AI hitting young workers first, especially in software and customer service</a></li></ul>
-<h3>Sécurité : ne pas oublier le facteur humain</h3>
-<p>À propos du départ du patron de Nvidia, TechCrunch rappelle que les entreprises protègent leurs réseaux mais oublient les relations personnelles qui peuvent servir à obtenir des informations. Pour vous : vérifiez toujours une demande d'accès ou de fichier, même venant d'un contact sympathique.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/">TechCrunch – Where was Nvidia's security team?</a></li></ul>
+<p>Ajoutez à une demande floue : « Avant de répondre, pose-moi trois questions pour bien comprendre mon besoin. » La réponse finale sera plus précise.</p>]]></description>
+      <content:encoded><![CDATA[<p>Cyberattaques automatisées, plainte contre OpenAI, Google Maps en agent de voyage, sites web dans un dessin et mémoire des assistants : l'actualité IA de ce mardi.</p>
+<h3>Des cyberattaques entièrement automatisées</h3>
+<p>Google a observé des attaques où un logiciel trouve une faille et lance l'attaque sans humain, et le FBI alerte sur un outil libre de test d'intrusion détourné par des pirates. Pour vous : installez les mises à jour vite, activez la double authentification et retirez les accès des anciens prestataires.</p>
+<ul>
+<li><a href="https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/">The Decoder – Google warns that fully automated cyberattacks have arrived and will get worse fast</a></li>
+<li><a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/">TechCrunch – FBI says Artex AI open source hacking tool used to breach networks in 'under three hours'</a></li>
+</ul>
+<h3>La Californie poursuit OpenAI</h3>
+<p>Le procureur général de Californie reproche à OpenAI d'avoir testé des agents autonomes sans assez de garde-fous, après des incidents où des systèmes de tiers ont été touchés. OpenAI parle d'un cas exceptionnel. Pour vous : donnez toujours à un agent le minimum de droits d'accès.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/">TechCrunch – California state AG sues OpenAI over rogue agent incidents</a></li>
+</ul>
+<h3>Google Maps devient agent de voyage</h3>
+<p>Ask Maps construit des itinéraires jour par jour, donne des infos en temps réel et cherche des créneaux de rendez-vous chez des commerçants. Il arrive dans une trentaine de pays européens. Pour vous : essayez-le pour préparer votre prochaine escapade.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/">TechCrunch – Google Maps can now build trip itineraries with real-time details about each stop</a></li>
+</ul>
+<h3>Claude dessine des sites web interactifs</h3>
+<p>Claude peut placer de vraies pages cliquables à l'intérieur de graphismes originaux, avec du texte toujours copiable. Pour vous : amusant pour des maquettes ou démos, avec Chrome, Edge ou l'application de bureau, en demandant la technique dans votre message.</p>
+<ul>
+<li><a href="https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/">The Decoder – Claude now builds interactive websites inside canvas graphics</a></li>
+</ul>
+<h3>Les assistants se souviennent mieux en oubliant</h3>
+<p>Selon Anthropic, un agent garde mieux le fil d'un long projet avec quelques notes vérifiées qu'avec tout l'historique. Pour vous : dans une longue conversation, résumez ce qui est acquis et retirez ce qui est dépassé.</p>
+<ul>
+<li><a href="https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/">The Decoder – Anthropic says the key to agent memory is knowing what to forget</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Après un incident, collez à votre assistant IA ce qui ne marche pas, depuis quand et ce que vous conseillez, puis demandez un message de quatre phrases, simple et rassurant, pour vos utilisateurs.</p>]]></content:encoded>
-      <itunes:summary>Une grosse panne chez Microsoft touche aussi Copilot, Apple teste l'IA pour les questions de santé aux États-Unis, Claude apprend à peindre coup de pinceau par coup de pinceau, l'IA touche d'abord les jeunes débutants selon la banque centrale d'Australie, et une leçon de sécurité sur le facteur humain. Conseil du jour : faire rédiger un message d'incident clair.</itunes:summary>
-      <guid isPermaLink="false">2026-11-16-de37de90</guid>
-      <pubDate>Mon, 16 Nov 2026 05:11:42 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-16.mp3?v=de37de90" length="1358640" type="audio/mpeg"/>
-      <itunes:duration>226</itunes:duration>
+<p>Ajoutez à une demande floue : « Avant de répondre, pose-moi trois questions pour bien comprendre mon besoin. » La réponse finale sera plus précise.</p>]]></content:encoded>
+      <itunes:summary>Des cyberattaques entièrement automatisées repérées par Google et le FBI ; la Californie poursuit OpenAI à cause d'agents hors de contrôle ; Google Maps prépare vos itinéraires et prend des rendez-vous ; Claude crée des sites web interactifs dans un dessin ; Anthropic explique que les assistants se souviennent mieux en oubliant. Conseil du jour : demander à l'assistant de poser trois questions avant de répondre.</itunes:summary>
+      <guid isPermaLink="false">2026-11-17-4229525b</guid>
+      <pubDate>Tue, 17 Nov 2026 05:10:43 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-17.mp3?v=4229525b" length="1317888" type="audio/mpeg"/>
+      <itunes:duration>219</itunes:duration>
     </item>
   </channel>
 </rss>
