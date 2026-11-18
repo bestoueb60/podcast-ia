@@ -13,3 +13,4 @@
 2026-11-15 : Anthropic abandonner les vieilles formules de prompt ; OpenAI réorganise sa robotique ; Runway Praxis-1 modèle ouvert pour robots ; Amodei incertitude avant la Bourse ; conseil : demande en un seul message
 2026-11-16 : panne Microsoft de dix-huit heures ; Apple appli d'étude IA et santé ; Claude Fable 5.2 peint avec des coups de pinceau ; banque centrale d'Australie IA et jeunes débutants ; sécurité et facteur humain chez Nvidia ; conseil : faire rédiger un message d'incident
 2026-11-17 : cyberattaques automatisées Google et FBI Artex ; Californie poursuit OpenAI ; Google Maps Ask Maps itinéraires ; Claude sites web dans un dessin ; mémoire d'agent et oubli ; conseil : faire poser trois questions avant de répondre
+2026-11-18 : Google garde les chats Gemini deux mois ; Gemini Tasks gratuit ; OpenAI GPT-6.2 Astra et Sol ; Proton Lumo sur ordinateur ; Daybreak ouvert à l'OTAN et l'Europe ; conseil : faire lister les infos manquantes d'un ticket
