@@ -8,72 +8,50 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 18 Nov 2026 05:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:10:20 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – mercredi 18 novembre 2026</title>
-      <description><![CDATA[<p>Google garde vos conversations Gemini deux mois, Gemini Tasks passe aux utilisateurs gratuits, OpenAI lance GPT-6.2 Astra et Sol, Proton lance Lumo sur ordinateur, et Daybreak s'ouvre aux gouvernements européens. Conseil : faire lister les informations manquantes d'un ticket.</p><p>Au programme : vie privée chez Google, un assistant qui agit à votre place, deux nouveaux modèles OpenAI, une alternative européenne et la cybersécurité.</p>
-<h3>Google garde vos chats Gemini deux mois</h3>
-<p>Les conversations temporaires, même avec l'historique désactivé, seront conservées environ deux mois au lieu de 72 heures. Google sépare aussi l'historique et l'entraînement de l'IA en deux réglages. Pour vous : vérifiez ces réglages et ne collez pas de données clients ou de mots de passe.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/">TechCrunch – Google to keep Gemini chats for two months, up from 72 hours, even with history off</a></li>
-</ul>
-<h3>Gemini Tasks s'ouvre aux utilisateurs gratuits</h3>
-<p>Cette fonction permet à Gemini d'appeler un commerce, de payer un achat ou de se connecter à un site. Elle était réservée aux testeurs et aux abonnés américains. Pour vous : cherchez l'interrupteur Tâches dans l'application et essayez sur un cas simple.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/">TechCrunch – Google expands access to Gemini Tasks, which can help with calls, purchases</a></li>
-</ul>
-<h3>OpenAI lance GPT-6.2 Astra et Sol</h3>
-<p>Astra vise les travaux exigeants, Sol les tâches rapides du quotidien. Ils sont disponibles pour les abonnés payants de ChatGPT, avec des prix en baisse pour les développeurs. Pour vous : testez Sol au quotidien et Astra pour les dossiers complexes.</p>
-<ul>
-<li><a href="https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/">The Decoder – OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains</a></li>
-</ul>
-<h3>Proton Lumo arrive sur ordinateur</h3>
-<p>L'assistant respectueux de la vie privée de Proton fonctionne sur Windows, Mac et Linux, avec historique chiffré et hébergement européen. Vous choisissez quelles actions sont automatiques ou soumises à accord. Pour vous : une piste pour les informations sensibles, à valider avec votre équipe sécurité.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/">TechCrunch – Proton's Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop</a></li>
-</ul>
-<h3>Daybreak s'ouvre à l'OTAN et à l'Europe</h3>
-<p>L'outil d'OpenAI qui cherche des failles dans les logiciels est proposé à l'OTAN et à des gouvernements européens, alors que Google alerte sur les attaques automatisées. Pour vous : appliquez vos mises à jour de sécurité sans attendre.</p>
-<ul>
-<li><a href="https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/">The Decoder – OpenAI opens its cybersecurity tool Daybreak to NATO and European governments</a></li>
-<li><a href="https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/">The Decoder – Google warns that fully automated cyberattacks have arrived and will get worse fast</a></li>
-</ul>
+      <title>Le Brief IA – jeudi 19 novembre 2026</title>
+      <description><![CDATA[<p>Google ajoute des fils temporaires à son mode de recherche IA ; des banques américaines rendent les clients responsables des actes de leurs assistants IA ; Microsoft déploie ses propres modèles dans Copilot et Office ; Mistral lance Vibe Desktop ; OpenAI ouvre ses systèmes à quatre auditeurs indépendants. Conseil : faire réécrire un cas de test pour qu'un nouveau collègue le comprenne.</p><p>Au programme : un mode privé pour la recherche IA de Google, des banques qui ne couvrent pas les erreurs des assistants IA, les modèles maison de Microsoft, Vibe Desktop chez Mistral et des auditeurs indépendants chez OpenAI.</p>
+<h3>Google : des fils temporaires pour la recherche IA</h3>
+<p>Le mode conversationnel de Google reçoit un équivalent de la navigation privée : l'échange n'entre ni dans l'historique ni dans la personnalisation. Pour vous : utile pour une question personnelle ou pour tester une recherche sans polluer votre profil.</p>
+<ul><li><a href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/">TechCrunch – Google's AI feature in Search gets its own incognito mode</a></li></ul>
+<h3>Banques : l'agent IA, c'est votre responsabilité</h3>
+<p>Plusieurs grandes banques américaines précisent que le client répond de tout ce que fait un assistant IA externe connecté à son compte, même piraté. Pour vous : ne donnez jamais vos identifiants bancaires à un agent IA.</p>
+<ul><li><a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/">TechCrunch – More banks say customers using AI agents are on their own, even if they get hacked</a></li></ul>
+<h3>Microsoft remplace des modèles externes par les siens</h3>
+<p>Microsoft présente ses modèles maison pour Copilot, Office et GitHub, moins chers à faire tourner. Pour vous : votre Copilot peut changer de moteur sans prévenir, la qualité peut varier.</p>
+<ul><li><a href="https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/">The Decoder – Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives</a></li></ul>
+<h3>Mistral lance Vibe Desktop</h3>
+<p>L'assistant de la société française arrive en application Mac et Windows, avec plusieurs tâches en parallèle et accès aux fichiers locaux, mais sans contrôle de l'ordinateur. Pour vous : une alternative européenne à essayer.</p>
+<ul><li><a href="https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/">The Decoder – Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems</a></li></ul>
+<h3>OpenAI ouvre ses systèmes à des auditeurs indépendants</h3>
+<p>Quatre organisations peuvent examiner sur place les modèles et la sécurité, avec des limites sur ce qui est publié. Pour vous : rien de immédiat, mais ce type de garantie pèsera dans les choix des entreprises.</p>
+<ul><li><a href="https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/">The Decoder – OpenAI opens its AI systems to four independent on-site auditors for the first time</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Collez un ticket confus dans votre assistant, sans données personnelles, et demandez : quelles sont les trois informations qui manquent pour reproduire ce problème ?</p>]]></description>
-      <content:encoded><![CDATA[<p>Au programme : vie privée chez Google, un assistant qui agit à votre place, deux nouveaux modèles OpenAI, une alternative européenne et la cybersécurité.</p>
-<h3>Google garde vos chats Gemini deux mois</h3>
-<p>Les conversations temporaires, même avec l'historique désactivé, seront conservées environ deux mois au lieu de 72 heures. Google sépare aussi l'historique et l'entraînement de l'IA en deux réglages. Pour vous : vérifiez ces réglages et ne collez pas de données clients ou de mots de passe.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/">TechCrunch – Google to keep Gemini chats for two months, up from 72 hours, even with history off</a></li>
-</ul>
-<h3>Gemini Tasks s'ouvre aux utilisateurs gratuits</h3>
-<p>Cette fonction permet à Gemini d'appeler un commerce, de payer un achat ou de se connecter à un site. Elle était réservée aux testeurs et aux abonnés américains. Pour vous : cherchez l'interrupteur Tâches dans l'application et essayez sur un cas simple.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/">TechCrunch – Google expands access to Gemini Tasks, which can help with calls, purchases</a></li>
-</ul>
-<h3>OpenAI lance GPT-6.2 Astra et Sol</h3>
-<p>Astra vise les travaux exigeants, Sol les tâches rapides du quotidien. Ils sont disponibles pour les abonnés payants de ChatGPT, avec des prix en baisse pour les développeurs. Pour vous : testez Sol au quotidien et Astra pour les dossiers complexes.</p>
-<ul>
-<li><a href="https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/">The Decoder – OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains</a></li>
-</ul>
-<h3>Proton Lumo arrive sur ordinateur</h3>
-<p>L'assistant respectueux de la vie privée de Proton fonctionne sur Windows, Mac et Linux, avec historique chiffré et hébergement européen. Vous choisissez quelles actions sont automatiques ou soumises à accord. Pour vous : une piste pour les informations sensibles, à valider avec votre équipe sécurité.</p>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/">TechCrunch – Proton's Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop</a></li>
-</ul>
-<h3>Daybreak s'ouvre à l'OTAN et à l'Europe</h3>
-<p>L'outil d'OpenAI qui cherche des failles dans les logiciels est proposé à l'OTAN et à des gouvernements européens, alors que Google alerte sur les attaques automatisées. Pour vous : appliquez vos mises à jour de sécurité sans attendre.</p>
-<ul>
-<li><a href="https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/">The Decoder – OpenAI opens its cybersecurity tool Daybreak to NATO and European governments</a></li>
-<li><a href="https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/">The Decoder – Google warns that fully automated cyberattacks have arrived and will get worse fast</a></li>
-</ul>
+<p>Collez un cas de test (sans données sensibles) et demandez : « Réécris-le pour qu'un nouveau collègue le comprenne, en étapes numérotées, et liste ce qui reste ambigu. »</p>]]></description>
+      <content:encoded><![CDATA[<p>Au programme : un mode privé pour la recherche IA de Google, des banques qui ne couvrent pas les erreurs des assistants IA, les modèles maison de Microsoft, Vibe Desktop chez Mistral et des auditeurs indépendants chez OpenAI.</p>
+<h3>Google : des fils temporaires pour la recherche IA</h3>
+<p>Le mode conversationnel de Google reçoit un équivalent de la navigation privée : l'échange n'entre ni dans l'historique ni dans la personnalisation. Pour vous : utile pour une question personnelle ou pour tester une recherche sans polluer votre profil.</p>
+<ul><li><a href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/">TechCrunch – Google's AI feature in Search gets its own incognito mode</a></li></ul>
+<h3>Banques : l'agent IA, c'est votre responsabilité</h3>
+<p>Plusieurs grandes banques américaines précisent que le client répond de tout ce que fait un assistant IA externe connecté à son compte, même piraté. Pour vous : ne donnez jamais vos identifiants bancaires à un agent IA.</p>
+<ul><li><a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/">TechCrunch – More banks say customers using AI agents are on their own, even if they get hacked</a></li></ul>
+<h3>Microsoft remplace des modèles externes par les siens</h3>
+<p>Microsoft présente ses modèles maison pour Copilot, Office et GitHub, moins chers à faire tourner. Pour vous : votre Copilot peut changer de moteur sans prévenir, la qualité peut varier.</p>
+<ul><li><a href="https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/">The Decoder – Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives</a></li></ul>
+<h3>Mistral lance Vibe Desktop</h3>
+<p>L'assistant de la société française arrive en application Mac et Windows, avec plusieurs tâches en parallèle et accès aux fichiers locaux, mais sans contrôle de l'ordinateur. Pour vous : une alternative européenne à essayer.</p>
+<ul><li><a href="https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/">The Decoder – Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems</a></li></ul>
+<h3>OpenAI ouvre ses systèmes à des auditeurs indépendants</h3>
+<p>Quatre organisations peuvent examiner sur place les modèles et la sécurité, avec des limites sur ce qui est publié. Pour vous : rien de immédiat, mais ce type de garantie pèsera dans les choix des entreprises.</p>
+<ul><li><a href="https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/">The Decoder – OpenAI opens its AI systems to four independent on-site auditors for the first time</a></li></ul>
 <h3>Conseil du jour</h3>
-<p>Collez un ticket confus dans votre assistant, sans données personnelles, et demandez : quelles sont les trois informations qui manquent pour reproduire ce problème ?</p>]]></content:encoded>
-      <itunes:summary>Google garde vos conversations Gemini deux mois, Gemini Tasks passe aux utilisateurs gratuits, OpenAI lance GPT-6.2 Astra et Sol, Proton lance Lumo sur ordinateur, et Daybreak s'ouvre aux gouvernements européens. Conseil : faire lister les informations manquantes d'un ticket.</itunes:summary>
-      <guid isPermaLink="false">2026-11-18-4a6b2fdb</guid>
-      <pubDate>Wed, 18 Nov 2026 05:11:05 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-18.mp3?v=4a6b2fdb" length="1267344" type="audio/mpeg"/>
-      <itunes:duration>211</itunes:duration>
+<p>Collez un cas de test (sans données sensibles) et demandez : « Réécris-le pour qu'un nouveau collègue le comprenne, en étapes numérotées, et liste ce qui reste ambigu. »</p>]]></content:encoded>
+      <itunes:summary>Google ajoute des fils temporaires à son mode de recherche IA ; des banques américaines rendent les clients responsables des actes de leurs assistants IA ; Microsoft déploie ses propres modèles dans Copilot et Office ; Mistral lance Vibe Desktop ; OpenAI ouvre ses systèmes à quatre auditeurs indépendants. Conseil : faire réécrire un cas de test pour qu'un nouveau collègue le comprenne.</itunes:summary>
+      <guid isPermaLink="false">2026-11-19-9e1ca247</guid>
+      <pubDate>Thu, 19 Nov 2026 05:10:17 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-19.mp3?v=9e1ca247" length="1314000" type="audio/mpeg"/>
+      <itunes:duration>219</itunes:duration>
     </item>
   </channel>
 </rss>

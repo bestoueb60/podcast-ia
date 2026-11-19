@@ -14,3 +14,4 @@
 2026-11-16 : panne Microsoft de dix-huit heures ; Apple appli d'étude IA et santé ; Claude Fable 5.2 peint avec des coups de pinceau ; banque centrale d'Australie IA et jeunes débutants ; sécurité et facteur humain chez Nvidia ; conseil : faire rédiger un message d'incident
 2026-11-17 : cyberattaques automatisées Google et FBI Artex ; Californie poursuit OpenAI ; Google Maps Ask Maps itinéraires ; Claude sites web dans un dessin ; mémoire d'agent et oubli ; conseil : faire poser trois questions avant de répondre
 2026-11-18 : Google garde les chats Gemini deux mois ; Gemini Tasks gratuit ; OpenAI GPT-6.2 Astra et Sol ; Proton Lumo sur ordinateur ; Daybreak ouvert à l'OTAN et l'Europe ; conseil : faire lister les infos manquantes d'un ticket
+2026-11-19 : Google fils temporaires en recherche IA ; banques et agents IA ; Microsoft modèles maison ; Mistral Vibe Desktop ; OpenAI auditeurs indépendants ; conseil : faire réécrire un cas de test pour un nouveau collègue
