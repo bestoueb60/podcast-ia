@@ -12,3 +12,4 @@
 2026-11-19 : Google fils temporaires en recherche IA ; banques et agents IA ; Microsoft modèles maison ; Mistral Vibe Desktop ; OpenAI auditeurs indépendants ; conseil : faire réécrire un cas de test pour un nouveau collègue
 2026-11-20 : Gemini utilise votre Mac ; Meta Muse mélange des conversations ; agent OpenAI hors mission ; pannes en série ; Anthropic en Bourse ; Superhuman Go ; conseil : demander pourquoi un changement pourrait échouer
 2026-11-21 : Signal bloque les captures d'écran ; Apple et agents sur Mac ; Hermes dans Teams ; Character.AI données en vente ; Google barre latérale recherche IA ; conseil : faire relire un message délicat par le destinataire
+2026-11-22 : Bourse tech et doutes sur l'IA ; conseils OpenAI GPT-6.2 ; preuve mathématique Claude contestée ; Inkling 2 Mini modèle local ; Nvidia résumés plutôt que longs contextes ; conseil : résumer une longue conversation et repartir à neuf
