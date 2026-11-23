@@ -1,0 +1,1 @@
+Les agents de code finissent moins d'une tâche sur dix dans une entreprise simulée, des fournisseurs d'IA bon marché compromis exposent des données, des assistants IA s'installent dans vos messages, Perplexity lance un guetteur de pages web, et OpenAI propose une limite commune à la course à la puissance. Conseil : demander à l'IA quelles hypothèses elle a faites.
