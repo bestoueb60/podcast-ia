@@ -8,7 +8,7 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 24 Nov 2026 06:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:07:03 +0000</lastBuildDate>
     <item>
       <title>Le Brief IA – mardi 24 novembre 2026</title>
       <description><![CDATA[<p>Une nouvelle version de ChatGPT pour les abonnés, Claude Ship pour relire et valider le code, le mode IA de Google qui puise dans Drive et Wallet, une alerte sur la confidentialité de services d'IA, une avocate sanctionnée pour des références inventées, et le retour de Jensen Huang chez Nvidia. Conseil : faire vérifier les références citées par l'IA.</p><p>Au programme : ChatGPT mis à jour, un outil pour relire le code, Google qui puise dans vos documents, une alerte confidentialité, une sanction pour des références inventées par l'IA et le retour du patron de Nvidia.</p>
@@ -80,10 +80,10 @@
 <h3>Conseil du jour</h3>
 <p>Quand l'IA cite des sources ou des références, demandez-lui : « pour chaque référence, es-tu certaine qu'elle existe et comment la vérifier ? », puis contrôlez vous-même les deux ou trois éléments importants.</p>]]></content:encoded>
       <itunes:summary>Une nouvelle version de ChatGPT pour les abonnés, Claude Ship pour relire et valider le code, le mode IA de Google qui puise dans Drive et Wallet, une alerte sur la confidentialité de services d'IA, une avocate sanctionnée pour des références inventées, et le retour de Jensen Huang chez Nvidia. Conseil : faire vérifier les références citées par l'IA.</itunes:summary>
-      <guid isPermaLink="false">2026-11-24-8ff73fcb</guid>
-      <pubDate>Tue, 24 Nov 2026 06:06:24 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-24.mp3?v=8ff73fcb" length="957600" type="audio/mpeg"/>
-      <itunes:duration>159</itunes:duration>
+      <guid isPermaLink="false">2026-11-24-2754aeab</guid>
+      <pubDate>Tue, 24 Nov 2026 06:06:55 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-24.mp3?v=2754aeab" length="1380960" type="audio/mpeg"/>
+      <itunes:duration>230</itunes:duration>
     </item>
   </channel>
 </rss>
