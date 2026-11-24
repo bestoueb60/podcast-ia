@@ -8,50 +8,82 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 23 Nov 2026 05:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:06:24 +0000</lastBuildDate>
     <item>
-      <title>Le Brief IA – lundi 23 novembre 2026</title>
-      <description><![CDATA[<p>Les agents de code finissent moins d'une tâche sur dix dans une entreprise simulée, des fournisseurs d'IA bon marché compromis exposent des données, des assistants IA s'installent dans vos messages, Perplexity lance un guetteur de pages web, et OpenAI propose une limite commune à la course à la puissance. Conseil : demander à l'IA quelles hypothèses elle a faites.</p><p>Ce lundi : des agents de code mis à l'épreuve, des fournisseurs d'IA à bas prix piratés, des assistants dans vos messages, un guetteur de pages web et un débat sur la vitesse de la course à l'IA.</p>
-<h3>Agents de code : moins d'une tâche sur dix terminée</h3>
-<p>Dans une entreprise de logiciels simulée, avec collègues, tableau de tâches et historique de discussions, même les meilleurs modèles ont mené à bien moins d'une tâche sur dix. Pour vous : l'IA aide très bien ponctuellement, mais garde un humain pour la vue d'ensemble et la relecture.</p>
-<ul><li><a href="https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/">The Decoder – AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace</a></li></ul>
-<h3>Fournisseurs d'IA bon marché : données exposées</h3>
-<p>Des chercheurs ont trouvé au moins trois intermédiaires compromis, où des pirates récupéraient des clés d'accès et des requêtes. Pour vous : méfiez-vous des outils d'IA obscurs et ne collez jamais de mot de passe ou de clé dans une conversation.</p>
-<ul><li><a href="https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/">The Decoder – Security researchers show how cheap AI inference providers steal keys and snoop on users</a></li></ul>
-<h3>Des assistants IA dans vos messages</h3>
-<p>Une vingtaine d'assistants fonctionnent par iMessage, WhatsApp, SMS ou Telegram et se branchent à vos courriels et agendas ; certains agissent seuls. Pour vous : vérifiez s'ils demandent votre accord avant d'agir et séparez comptes perso et pro.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/">TechCrunch – Here are the top AI agents that can live in your text messages</a></li></ul>
-<h3>Perplexity Monitor, l'alerte intelligente</h3>
-<p>Ce service surveille des recherches ou des pages web et ne prévient que si un changement est vraiment pertinent. Pour vous : réservé aux développeurs pour l'instant, mais l'idée servira à suivre les mises à jour d'un outil ou d'une page d'aide.</p>
-<ul><li><a href="https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/">The Decoder – Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog</a></li></ul>
-<h3>OpenAI : une limite commune pour la course à l'IA</h3>
-<p>Le directeur scientifique d'OpenAI propose que les entreprises s'accordent sur un seuil de puissance à ne pas dépasser tant que le contrôle des systèmes n'a pas progressé. Pour vous : rien ne change aujourd'hui, mais ce débat nourrira les futures règles.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/">TechCrunch – OpenAI's chief scientist has thoughts on how to limit AI development</a></li></ul>
+      <title>Le Brief IA – mardi 24 novembre 2026</title>
+      <description><![CDATA[<p>Une nouvelle version de ChatGPT pour les abonnés, Claude Ship pour relire et valider le code, le mode IA de Google qui puise dans Drive et Wallet, une alerte sur la confidentialité de services d'IA, une avocate sanctionnée pour des références inventées, et le retour de Jensen Huang chez Nvidia. Conseil : faire vérifier les références citées par l'IA.</p><p>Au programme : ChatGPT mis à jour, un outil pour relire le code, Google qui puise dans vos documents, une alerte confidentialité, une sanction pour des références inventées par l'IA et le retour du patron de Nvidia.</p>
+<h3>ChatGPT passe à GPT-6.2 Sol</h3>
+<p>OpenAI déploie dans le monde entier une nouvelle version du mode conversation de ChatGPT, meilleure sur les questions complexes, la recherche web et les images. Elle est réservée aux offres Plus, Pro, Business et Enterprise. Pour vous : essayez-la sur vos captures d'écran de bugs, mais gardez en tête que les chiffres viennent d'OpenAI seul.</p>
+<ul>
+<li><a href="https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/">The Decoder – OpenAI updates ChatGPT to handle complex everyday questions, web searches and images more reliably</a></li>
+</ul>
+<h3>Anthropic lance Claude Ship</h3>
+<p>Des assistants relisent les modifications de code, corrigent les tests en échec et peuvent approuver selon des règles écrites en langage courant, pour les équipes Team et Enterprise sur GitHub. Pour vous : cela peut changer la validation des livraisons ; commencez en mode observation sur un seul projet.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/">TechCrunch – Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</a></li>
+</ul>
+<h3>Le mode IA de Google s'ouvre à Drive et Wallet</h3>
+<p>Le mode IA de la recherche Google peut s'appuyer sur vos documents Drive et vos données Wallet, de façon facultative, et en lecture seule pour Wallet. Pour vous : vérifiez quelles applications sont connectées et déconnectez les inutiles.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/">TechCrunch – Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses</a></li>
+</ul>
+<h3>Fuites chez des hébergeurs d'IA « zéro conservation »</h3>
+<p>Une expérience de Dragos a montré que des messages envoyés à des services annonçant ne rien conserver avaient fuité. OpenRouter a exclu trois fournisseurs et retiré 125 points d'accès de son option. Pour vous : ne collez jamais mots de passe, clés ou données clients dans une IA, et renouvelez les clés concernées.</p>
+<ul>
+<li><a href="https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/">ActuIA – OpenRouter durcit son option Zero Data Retention après l'enquête de Dragos</a></li>
+</ul>
+<h3>Une avocate écartée pour des références inventées</h3>
+<p>La Cour européenne des droits de l'homme a interdit pendant deux ans à une avocate roumaine de la représenter : ses textes, rédigés avec l'IA, citaient des affaires inexistantes. Pour vous : relisez et vérifiez tout ce que vous envoyez, c'est vous qui en répondez.</p>
+<ul>
+<li><a href="https://www.actuia.com/actualite/la-cedh-ecarte-pour-deux-ans-une-avocate-qui-citait-une-jurisprudence-inventee-par-lia/">ActuIA – La CEDH écarte pour deux ans une avocate qui citait une jurisprudence inventée par l'IA</a></li>
+</ul>
+<h3>Jensen Huang revient à la tête de Nvidia</h3>
+<p>Onze jours après son départ, le conseil l'a rappelé à l'unanimité ; l'action a bondi d'environ un tiers et des enquêtes continuent. Pour vous : pas d'effet direct, mais le secteur reste agité.</p>
+<ul>
+<li><a href="https://www.actuia.com/actualite/nvidia-rappelle-jensen-huang-a-sa-tete-onze-jours-apres-sa-demission/">ActuIA – Nvidia rappelle Jensen Huang à sa tête onze jours après sa démission</a></li>
+<li><a href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/">TechCrunch – Nvidia reverses course and brings Jensen Huang back as CEO</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Après une réponse de l'IA, demandez : « Quelles hypothèses as-tu faites pour répondre, et lesquelles dois-je vérifier ? » Vous verrez ce qu'elle a deviné.</p>]]></description>
-      <content:encoded><![CDATA[<p>Ce lundi : des agents de code mis à l'épreuve, des fournisseurs d'IA à bas prix piratés, des assistants dans vos messages, un guetteur de pages web et un débat sur la vitesse de la course à l'IA.</p>
-<h3>Agents de code : moins d'une tâche sur dix terminée</h3>
-<p>Dans une entreprise de logiciels simulée, avec collègues, tableau de tâches et historique de discussions, même les meilleurs modèles ont mené à bien moins d'une tâche sur dix. Pour vous : l'IA aide très bien ponctuellement, mais garde un humain pour la vue d'ensemble et la relecture.</p>
-<ul><li><a href="https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/">The Decoder – AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace</a></li></ul>
-<h3>Fournisseurs d'IA bon marché : données exposées</h3>
-<p>Des chercheurs ont trouvé au moins trois intermédiaires compromis, où des pirates récupéraient des clés d'accès et des requêtes. Pour vous : méfiez-vous des outils d'IA obscurs et ne collez jamais de mot de passe ou de clé dans une conversation.</p>
-<ul><li><a href="https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/">The Decoder – Security researchers show how cheap AI inference providers steal keys and snoop on users</a></li></ul>
-<h3>Des assistants IA dans vos messages</h3>
-<p>Une vingtaine d'assistants fonctionnent par iMessage, WhatsApp, SMS ou Telegram et se branchent à vos courriels et agendas ; certains agissent seuls. Pour vous : vérifiez s'ils demandent votre accord avant d'agir et séparez comptes perso et pro.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/">TechCrunch – Here are the top AI agents that can live in your text messages</a></li></ul>
-<h3>Perplexity Monitor, l'alerte intelligente</h3>
-<p>Ce service surveille des recherches ou des pages web et ne prévient que si un changement est vraiment pertinent. Pour vous : réservé aux développeurs pour l'instant, mais l'idée servira à suivre les mises à jour d'un outil ou d'une page d'aide.</p>
-<ul><li><a href="https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/">The Decoder – Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog</a></li></ul>
-<h3>OpenAI : une limite commune pour la course à l'IA</h3>
-<p>Le directeur scientifique d'OpenAI propose que les entreprises s'accordent sur un seuil de puissance à ne pas dépasser tant que le contrôle des systèmes n'a pas progressé. Pour vous : rien ne change aujourd'hui, mais ce débat nourrira les futures règles.</p>
-<ul><li><a href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/">TechCrunch – OpenAI's chief scientist has thoughts on how to limit AI development</a></li></ul>
+<p>Quand l'IA cite des sources ou des références, demandez-lui : « pour chaque référence, es-tu certaine qu'elle existe et comment la vérifier ? », puis contrôlez vous-même les deux ou trois éléments importants.</p>]]></description>
+      <content:encoded><![CDATA[<p>Au programme : ChatGPT mis à jour, un outil pour relire le code, Google qui puise dans vos documents, une alerte confidentialité, une sanction pour des références inventées par l'IA et le retour du patron de Nvidia.</p>
+<h3>ChatGPT passe à GPT-6.2 Sol</h3>
+<p>OpenAI déploie dans le monde entier une nouvelle version du mode conversation de ChatGPT, meilleure sur les questions complexes, la recherche web et les images. Elle est réservée aux offres Plus, Pro, Business et Enterprise. Pour vous : essayez-la sur vos captures d'écran de bugs, mais gardez en tête que les chiffres viennent d'OpenAI seul.</p>
+<ul>
+<li><a href="https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/">The Decoder – OpenAI updates ChatGPT to handle complex everyday questions, web searches and images more reliably</a></li>
+</ul>
+<h3>Anthropic lance Claude Ship</h3>
+<p>Des assistants relisent les modifications de code, corrigent les tests en échec et peuvent approuver selon des règles écrites en langage courant, pour les équipes Team et Enterprise sur GitHub. Pour vous : cela peut changer la validation des livraisons ; commencez en mode observation sur un seul projet.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/">TechCrunch – Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</a></li>
+</ul>
+<h3>Le mode IA de Google s'ouvre à Drive et Wallet</h3>
+<p>Le mode IA de la recherche Google peut s'appuyer sur vos documents Drive et vos données Wallet, de façon facultative, et en lecture seule pour Wallet. Pour vous : vérifiez quelles applications sont connectées et déconnectez les inutiles.</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/">TechCrunch – Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses</a></li>
+</ul>
+<h3>Fuites chez des hébergeurs d'IA « zéro conservation »</h3>
+<p>Une expérience de Dragos a montré que des messages envoyés à des services annonçant ne rien conserver avaient fuité. OpenRouter a exclu trois fournisseurs et retiré 125 points d'accès de son option. Pour vous : ne collez jamais mots de passe, clés ou données clients dans une IA, et renouvelez les clés concernées.</p>
+<ul>
+<li><a href="https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/">ActuIA – OpenRouter durcit son option Zero Data Retention après l'enquête de Dragos</a></li>
+</ul>
+<h3>Une avocate écartée pour des références inventées</h3>
+<p>La Cour européenne des droits de l'homme a interdit pendant deux ans à une avocate roumaine de la représenter : ses textes, rédigés avec l'IA, citaient des affaires inexistantes. Pour vous : relisez et vérifiez tout ce que vous envoyez, c'est vous qui en répondez.</p>
+<ul>
+<li><a href="https://www.actuia.com/actualite/la-cedh-ecarte-pour-deux-ans-une-avocate-qui-citait-une-jurisprudence-inventee-par-lia/">ActuIA – La CEDH écarte pour deux ans une avocate qui citait une jurisprudence inventée par l'IA</a></li>
+</ul>
+<h3>Jensen Huang revient à la tête de Nvidia</h3>
+<p>Onze jours après son départ, le conseil l'a rappelé à l'unanimité ; l'action a bondi d'environ un tiers et des enquêtes continuent. Pour vous : pas d'effet direct, mais le secteur reste agité.</p>
+<ul>
+<li><a href="https://www.actuia.com/actualite/nvidia-rappelle-jensen-huang-a-sa-tete-onze-jours-apres-sa-demission/">ActuIA – Nvidia rappelle Jensen Huang à sa tête onze jours après sa démission</a></li>
+<li><a href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/">TechCrunch – Nvidia reverses course and brings Jensen Huang back as CEO</a></li>
+</ul>
 <h3>Conseil du jour</h3>
-<p>Après une réponse de l'IA, demandez : « Quelles hypothèses as-tu faites pour répondre, et lesquelles dois-je vérifier ? » Vous verrez ce qu'elle a deviné.</p>]]></content:encoded>
-      <itunes:summary>Les agents de code finissent moins d'une tâche sur dix dans une entreprise simulée, des fournisseurs d'IA bon marché compromis exposent des données, des assistants IA s'installent dans vos messages, Perplexity lance un guetteur de pages web, et OpenAI propose une limite commune à la course à la puissance. Conseil : demander à l'IA quelles hypothèses elle a faites.</itunes:summary>
-      <guid isPermaLink="false">2026-11-23-4234be0a</guid>
-      <pubDate>Mon, 23 Nov 2026 05:11:51 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-23.mp3?v=4234be0a" length="1337760" type="audio/mpeg"/>
-      <itunes:duration>222</itunes:duration>
+<p>Quand l'IA cite des sources ou des références, demandez-lui : « pour chaque référence, es-tu certaine qu'elle existe et comment la vérifier ? », puis contrôlez vous-même les deux ou trois éléments importants.</p>]]></content:encoded>
+      <itunes:summary>Une nouvelle version de ChatGPT pour les abonnés, Claude Ship pour relire et valider le code, le mode IA de Google qui puise dans Drive et Wallet, une alerte sur la confidentialité de services d'IA, une avocate sanctionnée pour des références inventées, et le retour de Jensen Huang chez Nvidia. Conseil : faire vérifier les références citées par l'IA.</itunes:summary>
+      <guid isPermaLink="false">2026-11-24-8ff73fcb</guid>
+      <pubDate>Tue, 24 Nov 2026 06:06:24 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-24.mp3?v=8ff73fcb" length="957600" type="audio/mpeg"/>
+      <itunes:duration>159</itunes:duration>
     </item>
   </channel>
 </rss>
