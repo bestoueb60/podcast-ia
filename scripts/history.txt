@@ -12,3 +12,4 @@
 2026-11-25 : Artifacts Claude en applications de bureau ; MCP plus autonome ; Five9 rachète Level AI ; New York interdit les jouets à chatbot ; agents IA et sites marchands ; employés inquiets de modèles trop puissants ; conseil : faire créer un outil de checklist
 2026-11-26 : OpenAI Private Inference ; Google Workspace MCP ; Character.AI enchères et Talkie retiré ; étude Anthropic freins de l'IA au travail ; Amazon et Meta Muse ; conseil : réécrire une réponse de support en trois versions
 2026-11-27 : ChatGPT fusionne Chat et Work ; étude agents IA échecs ; Walmart et Meta Muse Black Friday ; Microsoft et Artex attaques rapides ; Maple IA privée ; SAP suppressions de postes ; conseil : poser trois fois la même question
+2026-11-28 : Mousquetaires déploie Claude ; guide HAS-CNIL IA en santé ; MiniMax et liens conservés ; GPT-6.2 limites plus vite atteintes ; GTA 6 et agents de code ; OpenAI Athena et procès Apple ; conseil : faire jouer un utilisateur débutant
