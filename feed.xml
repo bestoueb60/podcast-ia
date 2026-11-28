@@ -8,7 +8,7 @@
     <itunes:author>Le Brief IA</itunes:author>
     <itunes:image href="https://bestoueb60.github.io/podcast-ia/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 28 Nov 2026 06:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:13:43 +0000</lastBuildDate>
     <item>
       <title>Le Brief IA – samedi 28 novembre 2026</title>
       <description><![CDATA[<p>Mousquetaires déploie Claude dans 500 magasins dès janvier ; la HAS et la CNIL publient un guide sur l'IA en santé ; un test montre que des services d'IA ont conservé des liens malgré la promesse de ne rien garder ; les limites d'usage de ChatGPT sont atteintes plus vite après une correction de facturation ; des développeurs utilisent des assistants de code pour porter GTA 6 sur PC ; OpenAI prépare Athena et riposte en justice contre Apple. Conseil du jour : demander à l'IA de jouer un utilisateur débutant pour relire un texte.</p><p>Un samedi entre grande distribution, santé, confidentialité et jeux vidéo : voici l'actu IA du jour.</p>
@@ -54,10 +54,10 @@
 <h3>Conseil du jour</h3>
 <p>Demandez à votre IA : « Joue un utilisateur débutant qui lit ce texte. Qu'est-ce qui te bloque ? Pose-moi trois questions. » Idéal pour un message d'erreur ou une réponse de support.</p>]]></content:encoded>
       <itunes:summary>Mousquetaires déploie Claude dans 500 magasins dès janvier ; la HAS et la CNIL publient un guide sur l'IA en santé ; un test montre que des services d'IA ont conservé des liens malgré la promesse de ne rien garder ; les limites d'usage de ChatGPT sont atteintes plus vite après une correction de facturation ; des développeurs utilisent des assistants de code pour porter GTA 6 sur PC ; OpenAI prépare Athena et riposte en justice contre Apple. Conseil du jour : demander à l'IA de jouer un utilisateur débutant pour relire un texte.</itunes:summary>
-      <guid isPermaLink="false">2026-11-28-40e96dd7</guid>
-      <pubDate>Sat, 28 Nov 2026 06:13:27 +0000</pubDate>
-      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-28.mp3?v=40e96dd7" length="1278144" type="audio/mpeg"/>
-      <itunes:duration>213</itunes:duration>
+      <guid isPermaLink="false">2026-11-28-cef99c60</guid>
+      <pubDate>Sat, 28 Nov 2026 06:13:39 +0000</pubDate>
+      <enclosure url="https://bestoueb60.github.io/podcast-ia/episodes/2026-11-28.mp3?v=cef99c60" length="1355616" type="audio/mpeg"/>
+      <itunes:duration>225</itunes:duration>
     </item>
   </channel>
 </rss>
